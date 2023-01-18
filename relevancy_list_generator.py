@@ -4,7 +4,11 @@ import find_file_path
 import openai
 import unicode_converter
 import ast
-openai.api_key = variables.openAPIKey
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 from revChatGPT.ChatGPT import Chatbot
 
 def generate_list2(category):

@@ -4,7 +4,11 @@ import json
 import openai
 import find_file_path
 
-openai.api_key = variables.openAPIKey
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 testPrompts = {
     "classification": "Determine what the topics of this article are, make a list and respond with them. Then provide a binary answer of if any those topics are related to Space or not with 0 representing no and 1 representing yes. Article : ",

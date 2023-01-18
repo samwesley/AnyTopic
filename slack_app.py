@@ -1,6 +1,11 @@
 from slack_bolt import App
 import json
 import slack_block_builder
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+slack_key = os.getenv("SAM_SLACK_KEY")
 # Initializes your app with your bot token and socket mode handler
 
 
@@ -12,8 +17,8 @@ def findUserDetails(userEmail):
         for user in data["users"]:
             if user["email"] == userEmail:
                 channel = user["slack"]["channel"]
-                slackKey = user["slack"]["key"]
-                return channel, slackKey
+                slack_key = user["slack"]["key"]
+                return channel, slack_key
 
 
 

@@ -6,7 +6,11 @@ import os
 import find_file_path
 import variables
 
-openai.api_key = variables.openAPIKey
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def getSummary(text):
     intro = "Extract the key points from the following article and write them in a 2-4 sentence summary used for an email newsletter. Only respond with the summary. Do not uses any header, only write the summary. Article : "
