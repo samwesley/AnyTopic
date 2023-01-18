@@ -1,0 +1,60 @@
+Momentus: Celebrating a Year of Progress with More to Come in 2023
+FREE Breaking News Alerts from StreetInsider.com! 
+StreetInsider.com Top Tickers, 12/31/2022  SAN JOSE, Calif.--(BUSINESS WIRE)--
+Momentus Inc. (NASDAQ: MNTS) ("Momentus" or the "Company"), a U.S. commercial space company that offers transportation and other in-space infrastructure services, is wrapping up 2022 with significant accomplishments and a focus on taking strides toward achieving its vision in 2023.
+ 
+“2022 was a big year for Momentus. We conducted our first mission, delivered eight customer payloads to orbit, expanded our services to new geographies, signed service agreements with civil and commercial customers, and continued to test and advance our technology to support the future of space infrastructure,” said Momentus Chief Executive Officer John Rood. “As we look ahead to next year, our focus remains on delivering for our customers, testing our technologies in space, and innovating our services to meet the needs of a thriving space economy.”
+ 
+First Flight
+ 
+Momentus established initial flight heritage of its Vigoride Orbital Service Vehicle (OSV) that launched on the SpaceX Transporter-5 mission in May 2022. Vigoride welcomed payloads for FOSSA Systems, Orbit NTNU, and California State Polytechnic University among its customers. FOSSA’s payload featured multiple picosatellites as part of a constellation to provide global and real-time Internet of Things (IoT) connectivity for industrial applications. Orbit NTNU’s payload, SelfieSat, supported a student-led initiative from Norway. California State Polytechnic University’s payload, BroncoSat-1, featured a technology demonstration. In total, Momentus deployed eight satellites from its Vigoride OSV and a third-party deployer.
+ 
+New Business
+ 
+Momentus secured multiple new agreements in 2022 to serve the needs of low-Earth orbit customers, including NASA, LuxSpace, CUAVA, and CONTEC CO. These customers join a backlog of others scheduled to fly with Momentus in 2023.
+ 
+In addition to these contracts, Momentus and Sidus Space signed a Memorandum of Understanding (MOU) to explore launching LizzieSat™ satellites onboard Vigoride. The MOU also seeks to foster collaboration between the two companies to use their joint capabilities to seek new opportunities together, expanding both firms’ reach.
+ 
+Advancing Technology
+ 
+The Momentus team continued to develop and test its technology this year with a focus on integrating lessons learned from the inaugural mission, including comprehensive ground testing of Vigoride’s solar arrays and Microwave Electrothermal Thruster (MET).
+ 
+“We made improvements to our systems following continued ground testing, and after applying the lessons we learned from our first mission,” said Rood.
+ 
+The team also accelerated work related to the TApe Spring Solar Array (TASSA). These large sheets of flexible solar cells are bonded to tape springs. To stow, they are tightly coiled around a mandrel. After launch, motors unroll the mandrel, deploying the solar array.
+ 
+“Momentus has patented the principles behind TASSA, and we aim to demonstrate it in 2023,” said Momentus Chief Technology Officer Rob Schwarz. “TASSA can coil around a 4'' diameter mandrel, compared to the 12'' ones used for other rollout solar arrays. It can also experience thermal distortions without buckling. We anticipate creating operational and cost efficiencies with this technology.”
+ 
+In addition, technology development to support Rendezvous and Proximity Operations has advanced, including a successful design review in October with Momentus’ technology partners. The team is looking forward to a flight demonstration with Vigoride-7 targeted to launch on the SpaceX Transporter-8 mission, slated for June 2023. Rendezvous and Proximity Operations will enable future Vigoride vehicles to interact with other objects in space, paving the way for a next-generation reusable OSV and in-space services such as debris removal, end-of-life de-orbit, relocation, and mission enhancement.
+ 
+Developing the Team
+ 
+The Company further developed its leadership team by welcoming seasoned aerospace and technology industry executives who bring unrivaled talent and experience in shaping successful outcomes for civil and military government and commercial programs. Strategic executive new hires in 2022 included:
+ 
+“The team we put in place in 2022 will be integral to our future success,” said Rood. “Our leadership team is experienced in driving results, and they are supported by a talented, technically savvy, and enthusiastic group of employees. People are the story behind successful technology, and I have tremendous confidence in our team.”
+ 
+Looking Ahead
+ 
+Momentus has signed Launch Services Agreements with SpaceX to reserve space on the next four Transporter rideshare missions that are targeted to occur in 2023. The next Vigoride OSV is slated to fly on the SpaceX Transporter-6 mission, targeted for launch in January 2023.
+ 
+This flight will mark Momentus’ second demonstration mission of its Vigoride OSV. Mission priorities include hosting Caltech’s Space-based Solar Power Project payload, deploying Qosmosys’ Zeus-1 payload, and testing Vigoride’s performance in space, particularly related to its MET propulsion. The MET is designed to use water as a propellant and produce thrust by expelling extremely hot gases through a rocket nozzle. However, unlike a conventional chemical rocket engine, which creates thrust through a chemical reaction, the MET is designed to create a plasma and thrust using microwave energy. Using the MET, Momentus aims to offer cost-effective, efficient, safe, and environmentally friendly propulsion to meet the demands for in-space transportation and infrastructure services. The Vigoride OSV and its MET are next-generation systems enhanced from the previous versions that flew on the Company’s first demonstration mission earlier this year.
+ 
+“Momentus is rallying around its near-term focus of demonstrating the capabilities of its initial services in low-Earth orbit,” said Rood. “In 2023, we’ll continue to develop our technology to build reliability, flexibility, and responsiveness to the critical mission demands of the industry like de-orbiting, in-space satellite maintenance and repair, and other advanced in-space transportation and infrastructure services.”
+ 
+About Momentus
+ 
+Momentus is a U.S. commercial space company that offers in-space infrastructure services, including in-space transportation, hosted payloads and in-orbit services. Momentus believes it can make new ways of operating in space possible with its in-space transfer and service vehicles that will be powered by an innovative water plasma-based propulsion system that is under development.
+ 
+Forward-Looking Statements
+ 
+This press release contains certain statements which may constitute “forward-looking statements” for purposes of the federal securities laws. Forward-looking statements include, but are not limited to, statements regarding Momentus or its management team’s expectations, hopes, beliefs, intentions or strategies regarding the future, projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, and are not guarantees of future performance. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict and many of which are outside of Momentus’ control. Many factors could cause actual future events to differ materially from the forward-looking statements in this press release, including but not limited to risks and uncertainties included under the heading “Risk Factors” in the Annual Report on Form 10-K filed by the Company on March 9, 2022, as such factors may be updated from time to time in our other filings with the Securities and Exchange Commission (the "SEC"), accessible on the SEC’s website at www.sec.gov and the Investor Relations section of our website at investors.momentus.space. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and, except as required by law, the Company assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise.
+  View source version on businesswire.com: https://www.businesswire.com/news/home/20221230005194/en/ 
+Investors
+Darryl Genovesi at [email protected]
+ 
+Media
+Jessica Pieczonka at [email protected]
+ Source: Momentus Inc. Receive full access to all new and archived articles, unlimited portfolio tracking, e-mail alerts, custom newswires and RSS feeds - and more!
+
+
+

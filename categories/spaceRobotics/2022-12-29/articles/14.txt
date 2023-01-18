@@ -1,0 +1,92 @@
+Watch the Latest Water Satellite Unfold Itself in Space
+
+      Cameras on the Surface Water and Ocean Topography spacecraft captured the antennas for its main science instrument unfurling in orbit.
+     Two cameras aboard the Surface Water and Ocean Topography (SWOT) satellite captured the large mast and antenna panels of the spacecraft’s main science instrument deploying over four days, a process that was completed on Dec. 22, 2022. The masts, which unfold from opposite sides of the spacecraft, can be seen extending out from the spacecraft and locking in place, but the cameras stopped short of capturing the antennas at the ends of the masts being fully deployed (a milestone the team confirmed with telemetry data). This video places the two camera views side by side. The Surface Water and Ocean Topography (SWOT) satellite launched into Earth orbit on Friday, Dec. 16, from Vandenberg Space Force Base in central California, and engineers are working to prepare the mission to begin measuring the height of water on over 90% of Earth’s surface, providing a high-definition survey of our planet’s water for the first time. But before it can do that, the satellite would need to unfold its large mast and antenna panels (see above) after successfully deploying the solar panel arrays that power the spacecraft. The mission monitors and controls the satellite using telemetry data, but it also equipped spacecraft with four customized commercial cameras to record the action. The solar arrays fully deployed shortly after launch, taking about 10 minutes. This series of images shows the deployment of the solar arrays that power the international Surface Water and Ocean Topography (SWOT) satellite. The mission, led by NASA and the French space agency Centre National d’Études Spatiales (CNES), captured the roughly 10-minute process with two of the four commercial cameras aboard the satellite (the same type used to capture NASA’s Perseverance rover landing on Mars). SWOT launched Dec. 16, 2022, at 3:46 a.m. PST from Vandenberg Space Force Base in California, and the arrays started their deployment at 5:01 a.m. PST. The antennas successfully deployed over four days, a process that was completed on Dec. 22. The two cameras focused on the KaRIn antennas captured the mast extending out from the spacecraft and locking in place but stopped short of capturing the antennas being fully deployed (a milestone the team confirmed with telemetry data.) Thirty-three feet (10 meters) apart, at either end of the mast, the two antennas belong to the groundbreaking Ka-band Radar Interferometer (KaRIn) instrument. Designed to capture precise measurements of the height of water in Earth’s freshwater bodies and the ocean, KaRIn will see eddies, currents, and other ocean features less than 13 miles (20 kilometers) across. It will also collect data on lakes and reservoirs larger than 15 acres (62,500 square meters) and rivers wider than 330 feet (100 meters) across. This illustration shows the SWOT spacecraft with its antenna mast and solar arrays fully deployed. KaRIn will do this by bouncing radar pulses off the surface of water on Earth and receiving the signals with both of those antennas, collecting data along a swath that’s 30 miles (50 kilometers) wide on either side of the satellite. The data SWOT provides will help researchers and decision-makers address some of the most pressing climate questions of our time and help communities prepare for a warming world. Get the Latest JPL News SWOT was jointly developed by NASA and the French space agency Centre National d’Études Spatiales (CNES), with contributions from the Canadian Space Agency (CSA) and the UK Space Agency. JPL, which is managed for NASA by Caltech in Pasadena, California, leads the U.S. component of the project. For the flight system payload, NASA is providing the Ka-band Radar Interferometer (KaRIn) instrument, a GPS science receiver, a laser retroreflector, a two-beam microwave radiometer, and NASA instrument operations. CNES is providing the Doppler Orbitography and Radioposition Integrated by Satellite (DORIS) system, the dual frequency Poseidon altimeter (developed by Thales Alenia Space), the KaRIn radio-frequency subsystem (together with Thales Alenia Space and with support from the UK Space Agency), the satellite platform, and ground operations. CSA is providing the KaRIn high-power transmitter assembly. NASA is providing the launch vehicle and the agency’s Launch Services Program, based at Kennedy Space Center, is managing the associated launch services. To learn more about SWOT, visit: https://swot.jpl.nasa.gov/ Jane J. Lee / Andrew Wang Jet Propulsion Laboratory, Pasadena, Calif. 818-354-0307 / 626-379-6874 jane.j.lee@jpl.nasa.gov / andrew.wang@jpl.nasa.gov 
+      2022-211
+     
+          Earth
+          . 
+      NASA Awards Launch Services Contract for Sentinel-6B Mission
+     
+          Earth
+          . 
+      NASA Launches International Mission to Survey Earth’s Water
+     
+          Climate Change
+          . 
+      NASA Sensors to Help Detect Methane Emitted by Landfills
+     
+          Earth
+          . 
+      Latest International Water Satellite Packs an Engineering Punch
+     
+          Earth
+          . 
+      Water-Tracking SWOT Satellite Encapsulated in Rocket Payload Fairing
+     
+          Climate Change
+          . 
+      Water Mission to Gauge Alaskan Rivers on Front Lines of Climate Change
+     
+          Earth
+          . 
+      NASA Sets Coverage for SWOT Water Survey Mission Launch
+     
+          Earth
+          . 
+      Meet the People Behind the SWOT Water-Tracking Satellite
+     
+          Climate Change
+          . 
+      NASA Study: Rising Sea Level Could Exceed Estimates for U.S. Coasts
+     
+          Earth
+          . 
+      5 Things to Know About How SWOT Will Look at the World’s Water
+     
+            Image
+            . 
+          Eriskay Island, Scotland
+         
+            Image
+            . 
+          Airborne NASA Radar Maps Mauna Loa Lava Changes in Hawaii
+         
+            Mission
+            . 
+          Surface Water and Ocean Topography
+         
+            Image
+            . 
+          Satellite Data Shows Ground Motion From Mauna Loa Volcano Eruption
+         
+            Image
+            . 
+          Takawangha Volcano, Alaska
+         
+            Image
+            . 
+          NASA's AIRS Instrument Tracks Volcanic Sulfur Dioxide Plume from Mauna Loa Eruption
+         
+            Image
+            . 
+          SWOT Satellite will Improve Clarity and Detail of Sea Height Measurements
+         
+            Image
+            . 
+          EMIT Spots Methane Hotspots
+         
+            Image
+            . 
+          EMIT Methane Spectral Fingerprint
+         
+            Image
+            . 
+          Xochimilco, Mexico
+         
+        JPL is a federally funded research and development center managed for
+        NASA by Caltech.
+      
+
+
+

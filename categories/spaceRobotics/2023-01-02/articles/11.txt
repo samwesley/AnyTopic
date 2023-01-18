@@ -1,0 +1,159 @@
+What are companies doing with D-Wave’s quantum hardware? | Ars Technica
+Front page layout Site theme 
+John Timmer
+    -  Jan 2, 2023 12:00 pm UTC
+ While many companies are now offering access to general-purpose quantum computers, they're not currently being used to solve any real-world problems, as they're held back by issues with qubit count and quality. Most of their users are either running research projects or simply gaining experience with programming on the systems in the expectation that a future computer will be useful. There are quantum systems based on superconducting hardware that are being used commercially; it's just that they're not general-purpose computers. D-Wave offers what's called a quantum annealer. The hardware is a large collection of linked superconducting devices that use quantum effects to reach energetic ground states for the system. When properly configured, this end state represents the solution to a mathematical problem. Annealers can't solve the same full range of mathematical problems as general-purpose quantum computers, such as the ones made by Google, IBM, and others. But they can be used to solve a variety of optimization problems. While the systems can suffer from errors, the consequences are relatively minor, as they tend to leave the systems with a solution that is mathematically close to an optimal one. Unlike with general-purpose quantum computers, it hasn't been mathematically demonstrated that quantum annealers can consistently outperform traditional computers. But unlike general-purpose quantum computers, they have for several years had a high numbers of bits, good connectivity, and reasonable error rates. And a number of companies are now using them to solve real-world problems. One of the companies that relies on D-Wave's hardware is POLARISqb, which works in the field of drug discovery, identifying potential drug molecules in software for companies to test them in biological systems. Its general approach is widespread in the pharmaceutical industry: identify a disease caused by inappropriate activity of a protein, then find a molecule that alters the protein's function in a way that relieves the disease. If you know the three-dimensional structure of the protein and which parts of the protein are needed for its functions, you can use computer modeling to see how well drug molecules latch on to that part. That sort of modeling is computationally expensive, but it's still cheaper than synthesizing the molecule and testing it on cells. It's also part of POLARISqb's process—but it comes after using a quantum annealer, which is used to identify molecules to test with detailed modeling. "We design a virtual large chemical space, and we use a quantum computer to search that chemical space to find the best molecules," POLARISqb founder Shahar Keinan told Ars. The concept of "best" here goes well beyond molecules simply latching onto a protein well. "We're not just looking for molecules that have a single property; we're looking for molecules that will have a whole profile of properties that will give us what we're looking for," Keinan said. "The molecule cannot be too big or too small; the molecule has to be soluble enough, but not too soluble. The molecule has to have certain properties, like a number of hydrogen bond donors and acceptors." It also has to be something that can be synthesized relatively easily. Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. 
+  CNMN Collection
+  WIRED Media Group
+  © 2023 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+
+
+
+
+
+      In use    —
+
+What are companies doing with D-Wave’s quantum hardware?
+D-Wave's computers are especially good at solving optimization problems.
+
+
+John Timmer
+    -  Jan 2, 2023 12:00 pm UTC
+
+ 
+
+
+
+
+EnlargeGetty Images 
+
+
+reader comments
+61
+ with 0 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+
+While many companies are now offering access to general-purpose quantum computers, they're not currently being used to solve any real-world problems, as they're held back by issues with qubit count and quality. Most of their users are either running research projects or simply gaining experience with programming on the systems in the expectation that a future computer will be useful.
+There are quantum systems based on superconducting hardware that are being used commercially; it's just that they're not general-purpose computers.
+D-Wave offers what's called a quantum annealer. The hardware is a large collection of linked superconducting devices that use quantum effects to reach energetic ground states for the system. When properly configured, this end state represents the solution to a mathematical problem. Annealers can't solve the same full range of mathematical problems as general-purpose quantum computers, such as the ones made by Google, IBM, and others. But they can be used to solve a variety of optimization problems.
+While the systems can suffer from errors, the consequences are relatively minor, as they tend to leave the systems with a solution that is mathematically close to an optimal one.
+Unlike with general-purpose quantum computers, it hasn't been mathematically demonstrated that quantum annealers can consistently outperform traditional computers. But unlike general-purpose quantum computers, they have for several years had a high numbers of bits, good connectivity, and reasonable error rates. And a number of companies are now using them to solve real-world problems. 
+Advertisement 
+
+
+Drug searches
+One of the companies that relies on D-Wave's hardware is POLARISqb, which works in the field of drug discovery, identifying potential drug molecules in software for companies to test them in biological systems. Its general approach is widespread in the pharmaceutical industry: identify a disease caused by inappropriate activity of a protein, then find a molecule that alters the protein's function in a way that relieves the disease.
+If you know the three-dimensional structure of the protein and which parts of the protein are needed for its functions, you can use computer modeling to see how well drug molecules latch on to that part. That sort of modeling is computationally expensive, but it's still cheaper than synthesizing the molecule and testing it on cells. It's also part of POLARISqb's process—but it comes after using a quantum annealer, which is used to identify molecules to test with detailed modeling.
+"We design a virtual large chemical space, and we use a quantum computer to search that chemical space to find the best molecules," POLARISqb founder Shahar Keinan told Ars. The concept of "best" here goes well beyond molecules simply latching onto a protein well.
+"We're not just looking for molecules that have a single property; we're looking for molecules that will have a whole profile of properties that will give us what we're looking for," Keinan said. "The molecule cannot be too big or too small; the molecule has to be soluble enough, but not too soluble. The molecule has to have certain properties, like a number of hydrogen bond donors and acceptors." It also has to be something that can be synthesized relatively easily.
+
+Page: 1 2 3 Next →
+
+
+
+
+
+
+
+
+
+
+
+
+
+reader comments
+61
+ with 0 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+
+
+
+
+John Timmer
+      John became Ars Technica's science editor in 2007 after spending 15 years doing biology research at places like Berkeley and Cornell.     
+
+Email jtimmer@arstechnica.com
+//
+Twitter @j_timmer
+
+
+
+
+
+
+
+
+Advertisement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channel Ars Technica
+
+
+
+
+← Previous story Next story →
+
+
+
+
+Related Stories
+
+
+
+
+
+
+
+
+
+Today on Ars
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+Caltech launches space solar power technology demo into orbit - SpaceWatch.Global
+ Edinburgh, 5 January, 2022. – The Caltech Space Solar Power Project (SSPP) successfully launched a prototype into orbit atop SpaceX’s Transporter-6 mission. The Space Solar Power Demonstrator (SSPD) will test harvesting solar power in space and then beaming the energy back to Earth, Caltech said. Space solar power provides an unlimited supply of solar energy regardless of the cycles of day and night, seasons, and cloud cover. SSPP is planning to deploy a constellation of spacecraft to collect sunlight, transform it into electricity, and transmit it to wherever it is needed. The SSPD is a 50-kg spacecraft consisting of three main experiments. DOLCE (Deployable on-Orbit ultraLight Composite Experiment) will demonstrate the architecture, packaging scheme and deployment mechanisms of the modular spacecraft. ALBA, a collection of 32 different types of photovoltaic cells, will enable an assessment of the most effective types of cells. MAPLE (Microwave Array for Power-transfer Low-orbit Experiment) will demonstrate wireless power transmission at distance in space. SSPD also features a box of electronics that controls these three experiments. Currently, solar cells on Earth generate about 4% of the world’s electricity. The SSPP team aims to produce a global supply of affordable, renewable, clean energy, capable of the practical realization of space solar power. January 5, 2023 December 30, 2022 December 23, 2022 Our Space Café “33 minutes with Michael Byers” about the International open letter "Reducing risks from uncontrolled reentries of rocket bodies and other space objects" took place on Tuesday, 3rd January 2023. Michael Byers holds the Canada Research Chair in Global Politics and International Law at the University of British Columbia. 
+
+
+Caltech launches space solar power technology demo into orbit
+
+Engineers carefully lower the DOLCE portion of the Space Solar Power Demonstrator onto the Vigoride spacecraft built by Momentus. Credit: Caltech / Space Solar Power Project
+Edinburgh, 5 January, 2022. – The Caltech Space Solar Power Project (SSPP) successfully launched a prototype into orbit atop SpaceX’s Transporter-6 mission. The Space Solar Power Demonstrator (SSPD) will test harvesting solar power in space and then beaming the energy back to Earth, Caltech said.
+Space solar power provides an unlimited supply of solar energy regardless of the cycles of day and night, seasons, and cloud cover. SSPP is planning to deploy a constellation of spacecraft to collect sunlight, transform it into electricity, and transmit it to wherever it is needed.
+The SSPD is a 50-kg spacecraft consisting of three main experiments. DOLCE (Deployable on-Orbit ultraLight Composite Experiment) will demonstrate the architecture, packaging scheme and deployment mechanisms of the modular spacecraft. ALBA, a collection of 32 different types of photovoltaic cells, will enable an assessment of the most effective types of cells. MAPLE (Microwave Array for Power-transfer Low-orbit Experiment) will demonstrate wireless power transmission at distance in space. SSPD also features a box of electronics that controls these three experiments.
+Currently, solar cells on Earth generate about 4% of the world’s electricity. The SSPP team aims to produce a global supply of affordable, renewable, clean energy, capable of the practical realization of space solar power.
+
+
+Share
+
+ Facebook
+ Twitter
+ LinkedIn
+
+
+ 
+
+
+
+
+
+

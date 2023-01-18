@@ -1,0 +1,165 @@
+Busting a myth: Saturn V rocket wasn’t loud enough to melt concrete | Ars Technica
+Front page layout Site theme 
+Jennifer Ouellette
+    -  Dec 30, 2022 11:04 pm UTC
+ The 1967 Apollo 4 mission was an uncrewed flight to test the Saturn V rocket as a viable launch vehicle for future manned missions. The test was a smashing success and a critical step in the US space program. But the Saturn V was also incredibly loud—so loud that a rumor emerged claiming that the acoustic energy was sufficient to melt concrete. That is not the case, according to an August paper published in a special educational issue if the Journal of the Acoustical Society of America (JASA). "The Saturn V has taken on this sort of legendary, apocryphal status," said co-author Kenneth Gee of Brigham Young University. "We felt that, as part of the JASA special issue on Education in Acoustics, it was an opportunity to correct misinformation about this vehicle." In addition to the authors' analysis, the paper includes several problems for students to solve relating to the event—including a tongue-in-cheek problem involving using acoustic temperature to make a grilled cheese sandwich. German rocket scientist Wernher von Braun, who helped build the V-2 rocket, came to work for NASA in 1945 as part of Operation Paperclip. His job was to share his accumulated knowledge with the Army's rocket division. But when the Soviets launched Sputnik 1 in 1957, priorities shifted and von Braun's team was charged with developing an equivalent US rocket. The Juno 1 launched the first US satellite in January 1958, and served as a prototype for the Saturn series for deployment for Earth orbit and lunar missions.. The Apollo 4 mission launched with a Saturn V on November 9, 1967, at 7 AM EST. When the five F-1 engines ignited eight seconds before liftoff, the sound pressure produced was so powerful that the waves buffeted the Vehicle Assembly Building, Launch Control Center, and press buildings even though the launch pad was more than three miles (five kilometers) away. CBS reporter Walter Cronkite and his producer had to hold onto their trailer's observation window as ceiling tiles fell to the floor, fearing it would shatter from the noise. Cronkite later claimed it was the most frightening space mission he'd covered. As one observer of a Saturn V launch described it: "It's like continuous thunder, and when you think it can't get any louder, it does. I remember the vibration seeming to pass into my bones... The bird rises, the flames spew and the thunder continues, rising in pitch as it climbs, finally dissipating into a sound like a billion sheets of heavy paper being torn lengthwise for a whole minute." Something that memorable was bound to inspire a few exaggerated claims and unsubstantiated rumors over the ensuing decades. Gee et al. conducted a review of online forums and discussion boards, and were dismayed by the amount of disinformation that had proliferated on them. In addition to claiming the sound level was sufficient to melt concrete, there were claims that it lit "grass ablaze over a mile away," and was powerful enough to "ignite the hair of bystanders" and "blast rainbows from the sky." Per the authors, "Such claims elicit awe at the power of the vehicle that propelled humans to the Moon, but are nevertheless based on a flawed understanding of the true acoustic environment." Their analysis of that acoustic environment incorporates NASA footage of the Apollo 17 launch—digitized by the Discovery Channel for a 2008 documentary—in which sound waves can actually be seen shortly after engine ignition because of the humid atmosphere and backlighting. Their physics-based model pegged the acoustic level at 203 decibels. Per Gee, 170 dB is equivalent to ten aircraft engines, while 200 dB is equivalent to 10,000 aircraft engines. Given that the human threshold for pain is around 130 dB, that's pretty darn loud. It just wasn't loud enough to melt concrete or set grass on fire. Gee et al. think the myth evolved out of confusion between sound power (comparable to a light bulb's wattage) and sound pressure (akin to the brightness of a light bulb) This would lead to faulty attempts to calculate the acoustic power of a Saturn V launch. If it turns out that reports of burning grass or melting concrete are confirmed, it would more likely be caused by radiative heating from the plume or debris—not the sound of the Saturn V. DOI: Journal of the Acoustical Society of America, 2022. 10.1121/10.0013216  (About DOIs). Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. 
+  CNMN Collection
+  WIRED Media Group
+  © 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+
+
+
+
+
+      On the sixth day of Christmas    —
+
+Busting a myth: Saturn V rocket wasn’t loud enough to melt concrete
+It also wasn't loud enough to ignite grass or hair, or "blast rainbows from the sky."
+
+
+Jennifer Ouellette
+    -  Dec 30, 2022 11:04 pm UTC
+
+ 
+
+
+
+
+Enlarge / Scientists disproved a myth claiming the Saturn V rocket tested on the Apollo 4 mission in 1967 was loud enough to melt concrete.NASA/Getty Images 
+
+
+reader comments
+86
+ with 0 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+There's rarely time to write about every cool science-y story that comes our way. So this year, we're once again running a special Twelve Days of Christmas series of posts, highlighting one science story that fell through the cracks in 2022, each day from December 25 through January 5. Today: Busting the popular myth that the Saturn V launch was loud enough to melt concrete.
+
+The 1967 Apollo 4 mission was an uncrewed flight to test the Saturn V rocket as a viable launch vehicle for future manned missions. The test was a smashing success and a critical step in the US space program. But the Saturn V was also incredibly loud—so loud that a rumor emerged claiming that the acoustic energy was sufficient to melt concrete. That is not the case, according to an August paper published in a special educational issue if the Journal of the Acoustical Society of America (JASA).
+"The Saturn V has taken on this sort of legendary, apocryphal status," said co-author Kenneth Gee of Brigham Young University. "We felt that, as part of the JASA special issue on Education in Acoustics, it was an opportunity to correct misinformation about this vehicle." In addition to the authors' analysis, the paper includes several problems for students to solve relating to the event—including a tongue-in-cheek problem involving using acoustic temperature to make a grilled cheese sandwich.
+German rocket scientist Wernher von Braun, who helped build the V-2 rocket, came to work for NASA in 1945 as part of Operation Paperclip. His job was to share his accumulated knowledge with the Army's rocket division. But when the Soviets launched Sputnik 1 in 1957, priorities shifted and von Braun's team was charged with developing an equivalent US rocket. The Juno 1 launched the first US satellite in January 1958, and served as a prototype for the Saturn series for deployment for Earth orbit and lunar missions..
+The Apollo 4 mission launched with a Saturn V on November 9, 1967, at 7 AM EST. When the five F-1 engines ignited eight seconds before liftoff, the sound pressure produced was so powerful that the waves buffeted the Vehicle Assembly Building, Launch Control Center, and press buildings even though the launch pad was more than three miles (five kilometers) away. CBS reporter Walter Cronkite and his producer had to hold onto their trailer's observation window as ceiling tiles fell to the floor, fearing it would shatter from the noise. Cronkite later claimed it was the most frightening space mission he'd covered. As one observer of a Saturn V launch described it: 
+Advertisement 
+
+
+"It's like continuous thunder, and when you think it can't get any louder, it does. I remember the vibration seeming to pass into my bones... The bird rises, the flames spew and the thunder continues, rising in pitch as it climbs, finally dissipating into a sound like a billion sheets of heavy paper being torn lengthwise for a whole minute."
+Something that memorable was bound to inspire a few exaggerated claims and unsubstantiated rumors over the ensuing decades. Gee et al. conducted a review of online forums and discussion boards, and were dismayed by the amount of disinformation that had proliferated on them. In addition to claiming the sound level was sufficient to melt concrete, there were claims that it lit "grass ablaze over a mile away," and was powerful enough to "ignite the hair of bystanders" and "blast rainbows from the sky." Per the authors, "Such claims elicit awe at the power of the vehicle that propelled humans to the Moon, but are nevertheless based on a flawed understanding of the true acoustic environment."
+
+
+Apollo 17 was the final lunar landing for NASA's Apollo program. The Saturn V it launched on was SA-512, the twelfth of thirteen Saturn Vs to fly. 
+
+Apollo 17 was the final lunar landing for NASA's Apollo program. The Saturn V it launched on was SA-512, the twelfth of thirteen Saturn Vs to fly. 
+
+
+Their analysis of that acoustic environment incorporates NASA footage of the Apollo 17 launch—digitized by the Discovery Channel for a 2008 documentary—in which sound waves can actually be seen shortly after engine ignition because of the humid atmosphere and backlighting. Their physics-based model pegged the acoustic level at 203 decibels. Per Gee, 170 dB is equivalent to ten aircraft engines, while 200 dB is equivalent to 10,000 aircraft engines.
+Given that the human threshold for pain is around 130 dB, that's pretty darn loud. It just wasn't loud enough to melt concrete or set grass on fire. Gee et al. think the myth evolved out of confusion between sound power (comparable to a light bulb's wattage) and sound pressure (akin to the brightness of a light bulb) This would lead to faulty attempts to calculate the acoustic power of a Saturn V launch. If it turns out that reports of burning grass or melting concrete are confirmed, it would more likely be caused by radiative heating from the plume or debris—not the sound of the Saturn V.
+DOI: Journal of the Acoustical Society of America, 2022. 10.1121/10.0013216  (About DOIs).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reader comments
+86
+ with 0 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+
+
+
+
+Jennifer Ouellette
+      Jennifer Ouellette is a senior writer at Ars Technica with a particular focus on where science meets culture, covering everything from physics and related interdisciplinary topics to her favorite films and TV series.  Jennifer lives in Los Angeles.    
+
+Email jennifer.ouellette@arstechnica.com
+//
+Twitter @JenLucPiquant
+
+
+
+
+
+
+
+
+Advertisement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channel Ars Technica
+
+
+
+
+← Previous story Next story →
+
+
+
+
+Related Stories
+
+
+
+
+
+
+
+
+
+Today on Ars
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+block 1: 
+- Fincantieri and the Italian Hydrographic Institute of the Navy have reached an agreement for the building of a new research vessel
+- The hull will be built in Castellammare di Stabia within 24 months 
+- After completion, it will become part of the Ammiraglio Magnaghi active fleet
+- This is one of three vessels partially funded by EU funds to strengthen oceanographic research activities led by IHN 
+- The design has been optimized with advanced technologies to reduce acoustic emission, fuel consumption and impact on sea environment.

@@ -1,0 +1,162 @@
+Where 2022’s news was (mostly) good: The year’s top science stories | Ars Technica
+Front page layout Site theme 
+John Timmer
+    -  Dec 31, 2022 11:06 am UTC
+ How often does something work exactly as planned, and live up to its hype? In most of the world, that's the equivalent of stumbling across a unicorn that's holding a few winning lottery tickets in its teeth. But that pretty much describes our top science story of 2022, the successful deployment and initial images from the Webb Telescope. In fact, there was lots of good news to come out of the world of science, with a steady flow of fascinating discoveries and tantalizing potential tech—over 200 individual articles drew in 100,000 readers or more, and the topics they covered came from all areas of science. Of course, with a pandemic and climate change happening, not everything we wrote was good news. But as the top stories of the year indicate, our readers found interest in a remarkable range of topics. For better and worse, Anthony Fauci has become the public face of the pandemic response in the US. He's trusted by some for his personable, plain-spoken advice regarding how to manage the risks of infection—and vilified by others for his advocacy of vaccinations (plus a handful of conspiracy theories). So, when Fauci himself ended up on the wrong end of risk management and got a SARS-CoV-2 infection, that was news as well, and our pandemic specialist, Beth Mole, was there for it. It turned out the trajectory of his infection was a metaphor for the pandemic itself, where every silver lining seems to be delivered with a few additional gray clouds. Fauci took Paxlovid, a drug that was developed due to some very rapid scientific work that involved finding out the structure of viral proteins and then identifying molecules that could fit into that structure. As a result of its design, Paxlovid rapidly and effectively suppresses the SARS-CoV-2 infections that cause COVID-19. But once again, there are those gray clouds: once the treatment course runs out, many people experience a rebound of symptoms for reasons we're still working out. And Fauci was no exception, having symptoms severe enough that he went back on the drug to shut them down again—even though that's not been recommended by the Food and Drug Administration. Neutron stars are probably the most extreme objects in the Universe (black holes being more of an aberration in spacetime than an object, per se). They're places where the tallest "mountains" are less than a millimeter, and cracks in the crust can create violent bursts of radiation. They're also places where the interior is a superfluid of rapidly circulating subatomic particles. But in a handful of these stars, conditions get even more extreme, as any charged particles in the superfluidic interior can create a dynamo like the one in the Earth's core that creates our magnetic field. Except just a bit stronger. Well, as Paul Sutter details it, 1016 times stronger. These are the magnetars, a short-lived state of some neutron stars (they last about 10,000 years, which is short for astronomy). There are plenty of ways a neutron star can kill you, given its intense gravity and tendency to spew out lethal levels of radiation. But magnetars have an additional trick: they end chemistry. The magnetic fields are so strong that they can distort the atomic orbitals that determine how different atoms latch on to each other to form chemical bonds. Get within 1,000 kilometers or so of a magnetar, and that distortion gets so severe that the chemical bonds no longer function. All your atoms are left free to wander around as they see fit, which isn't generally conducive to life. This article was a personal rumination by Eric Berger, reflecting on the changes in NASA and the launch industry since he started covering both roughly two decades ago. For most of that time, NASA's budget has been dominated by the Space Launch System, which finally took its maiden flight this year, sending hardware to orbit the Moon and return for a flawless splashdown. In the wake of that launch, you might expect that the piece would focus on that success. Instead, Berger argued that the many failures of the program—countless delays and cost overruns—changed the entire launch industry, giving small companies like SpaceX and Blue Origin a chance to thrive while their entrenched competitors were focused on getting all they could out of SLS contracts. Without SLS's problems, Berger argues, the vehicles that will eventually see NASA to a successful future of crewed exploration might never have been built. Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox. 
+  CNMN Collection
+  WIRED Media Group
+  © 2022 Condé Nast. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 1/1/20) and Privacy Policy and Cookie Statement (updated 1/1/20) and Ars Technica Addendum (effective 8/21/2018). Ars may earn compensation on sales from links on this site. Read our affiliate link policy.
+Your California Privacy Rights | Do Not Sell My Personal Information
+  The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+
+
+
+
+
+
+      Good stuff    —
+
+Where 2022’s news was (mostly) good: The year’s top science stories
+Better urinals, older pants, and a helicopter on Mars, oh my!
+
+
+John Timmer
+    -  Dec 31, 2022 11:06 am UTC
+
+ 
+
+
+
+
+Enlarge / The self-portrait of Webb's mirrors is also looking very sharp thanks to the improved alignment.NASA/STScI 
+
+
+reader comments
+31
+ with 0 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+
+How often does something work exactly as planned, and live up to its hype? In most of the world, that's the equivalent of stumbling across a unicorn that's holding a few winning lottery tickets in its teeth. But that pretty much describes our top science story of 2022, the successful deployment and initial images from the Webb Telescope.
+In fact, there was lots of good news to come out of the world of science, with a steady flow of fascinating discoveries and tantalizing potential tech—over 200 individual articles drew in 100,000 readers or more, and the topics they covered came from all areas of science. Of course, with a pandemic and climate change happening, not everything we wrote was good news. But as the top stories of the year indicate, our readers found interest in a remarkable range of topics.
+10. Fauci on the rebound
+For better and worse, Anthony Fauci has become the public face of the pandemic response in the US. He's trusted by some for his personable, plain-spoken advice regarding how to manage the risks of infection—and vilified by others for his advocacy of vaccinations (plus a handful of conspiracy theories). So, when Fauci himself ended up on the wrong end of risk management and got a SARS-CoV-2 infection, that was news as well, and our pandemic specialist, Beth Mole, was there for it.
+It turned out the trajectory of his infection was a metaphor for the pandemic itself, where every silver lining seems to be delivered with a few additional gray clouds. Fauci took Paxlovid, a drug that was developed due to some very rapid scientific work that involved finding out the structure of viral proteins and then identifying molecules that could fit into that structure. As a result of its design, Paxlovid rapidly and effectively suppresses the SARS-CoV-2 infections that cause COVID-19.
+But once again, there are those gray clouds: once the treatment course runs out, many people experience a rebound of symptoms for reasons we're still working out. And Fauci was no exception, having symptoms severe enough that he went back on the drug to shut them down again—even though that's not been recommended by the Food and Drug Administration. 
+Advertisement 
+
+
+9. Fear the magnetar
+Neutron stars are probably the most extreme objects in the Universe (black holes being more of an aberration in spacetime than an object, per se). They're places where the tallest "mountains" are less than a millimeter, and cracks in the crust can create violent bursts of radiation. They're also places where the interior is a superfluid of rapidly circulating subatomic particles.
+But in a handful of these stars, conditions get even more extreme, as any charged particles in the superfluidic interior can create a dynamo like the one in the Earth's core that creates our magnetic field. Except just a bit stronger. Well, as Paul Sutter details it, 1016 times stronger. These are the magnetars, a short-lived state of some neutron stars (they last about 10,000 years, which is short for astronomy).
+There are plenty of ways a neutron star can kill you, given its intense gravity and tendency to spew out lethal levels of radiation. But magnetars have an additional trick: they end chemistry. The magnetic fields are so strong that they can distort the atomic orbitals that determine how different atoms latch on to each other to form chemical bonds. Get within 1,000 kilometers or so of a magnetar, and that distortion gets so severe that the chemical bonds no longer function. All your atoms are left free to wander around as they see fit, which isn't generally conducive to life.
+8. The SLS: a mixed triumph?
+This article was a personal rumination by Eric Berger, reflecting on the changes in NASA and the launch industry since he started covering both roughly two decades ago. For most of that time, NASA's budget has been dominated by the Space Launch System, which finally took its maiden flight this year, sending hardware to orbit the Moon and return for a flawless splashdown.
+In the wake of that launch, you might expect that the piece would focus on that success. Instead, Berger argued that the many failures of the program—countless delays and cost overruns—changed the entire launch industry, giving small companies like SpaceX and Blue Origin a chance to thrive while their entrenched competitors were focused on getting all they could out of SLS contracts. Without SLS's problems, Berger argues, the vehicles that will eventually see NASA to a successful future of crewed exploration might never have been built.
+
+Page: 1 2 3 Next →
+
+
+
+
+
+
+
+
+
+
+
+
+
+reader comments
+31
+ with 0 posters participating
+
+
+Share this story
+
+Share on Facebook
+Share on Twitter
+Share on Reddit
+
+
+
+
+
+
+
+John Timmer
+      John became Ars Technica's science editor in 2007 after spending 15 years doing biology research at places like Berkeley and Cornell.     
+
+Email jtimmer@arstechnica.com
+//
+Twitter @j_timmer
+
+
+
+
+
+
+
+
+Advertisement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Channel Ars Technica
+
+
+
+
+← Previous story 
+
+
+
+
+Related Stories
+
+
+
+
+
+
+
+
+
+Today on Ars
+
+
+
+
+
+
+
+
+

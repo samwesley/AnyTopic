@@ -1,0 +1,62 @@
+Eight companies join Catalyst Accelerator’s Int’l SDA cohort – SatNews
+SatNews January 1, 2023 Eight small businesses will come together from across the globe for the Catalyst Accelerator’s cohort focused on International Space Domain Awareness (SDA). The Catalyst Accelerator, powered by the Air Force Research Laboratory Space Vehicles Directorate (AFRL/RV), was developed to promote technology advancement for the warfighter and guide technology transfer for the government to industry and vice versa. With private sectors around the world accelerating new capabilities for Space Domain Awareness (SDA), the U.S. and its partners are interested in increasing the ability to support and enhance the awareness of the space environment with commercial data and tools for shared security and prosperity — both U.S. and international solutions, with commercial market viability, were sought out across a wide array of relevant technologies to participate in the Catalyst Accelerator’s International SDA cohort. The International Space Domain Awareness cohort met in-person for two weeks at a time over a three month period that started on August 9th of last year. Each company collaborated with subject matter experts, worked with government liaisons and commercial Sherpas, and completed an intensive customer discovery process. Each of the eight companies will receive grant funding, thanks to the Catalyst Accelerator’s corporate sponsor, ONE Dev. The cohort concluded with a Demo Day on November 3rd where the companies pitched their technology to government and industry partners. KiMar Gartman, Program Director for The Catalyst Accelerator, said, “The Catalyst Accelerator had applications from around the world for this Accelerator. It was exciting to read through the capabilities being developed on a global scale. We have selected eight companies that we feel will fit well together and offer capabilities that will assist the international effort to detect, track, and characterize space objects. We are looking forward to an amazing Accelerator session!” Capt Jake Singleton, SSC SDA Acquisition Delta, expressed, “As the acquisition arm of the US Space Force, Space Systems Command prioritizes global partnerships to deliver space capability for shared security. We recognize that space technology development today is accelerating in a global marketplace, and we are excited to bring together a cohort of companies from around the world to accelerate innovative dual-use SDA capabilities in that market.“ The Catalyst Accelerator team, with technical advisement from both government and industry experts, selected the following small businesses to participate in the upcoming International Space Domain Awareness cohort: About Catalyst AcceleratorThe Air Force Research Laboratory Space Vehicles Directorate and United States Space Force’s Catalyst Accelerator is a NewSpace-focused defense and national security industry accelerator, headquartered on the Catalyst Campus for Technology and Innovation (CCTI, a Colorado 501(c)3) in Colorado Springs, Colorado. CCTI is a collaborative ecosystem where industry, small business, entrepreneurs, startups, government, academia, and investors intersect with Colorado’s aerospace and defense industry to create community, spark innovation, and stimulate business growth. Author: Kate Menendez, Catalyst Accelerator Marketing Specialist Filed Under: AFRL, C4ISR, Catalyst Accelerator, Cohort, Commercial Space, In-Space Demo, Military, News, Robotics, Satellite Laser Ranging (SLR), SDA, SmallSat  
+Eight companies join Catalyst Accelerator’s Int’l SDA cohort
+January 1, 2023
+
+
+Eight small businesses will come together from across the globe for the Catalyst Accelerator’s cohort focused on International Space Domain Awareness (SDA).
+The Catalyst Accelerator, powered by the Air Force Research Laboratory Space Vehicles Directorate (AFRL/RV), was developed to promote technology advancement for the warfighter and guide technology transfer for the government to industry and vice versa. With private sectors around the world accelerating new capabilities for Space Domain Awareness (SDA), the U.S. and its partners are interested in increasing the ability to support and enhance the awareness of the space environment with commercial data and tools for shared security and prosperity — both U.S. and international solutions, with commercial market viability, were sought out across a wide array of relevant technologies to participate in the Catalyst Accelerator’s International SDA cohort.
+
+The International Space Domain Awareness cohort met in-person for two weeks at a time over a three month period that started on August 9th of last year. Each company collaborated with subject matter experts, worked with government liaisons and commercial Sherpas, and completed an intensive customer discovery process. Each of the eight companies will receive grant funding, thanks to the Catalyst Accelerator’s corporate sponsor, ONE Dev. The cohort concluded with a Demo Day on November 3rd where the companies pitched their technology to government and industry partners.
+
+
+KiMar Gartman, Program Director for The Catalyst Accelerator, said, “The Catalyst Accelerator had applications from around the world for this Accelerator. It was exciting to read through the capabilities being developed on a global scale. We have selected eight companies that we feel will fit well together and offer capabilities that will assist the international effort to detect, track, and characterize space objects. We are looking forward to an amazing Accelerator session!” Capt Jake Singleton, SSC SDA Acquisition Delta, expressed, “As the acquisition arm of the US Space Force, Space Systems Command prioritizes global partnerships to deliver space capability for shared security. We recognize that space technology development today is accelerating in a global marketplace, and we are excited to bring together a cohort of companies from around the world to accelerate innovative dual-use SDA capabilities in that market.“
+The Catalyst Accelerator team, with technical advisement from both government and industry experts, selected the following small businesses to participate in the upcoming International Space Domain Awareness cohort:
+
+Astrosite (Sydney, NSW, Australia) uses advanced high speed optical sensors and AI to rapidly deliver new insights into the space domain. Their neuromorphic sensors coupled with advanced AI techniques create unique data and insights for SDA and EO applications. The system is low power and produces only relevant data which enables their proprietary algorithms to rapidly produce unique insights from the ground or in space. Astrosite solutions enable the design of an agile global sensor network that can be redeployed in 24 hours. The system provides synchronized microsecond resolution across a network and creates digital fingerprints of resident space objects, these advanced characterization.
+
+
+
+
+Clutch Space Systems Limited (Guildford, United Kingdom) is leading the revolution for the next generation of spacecraft operations on low earth orbit, with persistent connectivity, and real-time situational awareness for tangible improvements in mission efficiency and utility. They are providing global coverage through their network of micro-ground stations, each with a simultaneous capacity of twenty satellites, for telemetry, tracking and control, and for real-time spacecraft situational awareness position and attitude.
+
+
+
+
+
+
+
+
+HEO Robotics (Sydney, Australia) has a mission to image anything within the Solar System on demand. They provide resolved images and analytics of space objects to governments and commercial satellite operators that provide critical insights, such as object identification, satellite damage assessment and more. They do this through using their flyby inspection technique, where they use Earth Observation (EO) satellites during their downtime to image other space objects as they fly past. They have 33 satellites that they have access to today and are building toward 2,500 cameras to provide ubiquitous and on-demand coverage of all Earth orbits.
+
+
+
+
+Katalyst Space Technologies (Flagstaff, Arizona) develops modular spacecraft designs and mission architectures that interact with on-orbit robotics to increase responsiveness, and mission flexibility. Katalyst’s mission is to advance innovations with in-space servicing and assembly while solving existing problems like space congestion and space traffic management. Katalyst’s retrofittable SDA module is designed to non-invasively attach to spacecraft without prepared interfaces to provide local awareness. The project is planned to launch a demonstration mission in May 2024. Katalyst also develops automated software for use with existing SDA infrastructure like ground and space-based sensors to characterize resident space objects for space, size, and attitude.
+
+
+
+
+
+
+
+
+Lumi Space (Yateley, United Kingdom) is enabling sustainable space activity for future generations with precise space surveillance data. They are deploying a global network of ground-based systems for satellite tracking, including Satellite Laser Ranging (SLR). By measuring the position of satellites in orbit precisely, they can predict their paths more accurately than existing methods. In doing this, they are critical to minimizing uncertainty in collision warnings and enabling exciting new space applications. They see data uncertainty as the biggest risk to global space activity, and a significant limiting factor for many novel space companies (active debris removal, in-space manufacturing, rendezvous, and proximity operations to name a few).
+
+
+
+
+Meta Mission Data (Lincoln, United Kingdom; Washington, DC) looks beyond sensors, terminals, and platforms to put data first in C4ISR mission effects. They combine deep operational ISR experience with mission-focused engineering across Tactical Data Links, complex Data Analytics, and Information Assurance to create adaptive solutions for multi-domain customers. Their unique Low Earth Orbit Airborne Space Surveillance Operations (LASSO) software optimizes traditional lookdown EO/IR camera systems for the detection, tracking, imaging, and classification of Resident Space Objects. LASSO delivers an innovative solution for Space Domain Awareness that can be rapidly re-tasked and networked into a game-changing global system for the Space sector.
+
+
+
+
+Silentium Defence (Adelaide, Australia) is a global leader in the design and deployment of passive radar systems for tactical and strategic surveillance scenarios. A disruptive technology, designed and developed in Australia, their unique situational awareness solutions enable customers to detect without compromise and act with confidence across sea, air, land, and space domains. Their MAVERICK S-series sensors provide the ability to persistently track objects across a wide arc of space, providing accurate, independent data for space traffic management. In an increasingly congested domain, MAVERICK S-series provides globally unique, cost-effective space surveillance data. Silentium Defence is on a mission to change the way the world does surveillance and help keep people, places, and critical assets safe.
+
+
+
+About Catalyst AcceleratorThe Air Force Research Laboratory Space Vehicles Directorate and United States Space Force’s Catalyst Accelerator is a NewSpace-focused defense and national security industry accelerator, headquartered on the Catalyst Campus for Technology and Innovation (CCTI, a Colorado 501(c)3) in Colorado Springs, Colorado. CCTI is a collaborative ecosystem where industry, small business, entrepreneurs, startups, government, academia, and investors intersect with Colorado’s aerospace and defense industry to create community, spark innovation, and stimulate business growth.
+Author: Kate Menendez, Catalyst Accelerator Marketing Specialist
+Filed Under: AFRL, C4ISR, Catalyst Accelerator, Cohort, Commercial Space, In-Space Demo, Military, News, Robotics, Satellite Laser Ranging (SLR), SDA, SmallSat 
+
+

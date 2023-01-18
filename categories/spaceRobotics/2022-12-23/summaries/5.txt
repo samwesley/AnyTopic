@@ -1,0 +1,6 @@
+block 1: 
+• Astrobotic Technology is a space robotics company that was founded in 2007 by Carnegie Mellon University alumnus, William "Red" Whittaker 
+• They develop robots for the purpose of exploring distant planets such as Mars and the Moon 
+• The goal of their mission is to make affordable planetary access available to everyone  
+• They have partnered with organizations such as NASA, ESA (European Space Agency), and JAXA (Japan Aerospace Exploration Agency) to create unmanned robotic payload solutions 
+• Astrobotic has been awarded over $3.5M from organizations like NASA which they use to design new lunar missions

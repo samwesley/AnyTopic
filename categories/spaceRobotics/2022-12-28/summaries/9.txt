@@ -1,0 +1,9 @@
+block 1: 
+
+In 2022, science made leaps and bounds in the physics world by questioning fundamental concepts like the Standard Model of Particle Physics, General Relativity, and Locomotion principles; which led to discoveries such as a new particle with no charge, two time dimensions instead of one, and movement without an opposite reaction force.
+block 2: The robot, named Draco (after the mythical dragon), moves by curving around three-dimensional curved surfaces.In what is known as a “flatland analogy”, this can be visualised in two-dimensions where it appears that Draco stretches and contracts parts of its body to propel itself forward – something demonstrably not possible on our flat surface.
+Draco achieved locomotion with just four degrees of freedom using five electrical motors for actuation (it has seven total).Read more
+
+Summary: In 2022, physicists faced some confounding experiments relating to quantum mechanics, black holes, dark matter and other fundamental physics concepts calling into question previous theories about particle mass and behavior. Experiments at FermiLab gave unexpected results regarding W bosons' mass; potential discovery of a "sterile neutrino" particle cast doubt on the Standard Model; tests of General Relativity called Einstein's works into question; creation of new phase of matter through a quantum computer showed time behaving differently than expected; machine learning algorithm inventing new physical variables whereas a robot moved in curved space defied Newton's third law.
+block 3: 
+This article describes a physics-defying robot that was built on a curved space and is able to move without exerting force onto its environment, potentially opening up possibilities for thrust-less space vehicles in the future.

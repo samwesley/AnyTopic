@@ -1,0 +1,31 @@
+{
+    "date": "2023-01-11",
+    "category": "cr",
+    "articles": {
+        "0": {
+            "text": "Officers work the scene where Illinois State Police followed four people in a stolen vehicle as they ran into a residential tower in the 1100 block of North Wells Street in the Chicago's River North neighborhood on Jan. 10, 2023. Two of the four suspects were taken into custody, state police said. (Armando L. Sanchez / Chicago Tribune)\n\nA SWAT situation on the city\u2019s North Side Tuesday was deemed \u201csecure\u201d by Illinois State Police as of 9:30 p.m. after suspects who fled from state police in a stolen vehicle in which AK-style rifles were found earlier Tuesday were said to be holed up in a condo building for several hours, police said.\n\nIllinois State Police troopers located the vehicle reported stolen out of Chicago on I-94 Tuesday afternoon, but the suspects fled the area in the vehicle before troopers could initiate a stop, Master Sgt. Delila Garcia, a spokesperson with the state police, said.\n\nAdvertisement\n\nThe vehicle was tracked to the condo building on the 1100 block of North Wells Street around 3:45 p.m., Garcia said. Four suspects reportedly fled into the building. Troopers recovered the stolen vehicle and found two AK-style rifles inside.\n\nAs of 9:30 p.m., state police said the \u201csituation is secure.\u201d\n\nAdvertisement\n\nStreets adjacent to the building had been blocked off as Chicago police SWAT and hostage negotiators were on the scene.",
+            "title": "SWAT situation \u2018secure\u2019 after suspects who fled state police in stolen vehicle were found holed up in condo building",
+            "keywords": [
+                "state",
+                "chicago",
+                "wells",
+                "north",
+                "situation",
+                "fled",
+                "stolen",
+                "building",
+                "troopers",
+                "suspects",
+                "condo",
+                "vehicle",
+                "swat",
+                "holed",
+                "secure"
+            ],
+            "link": "https://www.chicagotribune.com/news/breaking/ct-rifles-found-stolen-vehicle-suspects-condo-swat-20230111-nyephrht35amxkziqwvhafkabm-story.html",
+            "skip": "true",
+            "gpt_score_reason": "\n\n2/10",
+            "gpt_relevancy_score": 2
+        }
+    }
+}

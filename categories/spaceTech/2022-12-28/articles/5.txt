@@ -1,0 +1,33 @@
+Outlook 2023: Peter Gargone, n-Tier Financial Services - Traders Magazine
+Article: Peter Gargone is Founder and CEO of n-Tier Financial Services. What were the key themes for your business in 2022? The growth of our business in 2022 reflected a truism across the industry, which is an ever-increasing focus on regulatory reporting compliance. And the reason is apparent – the complexity of the challenge and the financial and reputational costs of failure are only going up. n-Tier saw more demand than ever for our entire suite of US regulatory reporting solutions – CAT, CAIS, LOPR, TRACE and EBS to name a few – with the last being a perfect example of why so many firms remain focused on this space. Even though CAT will eventually replace Blue Sheets for equities and listed options, EBS inquiries and enforcement have not slowed. With regulators growing more sophisticated and deploying new tactics to identify reporting issues and discrepancies, brokers recognize that they can’t afford to take their eye off the ball. What are your expectations for 2023? Vendor consolidation has long been a reality in other corners of the capital markets technology space, and we expect to see the same soon occur within the regulatory compliance technology segment given the costs and complexity that can be reduced. We also believe that at some point soon – possibly as soon as 2023 – enforcement in the UK and EU will become more similar to the US, with monetary penalties and disciplinary actions for things like inaccurate or incomplete regulatory reports, supervision failures or poor reconciliation and validation controls. We’re fortunate that both trends provide a nice tailwind to our business, but we know that our continued focus on technology execution and client service will be what ultimately drives our growth. What trends are getting underway that people may not know about but will be important? With the full universe of US market participants now fully reporting all order events and customer/account data to both CAT and CAIS, we’re seeing regulators shift their focus to data quality, targeting both accuracy and completeness and even leveraging other regulatory reports that overlap with CAT and CAIS to identify discrepancies. We expect this trend to continue as regulators expand their monitoring and analytical capabilities and FINRA makes CAT and CAIS a focal point of its examinations, sweeps and inquiries. 
+Article: 
+
+AMNewsDepartmentsRegulationTechnology
+
+Outlook 2023: Peter Gargone, n-Tier Financial Services
+
+By Editorial Staff -   December 28, 2022 
+
+
+
+ShareTweetShare
+Peter Gargone is Founder and CEO of n-Tier Financial Services.
+
+Peter Gargone
+What were the key themes for your business in 2022?
+The growth of our business in 2022 reflected a truism across the industry, which is an ever-increasing focus on regulatory reporting compliance. And the reason is apparent – the complexity of the challenge and the financial and reputational costs of failure are only going up. n-Tier saw more demand than ever for our entire suite of US regulatory reporting solutions – CAT, CAIS, LOPR, TRACE and EBS to name a few – with the last being a perfect example of why so many firms remain focused on this space. Even though CAT will eventually replace Blue Sheets for equities and listed options, EBS inquiries and enforcement have not slowed. With regulators growing more sophisticated and deploying new tactics to identify reporting issues and discrepancies, brokers recognize that they can’t afford to take their eye off the ball.
+What are your expectations for 2023?
+Vendor consolidation has long been a reality in other corners of the capital markets technology space, and we expect to see the same soon occur within the regulatory compliance technology segment given the costs and complexity that can be reduced. We also believe that at some point soon – possibly as soon as 2023 – enforcement in the UK and EU will become more similar to the US, with monetary penalties and disciplinary actions for things like inaccurate or incomplete regulatory reports, supervision failures or poor reconciliation and validation controls. We’re fortunate that both trends provide a nice tailwind to our business, but we know that our continued focus on technology execution and client service will be what ultimately drives our growth.
+What trends are getting underway that people may not know about but will be important?
+With the full universe of US market participants now fully reporting all order events and customer/account data to both CAT and CAIS, we’re seeing regulators shift their focus to data quality, targeting both accuracy and completeness and even leveraging other regulatory reports that overlap with CAT and CAIS to identify discrepancies. We expect this trend to continue as regulators expand their monitoring and analytical capabilities and FINRA makes CAT and CAIS a focal point of its examinations, sweeps and inquiries. 
+ShareTweetShare 
+
+
+
+
+
+Previous articleOutlook 2023: Peter Weiler & Steve Glass, Abel Noser Editorial Staff  
+
+Article: 
+Article: 
+Article: 

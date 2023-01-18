@@ -1,0 +1,77 @@
+{
+    "date": "2023-01-12",
+    "category": "cr",
+    "articles": {
+        "0": {
+            "text": "",
+            "title": "",
+            "keywords": "",
+            "link": "https://www.legacy.com/us/obituaries/name/michael-digioia-obituary%3Fid%3D38624879",
+            "skip": "true",
+            "gpt_score_reason": "\n\n8/10",
+            "gpt_relevancy_score": 8
+        },
+        "1": {
+            "text": "",
+            "title": "",
+            "keywords": "",
+            "link": "https://mlchicagosocial.com/valentines-day-chicago",
+            "skip": "true",
+            "gpt_score_reason": "\n\n9/10",
+            "gpt_relevancy_score": 9
+        },
+        "2": {
+            "text": "Jan. 11\u2014ARMAGH. Pa \u2014 United School District has confirmed that law enforcement has been contacted regarding an allegation that money raised by students for a marching band trip to Walt Disney World in Florida is missing.\n\nActing Superintendent Charles Koren addressed the issue during a regular monthly school board meeting on Tuesday.\n\n\"What I wish to say is that we are exploring all of the rumors, gathering information and that, even though that, yes, there was a suspension of fundraising activities with the group, we are working with all authorities \u2014 all authorities \u2014 so that they can investigate and do their job,\" Koren said. \"And then once the issue is fully investigated, then everything becomes official. It's not up to me as the acting superintendent to press the charges.\n\n\"That is a law enforcement role.\"\n\nThe trip to Disney World, scheduled for later this school year, is tentatively canceled, according to Koren.\n\nHe does not know yet what steps could be taken regarding the money or the trip.\n\n\"All of that is so early in this process, as far as the information coming to us, that we will have to gain more information and allow the professionals that are trained to do this do it, and then the actions will be taken,\" Koren said.\n\nLater, during an interview, Koren reiterated that law enforcement was contacted, but did not mention specific agencies.\n\nRumors are circulating about the amount of money missing, but Koren said it is \"absolutely impossible for me, as the acting superintendent, to even venture a guess\" during the interview.\n\nOne parent, Christy Normand, spoke during the meeting about the alleged missing money raised by the students through the booster organization.\n\n\"We all know they're not just rumors,\" Normand said. \"We all know what happened. We're not dumb.\"\n\nNormand said anybody found to have taken the money should be held \"absolutely 100% accountable.\"\n\nShe said some parents and alumni are prepared to start a GoFundMe page to raise money.\n\n\"We need to seek alternative routes or if the school board would be willing to budget some money around,\" Normand said. \"This was of no fault of the students. ... I just think something needs to be done by the school board.\"",
+            "title": "United schools chief: Money for band trip missing, investigation launched",
+            "keywords": [
+                "normand",
+                "investigation",
+                "band",
+                "launched",
+                "school",
+                "information",
+                "chief",
+                "money",
+                "law",
+                "schools",
+                "trip",
+                "know",
+                "superintendent",
+                "students",
+                "koren",
+                "united",
+                "missing",
+                "taken"
+            ],
+            "link": "https://news.yahoo.com/united-schools-chief-money-band-125100186.html",
+            "skip": "true",
+            "gpt_score_reason": "\n\n0/10",
+            "gpt_relevancy_score": 0
+        },
+        "3": {
+            "text": "Built in about 1918, the brick bungalow is three doors down from the North Branch of the Chicago River and a short walk to the Francisco stop on the CTA\u2019s Brown Line in Ravenswood Manor, all ingredients of a classic Chicago neighborhood setting.\n\nBut a succession of rehabs had removed nearly all vintage finishes inside. Eisenberg and Stillwell brought in an architect, Linda Kanoski of Crew Chicago, and a general contractor, Gary Marks of Gary Marks Builds, to help them right the past wrongs and expand the house appropriately.\n\n\u201cWe wanted to bring back the feeling of a bungalow,\u201d Eisenberg says. Along the way, some happy discoveries made that easier to do, as they pulled off modern finishes and found the originals still in place.\n\nEisenberg and Stillwell intended to move in with their two children when done with the rehab, but their family plans have changed. They\u2019re putting the five-bedroom bungalow on the market in the next few weeks. The asking price is $1.895 million. The Leigh Marcus Team at @properties Christie\u2019s International Real Estate has the listing.",
+            "title": "This bungalow\u2019s rehabbers refused to pop the top",
+            "keywords": [
+                "bungalow",
+                "pop",
+                "eisenberg",
+                "chicago",
+                "gary",
+                "way",
+                "weeks",
+                "bungalows",
+                "rehabbers",
+                "marks",
+                "refused",
+                "stillwell",
+                "finishes",
+                "wrongs"
+            ],
+            "link": "https://www.chicagobusiness.com/it-hits-market/ravenswood-manor-bungalow-sale",
+            "skip": "false",
+            "gpt_score_reason": "\n\n7/10",
+            "gpt_relevancy_score": 7,
+            "summary": "\n\nThis classic Chicago brick bungalow from 1918 was recently rehabbed by a couple with the intent to move in. After discovering many of the original finishes were still intact, they added modern features for an updated look and feel. The five bedroom home can now be bought for $1.895 million through @properties Christie\u2019s International Real Estate and is located near the North Branch of the Chicago River and close to public transit."
+        }
+    }
+}

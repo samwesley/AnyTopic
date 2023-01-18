@@ -1,0 +1,467 @@
+0 (0s):
+Alright everybody. It is Sunday, which means VC Sunday School. And this week in climate, what have we got on deck, Molly?
+
+1 (5s):
+Yes. Super interesting conversation in VBC Sunday School. We're gonna talk about Tam Sam and a new thing for both of us. Samm, S O m. And also just how to calculate the potential for growth in your startup in a way that's credible to investors.
+
+0 (23s):
+One of the most important discussions we have as founders and investors when we work together and collaborate on business building is what is the opportunity and the opportunity manifests itself in the total addressable markets. So we go very granular into examples of total addressable markets that were underestimated, and then lazy tams that were overestimated and why you as the founder can do a better job and nail this discussion with investors and maybe 10 Xer chances of getting an investment. And then for investors, this is the secret to how Sequoia and Benchmark hit two of the biggest hits of all time.
+
+0 (1m 4s):
+And I'm gonna explain in detail how they found two of the most important companies of the last 20 years by looking at the potential tam of these companies and getting it right.
+
+1 (1m 15s):
+And then I am going to talk to a founder who got it right and who wants to pursue an even bigger market opportunity. I've got Brian Halligan, the co-founder of HubSpot, who is now the founder of a new climate tech investment fund called Propeller Focus, specifically on the ocean.
+
+0 (1m 34s):
+Brian is amazing, he's been on the pod before, so congratulations on your second appearance for two different acts in your career. HubSpot, what a great accomplishment. And now Propeller really focused on the ocean, which is such an important part of the climate solutions. Food, transportation, God, the, the ocean is such an important platform and we'll get into that. It's gonna be a great show. Again, Molly, I gotta set.
+
+1 (1m 57s):
+It's so great. It's so great. Stick with us
+
+2 (2m 1s):
+This weekend. Startups is brought to you by House of Macadamias is the next big health trend. Get 20% off your first purchase@houseofmacadamias.com slash twist by using Code Twist 20 and age tech collaborative startups. Your go-to market team is waiting age tech collaboratives, cutting edge accelerator program connects you with investors test beds, like-minded innovators and industry expertise. They're taking age tech to the next level. Join them@agetechcollaborative.org slash twist.
+
+0 (2m 37s):
+Alright Molly, it is Sunday. This is your time to shine. Tell us technically
+
+1 (2m 43s):
+It's kinda your time to shine cuz you're the, you're the Jedi master here.
+
+0 (2m 46s):
+Oh, okay. Yeah, okay Wan. But you're learning quickly and you haven't lost any limbs yet. So tell us about
+
+1 (2m 54s):
+Yeah,
+
+0 (2m 55s):
+Well when you, when you get that company shut down and you're like, ah, I like my left hand. Yeah, well I guess mechanical one will be Okay. What's on your mind in terms of learning how to be a venture capitalist and make great investments that change the world and return 50 x to the fund?
+
+1 (3m 13s):
+So, okay, this is an almost hilariously basic topic,
+
+0 (3m 19s):
+Okay.
+
+1 (3m 19s):
+But I think is still a really interesting conversation. So obviously whenever you talk to a company you talk about tam, total addressable market. Yep. Easy, easy peasy. But recently I've had two companies have on their slides, Tam, Sam and Samm, S O M, which was afraid I had never heard before. So I looked it up. Of course, Sam Serviceable available market, aka a, the segment of the total TAM targeted by your products and services within your geographical reach. And then this new thing, psm, serviceable obtainable market or the portion of the Sam that you can capture.
+
+1 (4m 2s):
+And I wanted to talk to you about it because I just think that it's super interesting to talk about how to evaluate a company's potential reach, the most honest way to do it. And yeah, when TAM doesn't necessarily have to be huge, it could be really valuable, like this whole kind of concept of what does the audience look like for yeah, a startup.
+
+0 (4m 24s):
+Perfect. So let's take two quintessential companies that exceeded their predictable tam, Airbnb and Uber. In the early days of Airbnb, they would look at a city like Paris. They'd say, how many hotel rooms are there? How many nights do people stay in Paris in December? You can get that information. You'd say, okay, the tam for Airbnb in Paris is those hotel rooms or those hotel nights. And when you look at a company like Uber, you'd say, okay, well how many cabs are in the city? Easily obtainable. How many livery cars also known as black cars, also known as car services are available in that city.
+
+0 (5m 6s):
+Seemed like a very good way to say, okay, well then what is the serviceable available market to Uber or Airbnb? Okay, well people who stay in five star hotels for business travel are not staying in an Airbnb. And people who like you know who, who like having a renter car cuz they have a family and they have a bunch of luggage and they wanna be able to travel when they get to the airport, they're gonna do a renter car. They're not gonna do Ubers everywhere because they're going the Grand Canyon. There's no Ubers available. They also will take those out, right? So, and already there you started to see examples of, wait a second, that wasn't a cab, you just went over into Renta cars.
+
+0 (5m 46s):
+Wait. Oh so some Renta car people might actually do Ubers instead. You said that one going to the Grand Canyon wouldn't. Cuz they need the flexibility having the car with them and there's no Ubers available, but maybe the person who's just spending 48 hours in San Francisco or 72 hours in Manhattan, they'll actually just use Uber. They're not gonna rent a car. People go to a major city, they don't rent a car. It's completely impractical. That's the first thing they tell you when you come to San Francisco. Don't rent a car, 50 bucks to park every night. Accurate. 75 bucks to park every night and you can't park it anywhere you go anyway. It's, you'll sit in the garage for three days and you just rack up this huge bill. Now in LA it might be different. So that's where the total addressable market sometimes exceeds it and then exceeds what your expectation was.
+
+0 (6m 30s):
+Now sometimes people pick a tam that's too broad. So if you were to look at Uber Eats and Postmates and DoorDash, you have the problem of, okay, all food, if you took all food that is eaten in the United States, supermarkets, fast food restaurants, delivery restaurants, grocery stores, fast casual, convenience stores, you put all that together, that's not actually the market for DoorDash. DoorDash is not gonna replace people going to restaurants, it's not gonna replace people cooking at home. It's not gonna replace fast food restaurants. We know that. So you have to have some intellectual honesty. And what I think they're trying to do here with Tam Samso, and I actually haven't seen this in a deck, so it's interesting that it's happening is because I think so many people didn't buy the tam, right?
+
+0 (7m 19s):
+The case of Uber going up against rent to cars and public transportation and car ownership was not obvious. The only person who really saw that early was Bill Gurley. That's why he was able to make that investment and had the confidence. He said, I think the tam is different than cabs. Yeah, I think the Tam includes these other things. So I'll stop there for a second. Alright, listen, my favorite nut macadamia, my favorite chocolate dark. Now I have in my office nice box of macadamia bars and dark chocolate and I got dark chocolate covered macadamias, a perfect snack for jk. I get a nice cup of black coffee and I treat myself and that company is House of Macadamias. The founders of this company, Brandon and Carmen, they've been listeners to this podcast, this start out for a long time.
+
+0 (8m 4s):
+And they told me, I kid you not that they started their company after they're listening to this weekend startups and they read my book Angel, they used the returns on their first angel investment. I kid you not, the story is amazing to start this macadamia nut business. And look, all nuts are not created equal. Here are the, the health benefits of macadamia compared to peanuts, almonds, cashiers and walnuts. Macadamias are high in omega seven s, which have been linked to fat loss, which I need, right? And natural collagen. So you look nice. They also have more healthy fats and less carbs. Every product is vegan, keto and paleo. Since you, you probably have two or three of those on your list. Take it from me. I eat these macadamias all the time, every week, three, three times a week. I eat 'em.
+
+0 (8m 44s):
+They're delicious. My little treat for myself and again for me it's s dark chocolate for you. It might be one of the other flavors. They got spicy nuts, they got sweet nuts, they got everything. They got one sour spicy suite. Here's what I want you to do. Go to house of macadamia.com/twist right now. Get 20% off by using the code twist 20. That's code twist 20 for 20% off@houseofmacadamia.com slash twist.
+
+1 (9m 7s):
+So I was impressed by the PS calculation. We've talked on this show before and you've talked a lot about this idea of bottom up tam like Tam is often presented in a way that's not honest like you're saying or not intellectually honest, right? It's hopeful, it's well, yeah, okay, but you're not gonna, you're not gonna sell this EV charger to every house in America. That's just not gonna happen. It's gonna be houses that ha, you know, can potentially install it, don't have a Tesla, like whatever, right? You start to, you start to slice and dice and then you think about how many people are actually going to buy that and you get to a more realistic tam. So I liked this idea of the psalm because it feels intellectually honest, but does it then risk thinking too small and like missing the potential for the Airbnb breakout or Uber breakout?
+
+1 (9m 54s):
+You know, it's like a double now it's a double-edged sword.
+
+0 (9m 56s):
+This is one of the great things in venture capital and entrepreneurship. This is a great thing for venture capitalists and entrepreneurs to have discussions about. This is part of the art of investing in companies is you don't know what your TAM is. The market's gonna tell you over time because there's another rub here, which I have looked at very often, which I call inducing a market to exist, right? There's a concept of induced traffic. You build an extra lane, you build a bridge. So when they built the Golden Gate Bridge, the number of people going from San Francisco up to Napa increased dramatically.
+
+0 (10m 36s):
+Why? Well because it was possible you induce them to do so by the nature of building a bridge, if you start doing transatlantic flights and people can go from Europe to the United States by a plane as oppo, you know, in a couple of hours as opposed to on a boat for a couple of days, you've induced that traffic, Airbnb and Uber and DoorDash induced people to take longer, more exotic and more trips. So you take, instead of going for three days, you might go for five cuz you could afford it. Yeah, you might go to a more exotic location because the reviews and you know this really cool looking house with great reviews in some weird place just seemed very appealing to you and the price was great.
+
+0 (11m 22s):
+So a lower price, more optionality and a better product can induce traffic clear. I mean I did not, I used to go to the grocery store last night, right? I needed some things and instead of using Instacart, I used Uber Eats for going too Safeway and I ordered some Haas ice cream and some, you know, diet sodas and milk and other things we needed for the house came within in, you know, under 90 minutes, maybe 60 minutes. And so that's the, in the inducing of a market to exist. So these are all great things to debate and discuss about your product. Is it gonna take a subset of the tam? Which tam are we talking about? Are you talking about the tam of all automobile sales?
+
+0 (12m 2s):
+Well, or should you talk about all miles driven and I think Uber Pool and Lyft line, if you remember those products. Not everybody does, but that was the, you know, I take a lift and I'm going to the airport on the way I go five minutes outta my way to pick up Molly. Then we go another six minutes outta our way to pick up Nick and then we go to the airport and then that's three rides to the airport. If the total value of those rides was $150, we each, we, we actually put it down to 120. We each save 10 bucks. We each get inconvenience by somewhere between 12, five or zero minutes, depending on which stop on the Uber or Lyft line. That was a brilliant product. Requires network effects. Could have increased the tam of ride sharing massively.
+
+0 (12m 46s):
+It didn't work where it rarely worked. And
+
+1 (12m 52s):
+One time and it was almost undo, oh sir, it was the worst ride to the airport of my life.
+
+0 (12m 57s):
+You know, don't do
+
+1 (12m 58s):
+It New York City
+
+0 (12m 59s):
+Separate. Well, I did it, I did it leaving s o going to San Francisco every single time for like a month or two and I did it like five times, three outta the five times. It didn't pick up a second person. The two times it did, it was a little annoying. And I realized I saved five or 10 bucks and I got inconvenience by like 10 minutes or 15 minutes. It wasn't worth it for me. Yeah, but I, I felt like I should try it cuz I was an investor and I felt like I should do it cuz it's better for the environment. That's
+
+1 (13m 30s):
+How I felt too. I was like, well it's really, it's more sustainable. And then I was like, Nope.
+
+0 (13m 34s):
+But you know, then people were, people are weird and so I just,
+
+1 (13m 38s):
+And they're sitting on top of you. I was like, no, no, no. I would
+
+0 (13m 40s):
+Look at, no, I went right to the front seat.
+
+1 (13m 41s):
+Yeah. I was like, I would front seat. I would rather have an Escalade. Well, by the time mine, I was the second pickup and yeah, and I'm like, just gimme,
+
+0 (13m 48s):
+I, I go, I go front seat, put the headphones in, put the sunglasses on. I carry a baseball cap. Now if I wanna go incognito cuz you know, selfies and so I'll put the baseball cap on, the sunglasses on and the air pieces AirPods on and I don't get recognized. I take it off. I get recognized, which is great. I love to take a selfie. It's time when I'm on a phone call. I don't, anyway, that's Tam You think about Tam
+
+1 (14m 9s):
+About talk about the idea of bottom up tam and then how to sniff out because cuz the art can be tricky, right? There's also, there's the art of, of course a company is gonna tell you, well we think we can capture all of this. I, I just talked to a company recently that was like, oh yeah, we can capture market if we do this and this. And I'm like, yes, you definitely, I see what you're saying. And also don't, to what extent do I need to evaluate you based on, especially at our stage, based on the thing you actually have right now.
+
+0 (14m 37s):
+So you can look at what is reality today. So, and how are people solving the problem today? So if somebody says, you know, we are going to do a scooter company like Bird or a Lime, okay? And they say yeah, the number of trips is, you know, all the Ubers and Lyfts and cab rides that are under a mile. You can reasonably do any 20 block journey on these devices. So anything under a mile, which is 60% of the rides. And I said, okay, however, how many days a year is it rainy or cold? How many Rainier cold days are there? Okay, that's 20%.
+
+0 (15m 17s):
+So we take out 20% for that number. So let's just say the number of rides was a million in this category in, you know, Los Angeles. Okay, so we take out, now we're down to 800,000, okay? And let's say people of a certain age are not interested in this. Okay, what percentage of rides? Oh, they're half the rides, okay, now we're down to 400,000. Okay? And let's say people who are, you know, maybe of a certain body type, they don't wanna be on it or business people. And maybe if you were obese, you wouldn't wanna be on one of these things or disability like or a disability. Sure. Right? Literally can't.
+
+0 (15m 57s):
+Literally, okay, sure. So maybe that's 5% literally can't. And then maybe obese is a third of the country and don't, you know, care to be doing physical activity, ride a city bike or do a lime scooter. It's just too physically stressing for a person. They don't wanna show up sweating or whatever. Alright, so now whatever we just off the top of our heads, we narrowed a million down to 200,000, right? That's where the intellectual honesty of the exercise comes in. What an entrepreneur would like to do is show you in some cases an intellectually dishonest or an intellectually lazy more likely or a a radically optimistic or desperate founder. Any of those could apply, could be desperate, could be hopeful, could be delusional, could be whatever.
+
+0 (16m 39s):
+Yeah. Could be sloppy, sloppy, lazy, would probably be the largest category. They're not thinking these things through because they're doing one company and we are evaluating 15,000 per year as a company. So we have a different level of rigor and it's important to realize that, right? We're gonna be more rigorous than they are and that's our job. Yeah. So if you're a founder listening to this, you gotta be rigorous, you gotta put yourself on the other side of the table. That whole steel manning idea where you do the other person's job. Like, do our job, do you buy the number? And what can you take out of the tam? Even a bottom up tam. So what I like to do is say, who have you sold the product to? Okay, we make enterprise software for dentists.
+
+0 (17m 19s):
+You just track all their patients. Great. How many dental offices are there in the United States? There's 30,000. Great. Okay. Now how many, how many of those have you sold into? Now we have 20. Tell me about those 20. Oh yeah. They're all dental offices that have four or five dentists in them and have over this number of patients. Okay, so it doesn't work for a single or a double dentist. Why? Like yeah, they kind of, they don't need it cuz they've only got 250 customers. They keep them in a Google Excel or whatever. Like it's just, it's easier for them to just do it manually. They, they have the folders right behind them that you see when you go there. Okay, great. Of the 30,000 dentist office, how many are solo?
+
+0 (17m 60s):
+Oh, half are solo. So, okay, now we're talking about 15,000. So I'm looking at who's already using the product, why they say yes. So this is where go-to market and the idea customer profile come into play. You'd explain the tam, now you explain the idea customer profile and we can figure that out. It'd be like Salesforce saying, Hey, we sell CRM and sales. How many salespeople are on, are there in the United States? Oh, there's 25 million. Okay, how many of them work behind a desk at a computer? Oh, well 5 million. Well what, what? Who are the other 20,000? Oh, they're used car salesmen, they're on a lot. Oh they're salespeople at retail. So they, they just got the 25 million salespeople and they never looked at what Gartner group or whatever group made that number and did that report. They included retail in that report, they included car salesmen, they included, you know, people selling door to door encyclopedias, whatever the number is.
+
+0 (18m 45s):
+Okay? So it's really 5 million, okay? Of those, how many of them sell more than $500,000 a year in product? Because if you sell under 500,000 a year in product, you're not spending, you know, $5,000 installing this, maintaining it, et cetera. So you can really start to look at totally Where did this number come from? That's why I prefer bottom up, right? Bottom up is, okay, you sell to dentists and you sell specifically to author orthodontists. How many orthodontists are there in the United States? Great. What cities are they in? Great. And then who's the ideal customer profile? What's your go-to market plan? And all of a sudden you can eliminate groups, et cetera.
+
+1 (19m 22s):
+Ironically, I think that gets you to some, I think that gets you to this new thing, this serviceable, obtainable market. I like having founders. This is my note to you because I think I've now seen this twice, but definitely once. I like this TA Samson thing because it tells me who you think you can really get immediately. But it also gives me the larger universe of possibility. Yes, I'm into it. Tam Samson, do it.
+
+0 (19m 50s):
+Have, don't be lazy with the slide. There is a, and look at this slide right in your deck. Look at this discussion.
+
+1 (19m 57s):
+Be specific.
+
+0 (19m 59s):
+Yeah, be really specific and do bottom up. Do you know, top down. Don't find one number and say I'm gonna get 5% of it. You're gonna look like somebody from like the peak height of the market who doesn't understand their market. You, you want this discussion to show your deep understanding of the market so that you, when you saw Molly and I going back with these examples, know more than us about your market and you're educating us when we're in meetings, you'll have somebody educating you on the market explaining to you the nuances of it. Who would be perfect for your product, who is not gonna do by your product? Those are important discussions to have. And the more intellectually honest, the more rigorous, the more thoughtful you are in a TAM discussion, the more likely you are to get investment.
+
+1 (20m 44s):
+Yeah. Because you're,
+
+0 (20m 45s):
+The more you try to massage the data, the less likely you are to get an investment. And as a vc, the more rigorous you are about TAM and thoughtful, the greater the chances of like Bill Gurley or the Airbnb investors, you're gonna find an outlier. That's why Sequoia figured it out for Airbnb. And that's why Benchmark and Bill Gurley figured it out. Uber, I actually didn't make that calculation. I didn't make a TAM calculation. I made a bet on my friend, right? And on the product. Hey everybody, it's time for a special interview with an old friend of mine, Rick Robinson. He is the GM of age tech collaborative, which is brought to you by our friends at A A R P, which I think, correct me if I'm not at 52 as of last week, am I able to be in A A R
+
+3 (21m 32s):
+P now? You are. You are welcome to join.
+
+0 (21m 34s):
+Oh man, you and I got old. Yes. What happened? This is amazing. You guys are really excited about engaging the startup community in building technology for folks who are getting up there
+
+3 (21m 47s):
+In age. Yeah. It's really exciting for us developing the H Tech collaborative to try to put a focus on what we call H Tech. Hmm. And you might be wondering like what is H Tech? Well yeah, it's, it's the intersection of longevity and technology really. These are health tech companies, these are FinTech companies, these are wellness companies. Essentially is going to be almost every company because the market 50 plus is becoming so enormous that they can't be ignored. And then you've got a lot of people who are supporting that market who can be any age. It's kind of a white space cuz not a lot of product developers and marketers and startups and investors have put a lot of focus on this. But it's huge and it's growing. In fact, it's around eight and a half trillion in terms of econ economic value in the US right now.
+
+3 (22m 30s):
+Alright,
+
+0 (22m 31s):
+Thanks Rick. When you're selling into the 50 plus market, having a relationship with A A R P gives you a bunch of credibility. Of course, in the meantime you can go learn more about the age tech collaborative@agetechcollaborative.org slash twist and join us later in the program. And you hear more about the age tech collaborative and how they help innovative startups succeed.
+
+1 (22m 50s):
+All right, fascinating. We have today's, this weekend Climate startups is a founder, but a founder who has moved on to V c I spoke to Brian Halligan, co-founder of HubSpot. Oh yes. Who? Yep, exactly. He was actually on episode 9 97 back in November, 2019. He was the CEO of HubSpot for 15 years. Stepped down down as CEO o and is still chairperson in August 21 to do the hot new thing, pivot to climate tech.
+
+0 (23m 15s):
+Love
+
+1 (23m 16s):
+It. But he did a bottom up tam to try to figure out his impact. Basically how he could have the greatest impact and where he thought his, his attention and time should go and he actually started a fund, decided to start.
+
+0 (23m 29s):
+And where is that fund gonna focus?
+
+1 (23m 31s):
+It is, this is what's so fascinating. Last, you know, we talked about the wildfire tech fund. This one is all about Ocean tech. It's a fund called Propeller. And it recently announced a hundred million dollar raise in partnership with Woods Hole Oceanographic Institution and is the first investment fund ever solely dedicated to improving the quality of the oceans. Which is, you know, compared to wildfire tech, a big, wide open, fascinating opportunity. I like it. And you know, I'm obsessed with this. Like this is one of those things. I think in 10 years we're gonna look back and be like, that's actually where a lot of the climate solutions really, where it's a huge carbon sink. There's a bunch of food in there.
+
+1 (24m 11s):
+Like there's all this algae and vegetable life and it's super interesting and also just kind of, kind of fascinating to see a, a founder do this like really, really intentional decision making process and determine like, this is where I can have the most impact.
+
+0 (24m 27s):
+There's so much opportunity in the ocean, there's so much bounty in the ocean. Yeah. And it's something, well let's be honest, humanity has abused and been callous Totally. And not been thoughtful about. So you take those two things together, this huge opportunity and the fact that we've been very cavalier, thoughtless, and you know, cruel to the ocean, man, if we could align those things a little bit better and stop dumping stuff in the ocean, cleaning it up, making it more sustainable, more bounty would come from it. This makes total sense to me. What a mission.
+
+1 (24m 60s):
+Yeah, it makes energy like wave energy. I mean it really is like
+
+0 (25m 4s):
+Absorbs the sun, right? You could, there's all these ideas of putting mirrors on large portions of the ocean in order to reflect the sunlight to lower the temperature. I mean the dropping of, we had the company that drops the kelp after absorbing all that carbon, puts it at the bottom of the ocean. So the ocean is like a platform. Yes. You know, and the platform, you know, could deteriorate like a bridge does or a highway system or it could really help move things around in a positive way. And that's why sale plan, one of our investments is trying to make those ships a little more
+
+1 (25m 38s):
+Efficient, less toxic, carbon efficient, less toxic, slower, less efficient in terms of fuel use and carbon emissions. And they're doing it for ports too. And yeah, I mean it's a, like this is a really, really interesting conversation. I love the idea, the platform is the perfect word.
+
+0 (25m 52s):
+Yeah. Perfect word. All right, let's protect the platform. Let's evolve the platform.
+
+1 (25m 56s):
+Yeah. Here's Brian Halligan.
+
+0 (25m 57s):
+Well done. Molly can't wait for this one.
+
+1 (25m 59s):
+Brian Halligan is the former co-founder of HubSpot, current founder of the Climate Tech Investment Fund. Propeller, welcome to this weekend Climate Startups. Thanks for having me. And congrats on the a hundred million raise for propeller and tell us, okay, tell us about the thesis. I've been super interested into these like very specific thesis driven funds. We talked to a fund that's just doing wildfire tech. Your specifically focused on this category that's being called Blue Tech, right? Oceana Oceanographic Oceanographic investments both.
+
+4 (26m 31s):
+No,
+
+1 (26m 31s):
+Yeah, we're not gonna call it, we're not gonna call it that again. Ocean stuff.
+
+4 (26m 35s):
+Ocean stuff. We're doing ocean stuff. Well I was story, I was, I was hum along nicely at HubSpot running as the CEO and it's going pretty well. And then I had a, I had a really bad snowmobile accident. Molly and Barry nearly killed myself on a snowmobile and I had a lot of time to think in the long period of time in the hospital and long period of time in a wheelchair. And I've had a climate itch, I wanted it in climate and I decided I wasn't gonna back to being ceo. There was a wonderful woman who took over from me when I was gone. She's doing great.
+
+4 (27m 15s):
+So she's CEO now and, and I had some time and energy and I'm like, I wanna get into climate. And I started doing some research on it. And the funny thing about the research, I met with a lot of founders and venture capitalists that I met with a lot of professors and the more people knew about climate change, the more depressed and pessimistic they were about it until I visited Woods Hole oceanographic. And the oceanographers are pretty darn optimistic about climate change. The ocean's gotten us out of some big climate pickles before and it's doing a lot of the heavy lifting. And so that's how I sort of headed down the ocean path. It's, it was around that optimism I felt around climate change from the ocean people.
+
+1 (27m 57s):
+Okay. So tell me more about the optimism before we get into the nuts and bolts. That, is it the sense that the ocean is such a massive resource and carbon sink? Like where did that, where does that optimism come from?
+
+4 (28m 9s):
+The, the size of it for sure. It's 71% of the surface of the earth. It's 90% of the biomass. It's already producing half oxygen, consuming half the carbon dioxide that's getting spit out. It's doing a lot of the heavy lifting today. And I think it's the only thing of scale that can do more. And oceanographers can believe if you are very, very careful with the ocean, it can solve the crisis and the, and the careful part is very, very important. But oceanographers are optimistic about the ocean doing a lot more around absorbing more carbon dioxide and, and really helping us out of a jam here.
+
+1 (28m 45s):
+And then, so in terms of raising the fund, you partnered with Woods Hole Oceanographic Institution, right?
+
+4 (28m 52s):
+Yes. So we ended up with a deep partnership with Woods Hole where part of the funding goes into their highest potential laboratories where we think there's big, big opportunities to solve climate problems and we'll get a, you know, a first rate of recusal on that technology and then they're an LP in the fund. So it's a deep, deep partnership. I think it'll help a lot as we're looking at deals, we'll have lots of experts to call on our portfolio. Companies will be able to leverage their facilities. The, the partnership's actually already really paying off really happy with it.
+
+1 (29m 22s):
+So it's kind of like a corporate vc, but like that
+
+4 (29m 26s):
+Not,
+
+1 (29m 27s):
+Yeah,
+
+4 (29m 27s):
+Really. No, I didn't, I don't think of it as that. They don't think of it as that. Like we can do a business with companies coming outta Woods Hole or anyone else. In fact, there's a company we just funded out of Caltech, that's a company we're looking at usc, we funded a company out of MIT so it's not sort of captive to Woods Hole, but I think would like to do some great stuff with Woods Hole. We think there's amazing technology coming outta there.
+
+1 (29m 50s):
+So tell me about, let's go back to the snowmobile accident for a minute. In the path from founder to investor, what made you decide, it sounds like, you know, you could have founded another company maybe and, and what was the kind of thinking behind like no investing is the best way forward here to tackle this problem?
+
+4 (30m 10s):
+I wasn't sure I wanted to invest by any means. Yeah, no, I, the thing about HubSpot is we always say that we wanna build a company that our grandkids will be proud of. And that's sort of my mantra that I beat that people said, and people roll their eyes at me when I say I'm sure at this point. I've said it so many times and I think we're on our way. I mean we're, a lot of people say we're the best place to work in the United States and we have a couple hundred thousand customers and millions of users and they tend to be quite happy. And so I feel like we're having relatively positive impact on the people we touch and wanna keep that going. And as I was thinking about my body of work and my life and like, well when I'm older and I look back on my life, what am I proud of?
+
+4 (30m 52s):
+What have I left? I thought I wanted to get into climate. It's, it's a much, you know, it's a big impact area obviously it's a big lever where now I was like, where could I find the biggest lever in climate? And as I looked at it, I was like, I could start a company, I could go join someone's companies, I could sit on boards. There's all kinds of stuff I could do. But I, I was drawn to the ocean. There was a gap there. No one was really building sort of an independent venture fund in the ocean. It felt like the answer could be there and that somebody needed to do it. And if it's not me, then who you might as well give it a go. And it felt like investing seemed like the right way to go.
+
+4 (31m 32s):
+There's a whole series of technologies that you can invest in, in the ocean that are quite interesting. And so I thought I'd give that a go. And so I I, when I was a small child that didn't want to grow up and be an ocean climate investor, it's sort of, I went on a journey to find it and it sort of found me.
+
+1 (31m 49s):
+Were, I mean, did you grow up around the ocean? Was it literally like you, I mean cuz it sounds like it was a very intentional path to try to find the exact right place to land and have impact. Do you also have like an affinity for the ocean?
+
+4 (32m 2s):
+I would tell you a secret. I haven't told this anyone on podcasts or anything. I get seasick
+
+1 (32m 12s):
+Amazing.
+
+4 (32m 14s):
+I kinda avoid boats, you know, people invite me to go sailing and scuba diving and all this kind stuff. I'm like, you know, I I'm, I'm good, I'm good. You know, I'm kind of indoorsy, I'm all set on that you, I like to swim in the ocean. I'd take a little boat right here and there. But if you said, Hey, let's go on a cruise around the, across the Atlantic, I'm good on that. The reason I'm doing the ocean is I think the answer could be in the ocean and that's where the biggest lever is. And so it's a very practical reason. It's not, I love that. I think most people just assume I'm, I'm sort of a sailor or scuba diver. Not at all.
+
+1 (32m 50s):
+I wondered, I thought like, oh for sure you've got some like backstory that's like, oh, a wind swept, how's the main in the, you know, no, no I haven't
+
+4 (32m 57s):
+Cape Cod, but I just like looking at the ocean from a distance.
+
+1 (32m 60s):
+Amazing. I kinda, I really, I kind of love that. All right, well let's, let's talk about the, the investment part of it. It sure is a tiny fraction, right of, of VC dollars in climate tech are going to blue tech or ocean related tech. Why do you think that is? I mean, it's not, other than the part where it's like this huge resource that we, and we know more about space than we do about the ocean. There's that,
+
+4 (33m 26s):
+And that part of the reason why I'm doing is it's a tiny, tiny, tiny amount of dollars going into it. I mean I I I think it's one of the, it's sort of like HubSpot. Remember first started HubSpot, we were pitching into investors. We, I can't tell you how many nos we got across series A through E. Like we had a heck of a time raising every round. Everyone thought we were crazy going up small meeting business, it'll never work. You're gonna compete the salesforce.com, good luck. Like we, we just got no a no no. But 10 years later people are like, you know, that was a really obvious idea that HubSpot thing, why didn't I think of that idea? I think it's gonna be one of those things that 10 years from now people be like, why didn't I think of that? That's a really obvious idea.
+
+4 (34m 6s):
+Yeah. And I think people have been hesitant to do it. The ocean's a harsh environment to work in and so you have to have your act together and you have to have hardened technology if you wanna put it in the ocean. I think that's challenging to people. I don't think there's a lot of know-how about it. So I think people have hesitated to do it. I think you're gonna see more and more. I think there'll be a lot of ocean funds after propeller. I think a lot of people will do it. I'm noticing from all the other climate tech funds, they keep throwing us ocean deals to look at. So people are seeing ocean deals is a, there's a lot of activity in the ocean. The startup community in the ocean is, it's, it's booming and we, there's a massive amount of deal flow we're seeing and we're seeing a lot from other investors and just from entrepreneurs in general.
+
+4 (34m 50s):
+So I, I think we'll be the first of many.
+
+1 (34m 52s):
+Yeah. What kinds of deals are you seeing? Can you talk a little bit about the types of technology that people are trying to deploy?
+
+4 (34m 60s):
+Sure. About the ocean. That, that's that about investing in the ocean. That's cool. And, and also hard. Like I come from the softwares, the service industry and you think about you're an investor and softwares and service, everything kind of rhymes. The business models rhyme, the go to market rhymes, the people have the same moving back around between the companies, the ocean has like recounted 13 different kinda tech verticals where there's some sort of disruption going on in the verticals. And there's three in particular that we like. We like the idea of carbon sequestration. How do you get more of that carbon dioxide in the air sequestered at the very bottom of the ocean.
+
+4 (35m 40s):
+There's a lot of companies and technologies around that would like to build the picks and shovels to enable that industry to happen. Ocean organics. So everything from aquaculture to new types of creating seafood and a lab, for example, food for fish, the fish populations are crashing. The, the food that fish eat is really crashing. So stuff around that kelp and products that come outta kelp, eat the animals and humans, mushrooms, things like that. Lots and lots of interesting stuff there. And then just ocean industrials, everything from desalination plants to, you know, underwater energy, wave energy, tide energy, things like that.
+
+4 (36m 23s):
+So lots of stuff and they're, they're, they're all really different technologies and different business models, which makes it really challenging and interesting.
+
+1 (36m 30s):
+How do you even tackle that? Like what kind of team have you put together for research and diligence? You know, what's your learning process been like?
+
+4 (36m 38s):
+Well I have a very oceany team.
+
+1 (36m 41s):
+They like boats, they like 'em,
+
+4 (36m 42s):
+They like boats. They're all scuba dive versus sailors and all that kinda stuff. By the way, now that I'm doing this, everyone invites me to go sailing and it's like I'm good, I'm good, I'm good.
+
+1 (36m 52s):
+Yeah. I made a, I made an investment that involves a board meeting on a boat and I'm like, you know,
+
+4 (36m 58s):
+I mean
+
+1 (36m 59s):
+Yeah I'm with you on that one. Bon, I highly recommend a medication called boning related to dries.
+
+4 (37m 6s):
+Makes it, makes it tired.
+
+1 (37m 8s):
+No boning doesn't make you tired.
+
+4 (37m 9s):
+Oh, boning doesn't make you tired.
+
+1 (37m 10s):
+Yes, it's a like a supers cuz I love whale watching but I get super seasick and boning is the jam.
+
+4 (37m 17s):
+All right, I got it. Yes. Meeting.
+
+1 (37m 20s):
+Yeah, no, that just puts you right to sleep.
+
+4 (37m 22s):
+Totally. Yeah. I'll give you an example of one of the partners. It's a woman named Julie Poland. She's an oceanography professor climatologist and she's terrific. A deep domain expertise expert on the ocean. She's an adjunct professor at Columbia around oceanography and we put her out of a startup that was doing a bunch of climate research. So she's sort of a ocean researcher, oceanographer, climatologist, but also very startupy. She was doing a bunch of angel investments. So that's the type of person we have on our team, you know, that deep, deep, deep domain expertise. And then we have access to all the terrific scientists at who, who can help us out on the due diligence as well.
+
+0 (38m 3s):
+Hey everybody, it's time for a special interview with an old friend of mine, Rick Robinson. He is the GM of age tech collaborative, which is brought to you by our friends at A A R P. So how does the collaborative work, how do you help companies and investors kind of access these companies and these markets?
+
+3 (38m 21s):
+So essentially what we do is we look for companies, we incubate them, we invest in them, and then we bring them into this new environment we call the AIDS tech collaborative community. So yes, we have pitch competitions that we run throughout the year themed and some of them are open mic style. And it's a way for us to source and find great early stage companies. Usually pre-series A. We invite some of them into our accelerator program, which is extremely high-touch, eight weeks, four times a year where we bring in aging experts. We help get them best prepared to deliver their product or service to the market. And as I mentioned, we often invest in these companies and then they graduate into the H Tech collaborative community, which is an online platform that makes up an ecosystem that we're developing.
+
+3 (39m 6s):
+That includes of course the startups, investors, testbed organizations, enterprises and business services, all in this one online environment where they can support and draw from one another.
+
+0 (39m 19s):
+Great. So there's an online community people can go visit, they can go visit that@agetechcollaborative.org slash twist, age tech collaborative.org/twist. And so if you wanna build in that market, if you wanna sell into that market, if you wanna invest in that market, this is a great way for you to partner with A A R P, correct?
+
+3 (39m 37s):
+Absolutely. Yep. Can
+
+1 (39m 39s):
+You talk about investments that you've made so far? How long have you been deploying
+
+4 (39m 44s):
+Just for a couple months? I can talk at a high level about a few of them. We had, we had an interesting process. We're seeing a lot come in and we decided to run something we call an Ocean mba, which is a week long class. We run in partnership with M mit. That's a bunch of the curriculum we get with an MBA with a very salty oceany spin to it. And I teach a bunch of it. The guy who runs Energy Ventures in MIT teaches a bunch. We brought a bunch of the professors in to teach it. It was awesome. We had 24 entrepreneurs come in, they learned a lot. We learned even more. We had breakfast, lunch, and dinners with these entrepreneurs while they're learning we got to know their chances or go to markets, pretty much everything about their businesses, they pitched us at the end and then we funded four of those companies.
+
+4 (40m 30s):
+I can tell you about a couple of 'em that I like. Yeah, there's one in particular I like that there's two women from the desalination industry, which is unfortunately gonna be a very fast growing industry to keep up with the freshwater demands of the earth. And it turns out the ocean is full of just dissolved lithium and dissolve magnesium and dissolve very important metals. And all these are just washing through these desalination plants. So they've created a specialized filter that will effectively turn every desalination plant into a lithium mine. So that's kinda one that I like a lot. There's another gentleman, an MIT professor is leaving his job and he's starting an MRV company and being able to sell carbon credits in the ocean, whether that's a mangrove project or a giant kelp form or whatever the project might be that you're running in the ocean.
+
+4 (41m 23s):
+Can
+
+1 (41m 23s):
+I wait, can I interrupt you for a second? What's Mr B?
+
+4 (41m 26s):
+Oh, I forget what it stands for, but it's monitoring and verifying the information in the ocean of what's going on and people are doing this on land like this terrific company called Pajama that uses satellites that will look at tree stands and see okay, how much carbon dioxide are really being absorbed by the trees. So he wants to build a monitoring and verification system for the ocean. So let's say you're building a kelp farm or you're building a mangrove project and you're selling carbon credits, are you really sinking that carbon dioxide to the bottom of the ocean? Are you doing something weird to the fish? Are you throwing the pH balance off of the ocean? He wants to create kinda the moodies for the ocean to do that kinda thing. So those are the types of companies that we're looking at investing in early stage stuff and so far so good.
+
+4 (42m 8s):
+No shortage opportunities. I think this is gonna be a winner.
+
+1 (42m 11s):
+How early are you looking?
+
+4 (42m 14s):
+Super early. The both those companies are, are founding teams, you know, beyond the card table. But we're, we're really first money in and we're putting between a half a million, million half to work on both of them.
+
+1 (42m 25s):
+Okay. And is that your kind of standard check size?
+
+4 (42m 28s):
+Yes, seed. We're doing another one that's very interesting. That's in the shipping space, the shipping industry, all those Amazon packages going back and forth from China, that's about 3% of the carbon dioxide sped into the air. But it's a lot and that industry's quite serious about getting the, the carbon dioxide levels down. And there's a couple ways to do it. One is to switch the whole darn industry to ammonia, which is a big expensive project. There's a professor at Caltech who's got a very interesting project where he takes the output of the smoke stack on one of these ships and he runs it through a limestone process, limestone process and turns that carbon dioxide into an inert material that you can drop right into the ocean.
+
+4 (43m 17s):
+And so that's the third one we're doing and we're syndicating with a few other venture capitalists on that. So that's a larger deal. Look, people wanna do ocean stuff. We're seeing lots of interest in syndication.
+
+1 (43m 26s):
+Yeah, absolutely. I mean I'm with you, I'm, I know you must have read Eat Like A Fish. Yes. Which is, I found myself on a podcast sometime earlier this year saying almost the exact words you just did about how in 10 years it was the obvious podcast and I was like, yeah, in 10 years is gonna be obvious to everyone that this was this like massive resource. But as you say, it's sort of hard to build in like when, what is your thesis around frontier tech or hardware or you know, it sounds like some of it is picks and shovels, but some of it's gonna be, you know, weather hardened wave generation machines, right?
+
+4 (44m 0s):
+Yeah, like some of the stuff I described like the, that first company is turning the desalination plants into lithium. That's a filter company, that's not it. It's hardware and it's software, but it's not, doesn't have to like sit in the osha but it's gotta be super sturdy. That's gotta be a very well engineered product. The second one, the sensor companies, those are going right into the ocean. So those sensors, they're very small but they have to be super, super rugged. Most, it's like, I think of the iPhone, yes it's the piece of hardware but it's really a piece of hardware that wraps software. That's kinda what that is. But it has to be super rugged. The third one, the the Ocean Liner company that's actually gonna sit on the Maersk ship let's say.
+
+4 (44m 44s):
+So it doesn't have to be as rugged, but it's a piece of hardware, it's engineered and software that's together. So definitely some engineering, some hardware involved as well, some software in these companies.
+
+1 (44m 53s):
+I definitely wanna talk to your Moody's company by the way. Okay. We'll connect after. Cool.
+
+4 (44m 59s):
+He's a great guy.
+
+1 (45m 0s):
+And then tell me a little bit more about the Entrepreneur and Residence program and this, this idea of sort of also incubating this space because there's a lot of interest but maybe they're entrepreneurs who want to do this and don't know how to get started.
+
+4 (45m 13s):
+Yeah, so we've got two entrepreneurs in residence right now. They to be both former HubSpot, so I would never take anyone from HubSpot, but they both left and they're both very, one of them, I'll tell you story, one of named Kevin, Kevin Walsh, he ran AI for HubSpot years. Terrific. And I bumped into him on the sidewalk in Boston. I'm like, Hey what do you, I heard you last HubSpot, what are you doing? He's like, I'm about to sail across the Pacific. Like I got an idea for you. Why don't you, when you're done sail across the Pacific, come hang out with us. And so he's starting an ocean company and another woman who who used to work at HubSpot and then we have about four or five other ones are gonna come in and work on stuff and some of them have ideas that we'll work on inside of Propeller.
+
+4 (45m 57s):
+Others will match with the team inside of Woods Hole, Oceano. So there's of Inside Woods Hole oceanographic, really interesting stuff. For the most part. Those scientists are really interested in their technology getting out into the wild. But they didn't grow up wanting to be entrepreneurs per se. They grew up wanting to be scientists. So we'll team them with a scientific team. We'll pull that technology out, create a company. That scientist will remain our advisor and they'll become CEO of that company. So that's a model I think we'll see a lot of
+
+1 (46m 27s):
+As part of the ocean thesis. By the way, I love that you're calling people Oceany, like it's, there's two kinds of people in the world, oceany and not Oceany as part of the thesis. Have you identified specific threats? Like are there specific problems you're trying to address or is it, or are you sort of more generalist in terms of like it's ocean, just work within that?
+
+4 (46m 52s):
+It's ocean, it's big enough, it's broad enough. There's enough stuff going on in the ocean. There's enough startups where we're sticking on the ocean. We have core competitive advantage and I'm a big believer in building HubSpot. Like we have some core competitive advantages. You gotta lean into your strengths versus runaway and and go to other adjacent areas. So we've got core competitive advantage. Our team is super oceany. We have the partnership with Woods Hole and so we wanna be the world's first and best ocean investor is the idea. So yeah, we're very much focused on it.
+
+1 (47m 23s):
+What do you think about this idea of, I, it seems like, like I was mentioning, I talked to a, a venture firm that's specifically doing fire tech, you're sort of specifically doing ocean solutions. Do you think that as we start to see more money in climate tech, that this kind of single thesis firm is the way to go? Or one of the many ways we could go?
+
+4 (47m 46s):
+I think it's one of the many ways you could go. I heard about that fire firm. I think it's super cool. I also just think you've got people like me that wanna have a, an outside impact and so they kind pick and they go very deep on it. And I don't know who founded the firm, but I thought that was awesome idea. Really, really cool idea
+
+1 (48m 6s):
+Bill. Former founder.
+
+4 (48m 10s):
+Yeah, the thing that I, I find interesting about climate tech, let's call it climate Tech 2.0, I think it's gonna work this time for a couple of reasons. One, just the, obviously the obvious urgency around the problem is up in the knowledge around the problem is, but wow, are there a lot of people from the tech industry moving into this industry and a lot of money moving in? So just in the ocean, Eric Schmidt has a huge initiative going on inside of the ocean. Larry Page has a big initiative going on. Mark Benioff's got a big initiative going on. There's a bunch of us that are just doing ocean stuff and I gotta think that's gonna matter. The money's gonna matter.
+
+4 (48m 50s):
+Some of the talent will matter, some of the technology will matter to bring to bear on these big problems. So I tell me as an optimist about all this stuff. Yeah.
+
+1 (48m 59s):
+And then when it comes to this kind of big greenfield opportunity, what do you, one thing I've been asking in a lot of these interviews is like what do you think you're seeing? There is a huge rush, obviously in and money in climate tech 2.0. What do you think people are getting distracted by maybe wasting a little time on when there's a whole ocean to work within?
+
+4 (49m 21s):
+I, that's sort of exactly what I was gonna say. I think the ocean is the very obvious opportunity that people have missed. I mean, there's only so many trees you can't plant a lot of the surface of the land in earth. We're gonna need to grow food to feed the 8 million plus people who are living on it. And so like there's a lot more space out there in the ocean and there's a lot of green stuff growing in the ocean. There's a lot of photosynthesis going on. Like it feels like a really idea doing it. I don't think anyone's anything wrong, but it's like, I think there'll be certain pockets where people will figure stuff out and things will get unlocked.
+
+4 (50m 2s):
+Like the software industry, there's certain pockets that get unlocked, SAS got unlocked, you know the iPhone really unlock the mobile industry. I think you're gonna see a new generation of wearables that'll unlock AR and vr. I think artificial intelligence is about to be unlocked. There'll be unlocks that will happen in climate. It's hard to predict what they're, but I think unlocks will come over time and maybe it's some of the same unlocks. Maybe it's artificial intelligence applied to some of these problems that really unlocks it.
+
+1 (50m 32s):
+Brian Halligan is the former co-founder of HubSpot and current founder of the Climate Tech Investment Fund, propeller deploying a hundred million into the ocean, whether you're on a boat or not. Brian, thanks for the time. Thank you.
+
+0 (50m 45s):
+Alright everybody, thank you for listening. This is the start of the week. We start the week on Sunday. We warm you up for the week. You know what's gonna happen tomorrow? It's Monday. You're gonna need to get the pod you put the alerts on, hit the bell on YouTube, be ready for anything. It's gonna be chaos Again, we're gonna talk about it all on this weekend. Startups this week, five, six days a week. Every week, Molly and I break it down for you.
+
+1 (51m 9s):
+We will be here for you. We know, yes, the knives are coming fast and furious. We're here to catch 'em all, but in like a good way. We're here for you. Good way. All right, see you tomorrow.

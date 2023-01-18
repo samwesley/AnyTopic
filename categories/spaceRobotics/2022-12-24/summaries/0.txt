@@ -1,0 +1,6 @@
+block 1: 
+Aerospace:
+• Machina Labs adds Alex Huckstepp and Alexander Kwan to executive leadership team. 
+• Alex Huckstepp specializes in fields such as additive and advanced manufacturing, while Alexander Kwan has expertise in aerospace, manufacturing, software development, operations, growth and startup culture. 
+• The company is unlocking manufacturing through robotics and artificial intelligence using its world’s most adaptable platform that delivers finished products within weeks rather than months or years.   
+• Its dieless robotic sheet forming process reduces the time taken to produce a first part from months to hours/minutes which eliminates costly tooling expenses usually associated with traditional methods.

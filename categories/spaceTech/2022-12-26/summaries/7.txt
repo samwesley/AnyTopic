@@ -1,0 +1,7 @@
+block 1: 
+Daily Briefing: 
+- NASA's Hubble Space Telescope has released a festive RS Puppos image showing a star wreathed with dust located 6,500 light years away. 
+- The sonification of this image assigns pitch based on direction from the center and brightness is mapped to louder volume. 
+- RS Puppis rhythmically brightens and dims over a six week cycle and has average luminosity 15000 times greater than our Sun’s luminosity. 
+- Photos of light flashes rippling across the nebula have been recorded in phenomena known as 'light echo'. 
+- By observing fluctuations of light, astronomers can measure these echoes and pinpoint the distance to 6,500 light years (with 1% margin of error).

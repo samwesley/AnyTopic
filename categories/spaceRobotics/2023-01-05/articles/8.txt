@@ -1,0 +1,39 @@
+Microsoft partners with India space agency to work with startups • TechCrunch
+Microsoft plans to collaborate with the Indian space agency to give Indian space tech startups free access to cloud tools, the two said Thursday, the latest in the U.S. tech giant’s attempts to deepen its ties with young firms in the South Asian market. As part of a memorandum of understanding that Microsoft has signed with the Indian Space Research Organization, the firm will also provide space tech startups with go-to-market support and help them become enterprise ready, it said. Startups handpicked by ISRO will be onboarded to Microsoft for Startups Founders Hub platform, where they will receive free access to several tools and resources. These tools include help with building and scaling on Azure, as well as GitHub Enterprise, Visual Studio Enterprise, Microsoft 365 and Power BI and Dynamics 365. “ISRO’s collaboration with Microsoft will greatly benefit space tech startups in their analysis and processing of vast amounts of satellite data for various applications, using cutting-edge methods like AI, Machine Learning and Deep Learning,” said S Somanath, Chairman of ISRO, in a statement. “The Microsoft for Startups Founders Hub is a useful platform for bringing together startups and providers of technology solutions to support the national space technology ecosystem. We are pleased to work together to assist and support entrepreneurs, to in turn benefit the Indian economy as a whole.” Indian space tech startups are having a moment. In June 2020, the Indian government passed the space sector reforms and established the Indian National Space Promotion and Authorization Center (IN-SPACe) to allow private companies to use ISRO’s infrastructure. The government also set up NewSpace India Limited (NSIL) as the commercial arm of the space agency to work closely with private companies and startups. In November last year, ISRO successfully launched the Vikram-S after much anticipation in a boost to the private sector. The Vikram-S, developed by four-year-old startup Skyroot Aerospace, is a single-stage, spin-stabilized solid-propellant rocket with a mass of around 550 kilograms. It carries three customer payloads, including one from a customer outside India. The South Asian nation has 111 space startups registered on the In-SPACe platform, per an official response shared in the upper house of the country’s parliament in December. While startups such as GIC-backed Skyroot Aerospace and Rocketship.vc-invested Agnikul are into developing launch vehicles, Blume Ventures and Lightspeed Partners-backed Pixxel and ANIC-ARISE and Kalaari Capital-invested Digantara are building satellites. Indian space startups raised over $245.35 million, with $108.52 million infused in 2022 alone, according to the data shared by the Indian Space Association (ISpA) with TechCrunch. Microsoft has made scores of announcements in India this week as chief executive Satya Nadella visits the South Asian market. The company said earlier this week that HDFC Bank and Yes Bank have signed up to use Azure and other Microsoft cloud services.
+
+
+
+Microsoft partners with India space agency to work with startups
+
+
+
+
+			Jagmeet Singh		
+
+						15 hours		
+
+
+
+
+
+
+
+Microsoft plans to collaborate with the Indian space agency to give Indian space tech startups free access to cloud tools, the two said Thursday, the latest in the U.S. tech giant’s attempts to deepen its ties with young firms in the South Asian market.
+As part of a memorandum of understanding that Microsoft has signed with the Indian Space Research Organization, the firm will also provide space tech startups with go-to-market support and help them become enterprise ready, it said.
+Startups handpicked by ISRO will be onboarded to Microsoft for Startups Founders Hub platform, where they will receive free access to several tools and resources. These tools include help with building and scaling on Azure, as well as GitHub Enterprise, Visual Studio Enterprise, Microsoft 365 and Power BI and Dynamics 365.
+“ISRO’s collaboration with Microsoft will greatly benefit space tech startups in their analysis and processing of vast amounts of satellite data for various applications, using cutting-edge methods like AI, Machine Learning and Deep Learning,” said S Somanath, Chairman of ISRO, in a statement.
+“The Microsoft for Startups Founders Hub is a useful platform for bringing together startups and providers of technology solutions to support the national space technology ecosystem. We are pleased to work together to assist and support entrepreneurs, to in turn benefit the Indian economy as a whole.”
+Indian space tech startups are having a moment.
+In June 2020, the Indian government passed the space sector reforms and established the Indian National Space Promotion and Authorization Center (IN-SPACe) to allow private companies to use ISRO’s infrastructure. The government also set up NewSpace India Limited (NSIL) as the commercial arm of the space agency to work closely with private companies and startups.
+In November last year, ISRO successfully launched the Vikram-S after much anticipation in a boost to the private sector. The Vikram-S, developed by four-year-old startup Skyroot Aerospace, is a single-stage, spin-stabilized solid-propellant rocket with a mass of around 550 kilograms. It carries three customer payloads, including one from a customer outside India.
+The South Asian nation has 111 space startups registered on the In-SPACe platform, per an official response shared in the upper house of the country’s parliament in December.
+While startups such as GIC-backed Skyroot Aerospace and Rocketship.vc-invested Agnikul are into developing launch vehicles, Blume Ventures and Lightspeed Partners-backed Pixxel and ANIC-ARISE and Kalaari Capital-invested Digantara are building satellites.
+Indian space startups raised over $245.35 million, with $108.52 million infused in 2022 alone, according to the data shared by the Indian Space Association (ISpA) with TechCrunch.
+Microsoft has made scores of announcements in India this week as chief executive Satya Nadella visits the South Asian market. The company said earlier this week that HDFC Bank and Yes Bank have signed up to use Azure and other Microsoft cloud services.
+
+
+
+
+
+
+

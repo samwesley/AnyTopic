@@ -1,0 +1,40 @@
+Startups set to go to space for the first time on SpaceX’s Transporter-6 mission • TechCrunch
+SpaceX is poised to launch 114 payloads to orbit on a Falcon 9 tomorrow morning, the sixth mission of its smallsat rideshare program. But while the rocket company is now an old hand at launches – SpaceX just completed a record year with 61 launches in 2022 alone – for a handful of space startups, Transporter-6 marks a milestone. Those startups include Launcher, which is conducting its first space tug mission; an inaugural in-orbit tech demonstration from Magdrive; and Epic Aerospace, which is also launching a space tug for the first time. Launcher CEO Max Haot told TechCrunch that the company realized that there was a big market opportunity to develop a space tug after SpaceX debuted its rideshare program, which dramatically lowered the cost of launch. Launcher’s tug, called Orbiter, will deploy or host payload for 10 separate customers. The company is also developing a small launch vehicle; Orbiter will be its third stage. Space tugs are filling a market segment for customers that need a specific orbit but want to pay less than the cost of a dedicated rocket launch, Haot said. “There’s always a need eventually for a dedicated rocket if you need a specific orbit at a higher price, and eventually we’ll compete there, but the space tug really helps make these rideshare flights more useful since you can reach more than just one orbit,” he said. Launcher isn’t the only company that has its eye on the emerging space tug market. Epic Aerospace, which bills itself as a space transportation network company, will also be launching a tug on Transporter-6 for the first time. Space services companies Momentus, D-Orbit and Exolaunch will also be deploying or hosting satellites for customers on this mission. It may seem like the space tug market is already crowded with players, but Haot said the ultimate winners are far from decided. Image Credits: Launcher/John Kraus / Flickr (opens in a new window) Image Credits: Launcher/John Kraus / Flickr (opens in a new window) “If you look at the press reporting, it looks like a lot of companies are building space tugs. But if you look at the customers, this is very new and no one has yet really demonstrated a big transfer capability that’s useful to satellite companies,” he said. Magdrive, a UK-based startup developing a high-thrust spacecraft propulsion engine, will also be going to space for the first time for an in-orbit technology demonstration. The prototype propulsion system will draw in power from onboard solar panels, store it, and discharge it at varying power levels. “The mission lasts 12 months, but we’ll be aiming to try as many charge and discharge options as soon as possible so we get as much data as we can,” Magdrive CEO Mark Stokes told TechCrunch. Transporter-6 is set to take-off at 9:56 AM EST from Cape Canaveral Space Force Station. It will be the fifteenth flight of the Falcon 9 booster dubbed B1060. Transporter-6 will also carry satellites for Planet Labs and Spire Global, as well as other payloads for scientific, research and commercial customers. The launch will be streamed live on SpaceX’s website.
+
+
+
+Startups set to go to space for the first time on SpaceX’s Transporter-6 mission
+
+
+
+
+			Aria Alamalhodaei		
+
+						1 day		
+
+
+
+
+
+
+
+SpaceX is poised to launch 114 payloads to orbit on a Falcon 9 tomorrow morning, the sixth mission of its smallsat rideshare program. But while the rocket company is now an old hand at launches – SpaceX just completed a record year with 61 launches in 2022 alone – for a handful of space startups, Transporter-6 marks a milestone.
+Those startups include Launcher, which is conducting its first space tug mission; an inaugural in-orbit tech demonstration from Magdrive; and Epic Aerospace, which is also launching a space tug for the first time.
+Launcher CEO Max Haot told TechCrunch that the company realized that there was a big market opportunity to develop a space tug after SpaceX debuted its rideshare program, which dramatically lowered the cost of launch. Launcher’s tug, called Orbiter, will deploy or host payload for 10 separate customers. The company is also developing a small launch vehicle; Orbiter will be its third stage.
+Space tugs are filling a market segment for customers that need a specific orbit but want to pay less than the cost of a dedicated rocket launch, Haot said.
+“There’s always a need eventually for a dedicated rocket if you need a specific orbit at a higher price, and eventually we’ll compete there, but the space tug really helps make these rideshare flights more useful since you can reach more than just one orbit,” he said.
+Launcher isn’t the only company that has its eye on the emerging space tug market. Epic Aerospace, which bills itself as a space transportation network company, will also be launching a tug on Transporter-6 for the first time. Space services companies Momentus, D-Orbit and Exolaunch will also be deploying or hosting satellites for customers on this mission.
+It may seem like the space tug market is already crowded with players, but Haot said the ultimate winners are far from decided.
+Image Credits: Launcher/John Kraus / Flickr (opens in a new window)
+“If you look at the press reporting, it looks like a lot of companies are building space tugs. But if you look at the customers, this is very new and no one has yet really demonstrated a big transfer capability that’s useful to satellite companies,” he said.
+Magdrive, a UK-based startup developing a high-thrust spacecraft propulsion engine, will also be going to space for the first time for an in-orbit technology demonstration. The prototype propulsion system will draw in power from onboard solar panels, store it, and discharge it at varying power levels.
+“The mission lasts 12 months, but we’ll be aiming to try as many charge and discharge options as soon as possible so we get as much data as we can,” Magdrive CEO Mark Stokes told TechCrunch.
+Transporter-6 is set to take-off at 9:56 AM EST from Cape Canaveral Space Force Station. It will be the fifteenth flight of the Falcon 9 booster dubbed B1060. Transporter-6 will also carry satellites for Planet Labs and Spire Global, as well as other payloads for scientific, research and commercial customers.
+The launch will be streamed live on SpaceX’s website.
+
+
+
+
+
+
+

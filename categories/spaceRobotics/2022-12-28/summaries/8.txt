@@ -1,0 +1,3 @@
+block 1:  
+The latest motion controller from Galil is a single axis solution that features Ethernet/RS232 communication and an optional 800W Servo Drive. It can be purchased with an internal brushless sine drive or microstepping drive, which minimizes space, cost and wiring.
+block 2:  Southco provides secure access technologies to help protect robotics applications from theft and vandalism.

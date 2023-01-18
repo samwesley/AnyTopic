@@ -1,0 +1,57 @@
+How to measure biodiversity from space - Power Technology
+Biodiversity legislation increasingly calls for better vegetation monitoring, but can LIDAR imagery be beaten by space-based solutions? Despite their enormous complexity, a view from space has become almost commonplace. Thanks to online maps, everyone equates satellite imagery to an image of the roof of your home from several kilometres up. In recent months, many will have seen satellite images from the invasion of Ukraine, supplying up-to-date images piercing the fog of war. But these mental images hide the other potentials of space imagery, and the fact that visual data is only one part of the picture. Obtaining space imagery is no longer difficult, as advances in microsatellites have opened up the imagery market. These create a wealth of space-based imagery data, which can give answers to biodiversity questions when using appropriate post-processing. Utilities are increasingly employing predictive maintenance on their power lines, meaning regular scanning and monitoring. In a recent interview with Power Technology, Marc Spieler of Nvidia claimed LiDAR and supercomputers could seed a wave of infinitely complex digital twins. But Abhishek Singh, CEO of satellite imagery analysis company AIDash, and Sashin Mishra, AIDash’s head of Europe and sustainability, disagree. They told us that much more comes from above than meets the eye, and that the complexity involved in monitoring utilities, landscapes or particular environments means that space might be the only environment for accurate asset monitoring. Various satellite companies offer imagery from different angles, at different times, across different wavelengths. Singh says: “So, the visual band is just one wavelength we have available. We also have multi-spectral bands, which has bands like near infrared, shortened wave infrared, radio waves … and each different bands give us different information, and they all have different capabilities. “If we wanted to monitor flooding, then we cannot use visual bands because they cannot see through clouds. We can use synthetic aperture radar imagery to penetrate through cloud and give complete flood mapping in almost real-time.” This range of processes means space-based monitoring can be used for a range of functions, both within a particular industry, or with broader environmental applications such as monitoring biodiversity. “If I have to monitor temperatures, or if there’s a wildfire, I can use infrared imagery to find if there are pockets or sections on land which are hotter than others,” continues Singh. “To monitor forest health, I can use multi-spectral imagery which has visual signatures, but also has other bands which tell us about the tree health. It tells us about the dryness of the vegetation, showing dying trees, dead trees, healthy trees. From there, we can start to assess the health of an ecosystem, and its biodiversity.” Most areas cannot be monitored frequently, regularly, quickly or in detail without significant cost. In many applications, LiDAR offers a comparable service. For systems monitoring, particularly on power lines, space-based imagery competes with ground-based LiDAR imagery. LiDAR uses laser emitters to build 3D models of their surroundings from relatively close range. This has created increasingly large digital twins of power supply lines, such as Fugro’s digital twin of Tasmania’s power distribution network. In the US, various power companies use LiDAR to map their power lines, and assess their vulnerability to storms. Naturally, Singh and Mishra have criticisms of the application of LiDAR. Singh says: “LiDAR data collection is both slow and expensive. You have to fly your helicopter, or drive your vehicle along the power lines, so it takes months to collect data. Once that data is collected, analysing it takes weeks or months, so by the time the analysis is made, things have changed. “No utility in the world is using LiDAR frequently on their distribution lines. The use of LiDAR is primarily limited to transmission line monitoring. In the US, it monitors less than 10% of distribution lines.” Mishra continues, pointing to the environmental damage associated with LiDAR monitoring: “A helicopter typically flies at around 200kph. If it covers a line in one direction, it then has to fly back, halving its effective coverage over time. That doesn’t count take-off and landing. That means that, for a line of about 150km or 200km, emissions would be about one ton of carbon dioxide. “If we break down a satellite’s entire life cycle, including days of operation, images captured per day, then monitoring a 150km line would emit 69g per view. Ultimately, it’s self-defeating from a sustainability point-of-view.” While satellites are not without environmental impact, the satellites used for image gathering are much smaller than conventional satellites. These occupy otherwise unused spaces on other, larger satellite launches, in sizes down to that of a clenched fist. While these have much shorter operating lives than larger satellites, these microsatellites arguably have small launch emissions, and no operating emissions. Biodiversity describes the variety of plants and animals within an ecosystem. Each site has its own unique considerations, but biodiversity gives a broad-brush description of humanity’s impact on an area. Many sectors – construction, mining, most heavy industries – can deal significant damage to an environment, and in this context, companies will look to maintain a region’s biodiversity by ensuring the environment remains unchanged once its work is complete. The variety of animal life is hard to track via any distant method. However, all animals eventually rely on plants, which can be more easily assessed, and provide a snapshot of an industrial process’s impacts on an area. “We’ve talked about utilities, but because of biodiversity monitoring, we’re seeing interest from mining companies as well,” says Mishra. ”We’re talking to a customer who would like us to look at the forest in Mozambique, which has regulations around biodiversity. Because they’ve got these regulations, we can just map their definition [of biodiversity] back into our system” Mishra adds: “You require some sort of a regulatory framework to be able to determine how to measure biodiversity, and that will be based on the country you operate in. Not all countries have regulations for this, but Europe is not the only area thinking about it. “Local flora and fauna change every few hundred kilometres. How, then, do you determine whether you bringing the right biodiversity? Can you just bring in any variety of tree or animal? The answer to that is no. You have to bring in local varieties, and that’s where the regulatory framework really helps.” Currently, definitions of biodiversity vary between countries and companies must take care to follow local regulations. Mishra said he believes that a unified global definition for a region’s biodiversity would “truly benefit the industry a lot”. This would allow a worldwide fungible biodiversity market, but this concept remains far from reality at the moment. Such a market would make regular biodiversity assessments a regular part of operations, with otherwise disinterested countries able to subscribe to the scheme. The deep complexity of establishing a unified biodiversity unit cannot be understated. However, there is no reason to believe it to be entirely impossible. So who, will try it? 
+		Power industry news, data and in-depth articles on the global trends driving power generation, renewables and innovation 
+				Powered by
+				
+ © Verdict Media Limited 2022
+
+
+
+
+
+
+
+Interviews
+
+
+“Real stakeholders”: inside BayWa r.e.’s community-driven renewables
+
+ 
+
+
+
+
+
+
+Electrification
+
+
+A push for renewables-fuelled electrification to bring down emissions
+
+ 
+
+
+
+
+
+
+Interviews
+
+
+“You must have partnership with the private sector”: in conversation with the African Energy Chamber’s N J Ayuk
+
+ 
+
+
+
+
+
+
+Features
+
+
+Can community energy save lives this winter?
+
+
+
+

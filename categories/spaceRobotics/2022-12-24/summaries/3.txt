@@ -1,0 +1,6 @@
+block 1: 
+Robot Operating System (ROS) Market: 
+• Global robot operating system market expected to reach USD 894.45 Million by 2030, registering a CAGR of 9.2% during the forecast period 2021–2030 
+• Government and defense sectors are majorly contributing to the overall growth of the market due to increasing military expenditure across various countries    
+• The robotics industry is flourishing with ROS as it increases automation in factories, thus saving time and cost  
+• Asia-Pacific region held the largest market share for ROS in 2020 driven by high demand from China, Japan and India

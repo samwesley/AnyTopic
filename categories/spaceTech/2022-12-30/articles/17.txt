@@ -1,0 +1,300 @@
+Future Of Space Engineering Is Model-based - SpaceRef
+A hackathon challenged aerospace students to develop a detailed digital system model for a robotic assistant for astronauts on the Moon, able to identify key areas of interest in advance of any humans landing, guide them to their habitat and even rescue any moonwalkers in distress. The winning team, from France’s Institut Supérieur de l’Aéronautique et de l’Espace, completed their task within just two weeks, using Model Based System Engineering to do so. This method involves creating digital models of space missions to manage their design, construction, test and operation – and has been highlighted by ESA Director General Josef Aschbacher as key to the future of the Agency, and Europe’s wider competitiveness in space. The results of the 10-team hackathon, supported by Thales and French space agency CNES, were presented at this year’s Model Based Space Systems and Software Engineering workshop, MBSE2022, which took place at the Airbus Leadership Academy in Toulouse, co-organised by ESA, Airbus and CNES. This annual event presents the work of the Model Based for System Engineering Advisory Group (MB4SE), a multidisciplinary team of experts from ESA, national space agencies and industry, tasked with encouraging the use of Model Based System Engineering (MBSE) in the space sector. ESA Director General Josef Aschbacher has made this a priority objective in his Agenda 2025: “ESA projects are characterized by heavy engineering efforts form geographically dispersed teams in ESA and industry. Digital continuity throughout the life cycle of projects allows the substantial reduction of cost and efforts, and will shorten schedules. ESA will therefore digitalise its full project management, enabling the development of digital twins, both for engineering by using Model Based System Engineering and for procurement and finance, achieving full continuity with industry.” Spacecraft are among the most complex machines ever built, so systems engineering has always been an essential element in their realisation, focused on a space system as a whole rather than its individual subsystems. System engineers design the mission architecture, define a strategy for building and oversee the integration of its subsystems, as well as the verification and validation of the overall system. Traditional systems engineering for a mission is based around documentation. MBSE seeks to improve on that approach by using digital models instead to describe all the different subsystems and elements, and their relations with each other. Information that would usually be included in documents is instead expressed in a more structured and digitally processable way – as interactive diagrams, for example, rather than solely in the form of words. This allows it to be more easily processed and inspected, and used within different design and analysis software tools. The main benefit of this approach is the improvement in communication between all stakeholders. As soon as an update is made to the model then that change becomes accessible to everyone, immediately. The models can also be used to support the design and analysis, well before the system is being built. For example, virtual testing can be carried out in simulators far in advance of any physical hardware taking shape, and any lessons learned can be applied to optimise the design. The planning for testing and operations can also be guided by the model. A lot of data becomes generally accessible, rather than lost within individual disciplines or project phases, available for analysis using artificial intelligence and machine learning techniques to identify possible improvements, even to plan out procurement. Those attending MBSE2022 are tasked with making this ambituous vision happen: More than 300 engineers gathered in person, along with another hundred remote attendees, for about 50 presentations, addressing the broad diversity of the European space community. Among the key challenges under discussion was the need to create a standardised categorisation system defining the properties of all system elements and the relations between them – to enable interoperability along the digital workflow, allowing different software tools to work on the same data. A quartet of keynote speakers dealt with this and other challenges, with contributions from the International Council on Systems Engineering, Thales, Airbus and ESA itself. Pierrik Vuilleumier of the Agency’s Earth Observation Programmes Department highlighted the fact that many ESA missions in development are already making use of MBSE. One early pioneer was ESA Clean Space’s e.Deorbit mission, intended to retrieve space debris, which did not progress to its production phase but has a successor in the form of the commercial ClearSpace-1 mission, also using MBSE, due to remove part of a Vega launcher upper stage from orbit in 2025. Euclid – tasked with mapping the large scale geometry of the Universe to cast light on dark matter and dark energy – was ESA Science’s early adopter, subsequently joined by the exoplanet-detecting Plato and EnVision mission to Venus. And the Agency’s TRUTHS mission, planned to measure incoming solar radiation and of radiation reflected from Earth back out into space, is a pioneer on the Earth Observation side. Other large scale programmes harnessing MBSE include Moonlight – a constellation of lunar satellites to bring telecommunications and navigation services to the Moon – and Galileo Second Generation, as well as ESA’s Earth Return Orbiter of the international Mars Sample Return programme. The same is true of ESA’s contributions to the lunar Gateway and the Argonaut European Lunar Logistics Lander, for pinpoint landing of supplies to the Moon. ESA is supporting this work with multiple research activities within its Discovery and Preparation programme, including more than 80 projects to date proposed through its open-to-everyone Open Space Innovation Platform, illustrating the wide interest in digitalisation as the future of space engineering. SpaceRef co-founder, Explorers Club Fellow, ex-NASA, Away Teams, Journalist, Space & Astrobiology, Lapsed climber. In a letter to the FCC, SpaceX and OneWeb agrees to coordinate spectrum. 2022 Multiverse Media Inc. All right are reserved.
+
+
+
+New Space and Tech
+
+
+Future Of Space Engineering Is Model-based
+
+
+                                    By
+                                    Keith Cowing 
+
+                                    Press Release                                
+
+                                    ESA                                
+
+                                    December 29, 2022                                
+
+ 
+
+                                    Filed under
+                                    Education, hackathon 
+
+
+
+
+
+
+
+                                                                                                            A hackathon challenged aerospace students to develop a detailed digital system model for a robotic assistant for astronauts on the Moon                                                                                                    
+
+                                                        ESA                                                    
+
+
+
+A hackathon challenged aerospace students to develop a detailed digital system model for a robotic assistant for astronauts on the Moon, able to identify key areas of interest in advance of any humans landing, guide them to their habitat and even rescue any moonwalkers in distress.
+
+The winning team, from France’s Institut Supérieur de l’Aéronautique et de l’Espace, completed their task within just two weeks, using Model Based System Engineering to do so. This method involves creating digital models of space missions to manage their design, construction, test and operation – and has been highlighted by ESA Director General Josef Aschbacher as key to the future of the Agency, and Europe’s wider competitiveness in space.
+The results of the 10-team hackathon, supported by Thales and French space agency CNES, were presented at this year’s Model Based Space Systems and Software Engineering workshop, MBSE2022, which took place at the Airbus Leadership Academy in Toulouse, co-organised by ESA, Airbus and CNES.
+This annual event presents the work of the Model Based for System Engineering Advisory Group (MB4SE), a multidisciplinary team of experts from ESA, national space agencies and industry, tasked with encouraging the use of Model Based System Engineering (MBSE) in the space sector.
+ESA Director General Josef Aschbacher has made this a priority objective in his Agenda 2025: “ESA projects are characterized by heavy engineering efforts form geographically dispersed teams in ESA and industry. Digital continuity throughout the life cycle of projects allows the substantial reduction of cost and efforts, and will shorten schedules. ESA will therefore digitalise its full project management, enabling the development of digital twins, both for engineering by using Model Based System Engineering and for procurement and finance, achieving full continuity with industry.”
+Spacecraft are among the most complex machines ever built, so systems engineering has always been an essential element in their realisation, focused on a space system as a whole rather than its individual subsystems. System engineers design the mission architecture, define a strategy for building and oversee the integration of its subsystems, as well as the verification and validation of the overall system.
+Traditional systems engineering for a mission is based around documentation. MBSE seeks to improve on that approach by using digital models instead to describe all the different subsystems and elements, and their relations with each other. Information that would usually be included in documents is instead expressed in a more structured and digitally processable way – as interactive diagrams, for example, rather than solely in the form of words. This allows it to be more easily processed and inspected, and used within different design and analysis software tools.
+The main benefit of this approach is the improvement in communication between all stakeholders. As soon as an update is made to the model then that change becomes accessible to everyone, immediately.
+The models can also be used to support the design and analysis, well before the system is being built. For example, virtual testing can be carried out in simulators far in advance of any physical hardware taking shape, and any lessons learned can be applied to optimise the design. The planning for testing and operations can also be guided by the model. A lot of data becomes generally accessible, rather than lost within individual disciplines or project phases, available for analysis using artificial intelligence and machine learning techniques to identify possible improvements, even to plan out procurement.
+Those attending MBSE2022 are tasked with making this ambituous vision happen: More than 300 engineers gathered in person, along with another hundred remote attendees, for about 50 presentations, addressing the broad diversity of the European space community.
+Among the key challenges under discussion was the need to create a standardised categorisation system defining the properties of all system elements and the relations between them – to enable interoperability along the digital workflow, allowing different software tools to work on the same data.
+A quartet of keynote speakers dealt with this and other challenges, with contributions from the International Council on Systems Engineering, Thales, Airbus and ESA itself. Pierrik Vuilleumier of the Agency’s Earth Observation Programmes Department highlighted the fact that many ESA missions in development are already making use of MBSE.
+One early pioneer was ESA Clean Space’s e.Deorbit mission, intended to retrieve space debris, which did not progress to its production phase but has a successor in the form of the commercial ClearSpace-1 mission, also using MBSE, due to remove part of a Vega launcher upper stage from orbit in 2025.
+Euclid – tasked with mapping the large scale geometry of the Universe to cast light on dark matter and dark energy – was ESA Science’s early adopter, subsequently joined by the exoplanet-detecting Plato and EnVision mission to Venus. And the Agency’s TRUTHS mission, planned to measure incoming solar radiation and of radiation reflected from Earth back out into space, is a pioneer on the Earth Observation side.
+Other large scale programmes harnessing MBSE include Moonlight – a constellation of lunar satellites to bring telecommunications and navigation services to the Moon – and Galileo Second Generation, as well as ESA’s Earth Return Orbiter of the international Mars Sample Return programme. The same is true of ESA’s contributions to the lunar Gateway and the Argonaut European Lunar Logistics Lander, for pinpoint landing of supplies to the Moon.
+ESA is supporting this work with multiple research activities within its Discovery and Preparation programme, including more than 80 projects to date proposed through its open-to-everyone Open Space Innovation Platform, illustrating the wide interest in digitalisation as the future of space engineering.
+
+
+
+
+
+
+
+
+
+
+
+Keith Cowing 
+SpaceRef co-founder, Explorers Club Fellow, ex-NASA, Away Teams, Journalist, Space & Astrobiology, Lapsed climber.
+
+
+ Follow on Twitter
+                                       
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        NASA Spaceline Current Awareness List #1,030 30 December 2022 (Space Life Science Research Results)                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 30, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        Top Teams Advance in NASA’s Break the Ice Lunar Challenge                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 30, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        SPORT and petitSat CubeSats to Shed Light on Space Weather Disturbances                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 30, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        NOAA’s GeoXO Program Approved                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 30, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        Young ESA Team Prepare An Ariane 6 Passenger                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 29, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        SWOT Unfolds Itself in Space (videos)                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 29, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+                                            NASA Spaceline Current Awareness List #1,030 30 December 2022 (Space Life Science Research Results)                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            Top Teams Advance in NASA’s Break the Ice Lunar Challenge                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            SPORT and petitSat CubeSats to Shed Light on Space Weather Disturbances                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            NOAA’s GeoXO Program Approved                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            Young ESA Team Prepare An Ariane 6 Passenger                                        
+
+
+
+
+

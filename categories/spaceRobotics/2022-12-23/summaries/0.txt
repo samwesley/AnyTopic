@@ -1,0 +1,9 @@
+block 1: 
+• NASA has created a humanoid robot named Apollo that is intended to help with tasks like laundry at home and explore space.
+• Apollo includes sensors, cameras, and computer-vision algorithms along with two hands and arms with 7 degrees of freedom in each hand. 
+• The robot will be able to detect objects in its environment using computer vision algorithms allowing it to grasp an object without assistance from humans. 
+• The robot is being developed as part of the PhantomX program which seeks to develop robots for public use both on Earth and in space exploration missions. 
+Daily Briefing:
+• NASA has developed the humanoid robot 'Apollo' which can perform tasks like doing laundry at home and outer space exploration.
+• It consists of sensors, cameras, 2 hands & arms each having seven degrees of freedom & computer vision algorithms are leveraged for autonomously detecting objects so that it can reach out & grasp them.  
+• This project is part of PhantomX program focused on building robots for everyday use on Earth & outer space explorations missions respectively.

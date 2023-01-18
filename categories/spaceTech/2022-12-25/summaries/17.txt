@@ -1,0 +1,9 @@
+block 1: 
+
+Briefing: 
+Key Information on the Future of Diagnostics Space: 
+• The Indian diagnostics sector has seen exponential growth over the years and is estimated to be worth around $10 billion, with a CAGR of 12-13% expected in the next five years. 
+• Growth drivers include an increase in healthcare spending, life expectancy and income levels; greater awareness of preventative testing; improved diagnostic tests; diseases connected to lifestyle changes; and government healthcare initiatives.  
+• COVID-19 pandemic led to dramatic rise in demand for related testing such as RT-PCR & Antigen tests, resulting in refocus by manufacturers on home collection. 
+• Trends shaping future include genetic/genomic testing, metabolomics & proteomics testing, realtime diagnostics & AI medical imaging. Point of Care Testing (POCT) is also gaining importance due to its faster processing compared to traditional lab based testing.
+block 2:  Not applicable

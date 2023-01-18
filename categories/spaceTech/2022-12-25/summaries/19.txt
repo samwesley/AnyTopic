@@ -1,0 +1,7 @@
+block 1: 
+NASA's Mars Rovers Briefing:
+- In 2014, NASA's rovers found manganese oxides in rocks in the Gale and Endeavor craters on Mars 
+- Previously suggested that martian atmosphere had more oxygen billions of years ago due to the minerals found 
+- New study from Washington University showed that under Mars atmospheric conditions, the minerals can form without oxygen 
+- Chlorine and Bromine are dominant elements on Mars which helped convert manganese dissolved in water into mineral thousands to millions of times faster than with oxygen 
+- Oxygen not necessary for oxidation or life forms - halogen rich extremophile organisms could survive on Mars instead

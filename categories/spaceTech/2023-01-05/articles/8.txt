@@ -1,0 +1,530 @@
+Wandering stars found to exist billions of years ago
+Wandering stars that are not gravitationally tied to any one galaxy in a cluster can be found in clusters of hundreds or thousands of galaxies. These stars wander among galaxies emitting a ghostly haze of light. For several years, astronomers have pondered how these wandering stars become so scattered throughout the cluster. Leading theories include the possibility that the stars were stripped out of a cluster’s galaxies, or they were tossed around after mergers of galaxies, or they were present early in a cluster’s formative years many billions of years ago.  Now, a recent infrared survey from NASA’s Hubble Space Telescope has shed light on the mystery, with the new observations suggesting that these wandering stars have been around for billions of years.   The study, ‘Intracluster light is already abundant at redshift beyond unity,’ is published in the journal Nature.   The survey included ten galaxy clusters as far away as nearly ten billion light-years. The measurements had to be made from space as the intracluster light is 10,000 times dimmer than the night sky as seen from the ground.   It was revealed that the fraction of the intracluster light relative to the total light in the cluster remains constant, looking over billions of years back into time. “This means that these stars were already homeless in the early stages of the cluster’s formation,” said James Jee of Yonsei University in Seoul, South Korea.   Stars can be dispersed outside of their galactic birthplace when a galaxy moves through gaseous material in the space between galaxies, as it orbits the centre of the cluster. During this process, drag pushes gas and dust out of the galaxy.   © NASA, ESA, STScI, James Jee (Yonsei University); Image Processing: Joseph DePasquale (STScI) However, the results of the new Hubble survey mean that this mechanism can be ruled out as the primary cause of the intracluster star production, as the intracluster light fraction would increase over time if stripping were the main player. The new Hubble data shows a constant fraction over billions of years.   “We don’t exactly know what made them homeless. Current theories cannot explain our results, but somehow, they were produced in large quantities in the early Universe,” said Jee. “In their early formative years, galaxies might have been pretty small and they bled stars pretty easily because of a weaker gravitational grasp.”  “If we figure out the origin of intracluster stars, it will help us understand the assembly history of an entire galaxy cluster, and they can serve as visible tracers of dark matter enveloping the cluster,” said Hyungjin Joo of Yonsei University, the first author of the paper. Dark matter holds galaxies and clusters of galaxies together.   If the wandering stars were produced through a comparatively recent pinball game among galaxies, there would not be enough time for them to disperse throughout the entire gravitational field of the cluster. Therefore, they would not trace the distribution of the cluster’s dark matter. If the stars were born in the cluster’s early years, however, they will have fully dispersed throughout the cluster. Astronomers could then use the wandering stars to map out the dark matter distribution across the cluster.   This new technique complements the traditional method of dark matter mapping by measuring how the entire cluster warps light from background objects due to a phenomenon called gravitational lensing.  Fritz Zwicky first detected intracluster light in 1951 in the Coma cluster of galaxies. As this cluster is one of the nearest clusters to Earth, the ghost light was detected by Zwicky with a modest 18-inch telescope.   NASA’s James Webb Space Telescope’s near-infrared capability and sensitivity will deepen the search for intracluster stars further into the Universe, and should therefore help solve the mystery.  
+
+         
+ 
+  
+
+Save my name, email, and website in this browser for the next time I comment.
+  
+
+  Δ Innovation News Network brings you the latest science, research and innovation news from across the fields of digital healthcare, space exploration, e-mobility, biodiversity, aquaculture and much more. Disclaimer: www.innovationnewsnetwork.com is an independent portal and is not responsible for the content of external sites. Please Note: Phone calls may be recorded for training and monitoring purposes.
+
+
+
+
+
+
+Wandering stars found to exist billions of years ago
+
+
+
+By Emily Potts
+
+Space
+
+
+
+
+5th January 2023 
+
+
+
+
+Share
+
+
+Facebook
+
+
+Twitter
+
+
+Linkedin
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+© shutterstock/Maria Starovoytova
+Astronomers have used NASA’s Hubble Space Telescope to shed light on the mystery of wandering star formation. 
+Wandering stars that are not gravitationally tied to any one galaxy in a cluster can be found in clusters of hundreds or thousands of galaxies. These stars wander among galaxies emitting a ghostly haze of light. For several years, astronomers have pondered how these wandering stars become so scattered throughout the cluster. Leading theories include the possibility that the stars were stripped out of a cluster’s galaxies, or they were tossed around after mergers of galaxies, or they were present early in a cluster’s formative years many billions of years ago. 
+Now, a recent infrared survey from NASA’s Hubble Space Telescope has shed light on the mystery, with the new observations suggesting that these wandering stars have been around for billions of years.  
+The study, ‘Intracluster light is already abundant at redshift beyond unity,’ is published in the journal Nature.  
+Revelations from the Hubble survey 
+The survey included ten galaxy clusters as far away as nearly ten billion light-years. The measurements had to be made from space as the intracluster light is 10,000 times dimmer than the night sky as seen from the ground.  
+It was revealed that the fraction of the intracluster light relative to the total light in the cluster remains constant, looking over billions of years back into time. “This means that these stars were already homeless in the early stages of the cluster’s formation,” said James Jee of Yonsei University in Seoul, South Korea.  
+Stars can be dispersed outside of their galactic birthplace when a galaxy moves through gaseous material in the space between galaxies, as it orbits the centre of the cluster. During this process, drag pushes gas and dust out of the galaxy.  
+© NASA, ESA, STScI, James Jee (Yonsei University); Image Processing: Joseph DePasquale (STScI)
+However, the results of the new Hubble survey mean that this mechanism can be ruled out as the primary cause of the intracluster star production, as the intracluster light fraction would increase over time if stripping were the main player. The new Hubble data shows a constant fraction over billions of years.  
+“We don’t exactly know what made them homeless. Current theories cannot explain our results, but somehow, they were produced in large quantities in the early Universe,” said Jee. “In their early formative years, galaxies might have been pretty small and they bled stars pretty easily because of a weaker gravitational grasp.” 
+The importance of discovering the origin of wandering stars 
+“If we figure out the origin of intracluster stars, it will help us understand the assembly history of an entire galaxy cluster, and they can serve as visible tracers of dark matter enveloping the cluster,” said Hyungjin Joo of Yonsei University, the first author of the paper. Dark matter holds galaxies and clusters of galaxies together.  
+If the wandering stars were produced through a comparatively recent pinball game among galaxies, there would not be enough time for them to disperse throughout the entire gravitational field of the cluster. Therefore, they would not trace the distribution of the cluster’s dark matter. If the stars were born in the cluster’s early years, however, they will have fully dispersed throughout the cluster. Astronomers could then use the wandering stars to map out the dark matter distribution across the cluster.  
+This new technique complements the traditional method of dark matter mapping by measuring how the entire cluster warps light from background objects due to a phenomenon called gravitational lensing. 
+Detection of intracluster light  
+Fritz Zwicky first detected intracluster light in 1951 in the Coma cluster of galaxies. As this cluster is one of the nearest clusters to Earth, the ghost light was detected by Zwicky with a modest 18-inch telescope.  
+NASA’s James Webb Space Telescope’s near-infrared capability and sensitivity will deepen the search for intracluster stars further into the Universe, and should therefore help solve the mystery.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommended Articles
+
+
+
+
+
+
+
+ 
+
+
+EDITOR'S PICK
+
+			  Astronomers develop new way to analyse red giant stars        	
+
+
+
+
+
+
+ 
+
+
+EDITOR'S PICK
+
+			  Researchers challenge Einstein’s theory using extreme stars        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+TagsAstronomySpace Exploration
+
+
+
+Share
+
+
+Facebook
+
+
+Twitter
+
+
+Linkedin
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+Previous articleHydrogen production facilitated with new solar-powered deviceNext articleBlastr invest €4bn in new green steel production facility
+
+ 
+LEAVE A REPLY Cancel reply
+
+
+Please enter your comment!
+
+
+Please enter your name here
+
+
+
+You have entered an incorrect email address!
+Please enter your email address here
+
+
+
+
+
+
+Save my name, email, and website in this browser for the next time I comment.
+
+ 
+
+Δ 
+
+
+Featured TopicsSpace TechnologySpace Exploration
+
+Partner News
+
+   First Hydrogen expands its design of zero-emission vehicles
+
+22nd December 2022 
+
+
+ 
+
+   Maricunga lithium brine project’s 100% consolidated ownership nears completion
+
+16th December 2022 
+
+
+ 
+
+   QX Resources Limited initiates drilling at Turner River hard rock lithium...
+
+15th December 2022 
+
+
+ 
+
+   ACE Green Recycling signs long-term offtake agreement to supply recycled battery...
+
+8th December 2022 
+
+
+  
+
+
+
+
+Advertisements 
+
+Latest eBooks
+
+   Queensland Pacific Metals: Sustainable battery materials production will re-energise the nickel...
+ Launch eBook More Details 
+
+17th November 2022 
+
+
+ 
+
+   A comprehensive battery recycling platform to support the rising demand for...
+ Launch eBook More Details 
+
+31st October 2022 
+
+
+  
+Latest Partners
+
+   Reflex Advanced Materials: Advancing the US critical minerals supply chain
+
+3rd January 2023 
+
+
+ 
+
+   Pulsar: Envisioning the future of helium
+
+20th December 2022 
+
+
+  
+
+  
+
+Similar Articles
+
+
+
+ 
+
+ISS launches two CubeSats to analyse ionosphere space weather
+
+Space
+
+3rd January 2023 
+
+Two CubeSats have been launched from the ISS in a quest to further our understanding of space weather disturbances.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+How are Fermi bubbles at the centre of our galaxy produced?
+
+Space
+
+3rd January 2023 
+
+Fermi bubbles at the centre of our galaxy are now thought to be produced by fast-blowing outward winds and the associated ‘reverse shock.’
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Government space defence spendings reach new record in 2022
+
+Space
+
+30th December 2022 
+
+A new report has stated that rising government space defence spending is being driven by investments in space security and early warning. 
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Characterising the earliest galaxies in the Universe
+
+Space
+
+28th December 2022 
+
+A team of astrophysicists have used the presence of hydrogen to detect the formation of the Universe's earliest galaxies.
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+Similar Articles
+
+
+
+
+
+
+ 
+
+ESA launch special Jupiter Icy Moons Explorer pre-launch event
+
+Space
+
+27th December 2022 
+
+The ESA has announced that the Jupiter Icy Moons Explorer mission will be celebrated at an event in Toulouse on 20 January next year.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+NASA’s InSight Mars mission retires after years of collecting unique science
+
+Space
+
+22nd December 2022 
+
+After two failed contact attempts, NASA has decided to retire the InSight Mars mission after four years of service. 
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Virgin Orbit granted final approval for the first Spaceport Cornwall launch
+
+Space
+
+22nd December 2022 
+
+Virgin Orbit granted final remaining licenses from UK Civil Aviation Authority ahead of the first UK launch from Spaceport Cornwall.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Astronomers develop new way to analyse red giant stars
+
+Space
+
+19th December 2022 
+
+Red giant stars, dying stars that are in the final stages of stellar evolution, often experience glitches deep inside their inner core. 
+
+Read more
+
+
+
+
+
+
+
+
+More from Innovation News Network
+
+
+
+
+
+
+ 
+
+How are Fermi bubbles at the centre of our galaxy produced?
+
+Space
+
+3rd January 2023 
+
+Fermi bubbles at the centre of our galaxy are now thought to be produced by fast-blowing outward winds and the associated ‘reverse shock.’
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Government space defence spendings reach new record in 2022
+
+Space
+
+30th December 2022 
+
+A new report has stated that rising government space defence spending is being driven by investments in space security and early warning. 
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Characterising the earliest galaxies in the Universe
+
+Space
+
+28th December 2022 
+
+A team of astrophysicists have used the presence of hydrogen to detect the formation of the Universe's earliest galaxies.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+ESA launch special Jupiter Icy Moons Explorer pre-launch event
+
+Space
+
+27th December 2022 
+
+The ESA has announced that the Jupiter Icy Moons Explorer mission will be celebrated at an event in Toulouse on 20 January next year.
+
+Read more
+
+
+
+
+ 
+
+

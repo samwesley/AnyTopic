@@ -1,0 +1,2 @@
+block 1: 
+This article provides instructions on how to determine whether a user is a robot or not, by checking if the browser supports JavaScript and cookies, while also providing the reader with more information regarding related inquiries.

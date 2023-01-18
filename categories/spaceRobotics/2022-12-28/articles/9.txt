@@ -1,0 +1,136 @@
+Here are 6 times in 2022 that science broke physics
+Article: Get an update of science stories delivered straight to your inbox.  Get a daily dose of scienceGet a weekly Cosmos Catch-up  Cosmos » Core Sciences » Here are 6 times in 2022 that science broke physics 
+
+          Evrim Yazgin
+        
+ As we learn more about quantum mechanics, black holes, dark matter and other fundamental physics concepts, it is becoming increasingly common that we find ourselves having to question everything we thought to be true. Physics is weird. Below is a list of times that physics confused even itself in 2022. The weird physics year started off with the revelation in April that theoretical projections of the mass of W bosons were contradicted by measurements at FermiLab. W bosons – along with other particles like electrons, quarks and neutrinos – are among the subatomic particles which make up everything in the universe. These particles are described in the physicist’s “bible”, the Standard Model of Particle Physics. Along with Z bosons, W bosons mediate the weak nuclear force (responsible for radioactive decay and one of the four fundamental forces of nature). But these bozo particles aren’t playing nice with the poor physicists. Read more US and Russian physicists announced in June they had produced results suggestive of the discovery of a new fundamental particle – a sterile neutrino. It is yet another time the Standard Model of Particle Physics is coming under fire. Unlike normal neutrinos, a sterile neutrino would carry no charge and only interact through gravitation, not any of the other fundamental forces of nature. It’s not the first time that experiments involving gallium have thrown up this “anomaly”. It could also be an experimental error, or that our theories about neutrinos themselves need adjusting. A head-scratcher for sure. What would the potential for a new particle mean?  Sterile neutrinos could help explain dark matter – elusive, but five times more prevalent in the universe than ordinary matter. Read more Albert Einstein has deserved his reverential place in physics, but the master was not infallible. And new tests of his Theory of General Relativity at cosmic scale this year have raised questions about when the theory is applicable. General Relativity is the most complete explanation of gravity we have. But there are inconsistencies which not even Einstein could account for – namely the conflicting measurements of the rate of the universe’s expansion. These discrepancies are collectively called the “Hubble tension”. Researchers tested Einstein’s theories at the largest scale by looking at the cosmic microwave background and producing a computer model to map the evolution of the universe, and found yet more mismatches. But the team isn’t ready to declare it has proven Einstein wrong outright. It would take a brave physicist indeed. Read more Get an update of science stories delivered straight to your inbox.  Get a daily dose of scienceGet a weekly Cosmos Catch-up  The development of quantum mechanics has led to the possibility of utilising bizarre quantum effects to build super-fast, powerful quantum computers. But the physics of the quantum computers can sometimes throw up major curve balls. This year, researchers in New York realised their quantum computer had produced a completely new phase of matter. Not satisfied with their new state of matter, the physicists also observed that the phase exhibited two time dimensions despite there still being only a singular flow of time. The phase was produced by shining on atoms, lasers pulsed in a Fibonacci sequence. The mind-bending physics and geometry was the experimental culmination of five years of work. Read more The mathematical variables we use to translate the physical world into equations which can be quantified and understood may not be the only ways in which we can understand the universe. There’s nothing sacred about the variables we currently use. Things like distance, rotation, energy and momentum may not be all that there is – and a fresh set of eyes, not corrupted by the millennia of human physics – might be able to see different variables. This is exactly what a team of physicists and computer scientists found when they got a machine learning program to observe pendula and come up with its own equations of motion. The artificial intelligence came up with variables which had no match in our current understanding of physics! Read more Locomotion is predicated on Newton’s third law which states that: “for every action there is an equal and opposite reaction.” To move, an object has to exert a force (on the Earth, air, water.) and the repelling force causes the motion of the object. But a robot developed at Georgia Tech has achieved movement without abiding by this basic precept. The physics defying robot was built on a curved space, as opposed to the cartesian space (x-, y- and z-axes) that we’re used to. By jiggling about, the robot moved forward despite exerting negligible force on its environment. The team was careful to ensure that friction could be ruled out as the cause of the movement. Maybe thrust-less space vehicles in the future could be based on the same principle of jiggling in curved space? Read more Originally published by Cosmos as Here are 6 times in 2022 that science broke physics Evrim Yazgin has a Bachelor of Science majoring in mathematical physics and a Master of Science in physics, both from the University of Melbourne. There’s never been a more important time to explain the facts, cherish evidence-based knowledge and to showcase the latest scientific, technological and engineering breakthroughs. Cosmos is published by The Royal Institution of Australia, a charity dedicated to connecting people with the world of science. Financial contributions, however big or small, help us provide access to trusted science information at a time when the world needs it most. Please support us by making a donation or purchasing a subscription today. Get an update of science stories delivered straight to your inbox.  Get a daily dose of scienceGet a weekly Cosmos Catch-up  'Cosmos' and 'The Science of Everything' are registered trademarks in Australia and the USA, and owned by The Royal Institution of Australia Inc. T: 08 7120 8600 (Australia)
++61 8 7120 8600 (International)
+Customer Service
+9:00 am — 5:00 pm ACST
+Monday to Friday   [email protected]   PO Box 3652,
+Rundle Mall SA 5000, Australia   55 Exchange Place,
+Adelaide SA 5000, Australia Get an update of science stories delivered straight to your inbox.  Get a daily dose of scienceGet a weekly Cosmos Catch-up 
+Article: 
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+Tweet
+
+
+
+
+The sculpture at the entrance to FermiLab, in the US: "Broken Symmetry" by Robert R. Wilson. Credit: Raymond Boyd / Getty Images 
+
+More on:Particle physicsHiggs-adjacent particle discovered in “tabletop” experimentPart of a disCERNing crowd – life with and around the Large Hadron ColliderAnomalous experiment result suggests physicists may need to rethink the humble neutrino10 years after its discovery, how well do we know the Higgs boson?A primer to the theory of (almost) everything
+As we learn more about quantum mechanics, black holes, dark matter and other fundamental physics concepts, it is becoming increasingly common that we find ourselves having to question everything we thought to be true. Physics is weird. Below is a list of times that physics confused even itself in 2022.
+1. W bosons chunkier than expected
+The weird physics year started off with the revelation in April that theoretical projections of the mass of W bosons were contradicted by measurements at FermiLab.
+W bosons – along with other particles like electrons, quarks and neutrinos – are among the subatomic particles which make up everything in the universe. These particles are described in the physicist’s “bible”, the Standard Model of Particle Physics.
+Along with Z bosons, W bosons mediate the weak nuclear force (responsible for radioactive decay and one of the four fundamental forces of nature).
+But these bozo particles aren’t playing nice with the poor physicists.
+
+Read more
+2. A new neutrino could rewrite the book
+Located deep underground at the Baksan Neutrino Observatory in the Caucasus mountains in Russia, the completed two-zone gallium target, at left, contains an inner and outer tank of gallium, which is irradiated by an electron neutrino source. Credit: A.A. Shikhin.
+US and Russian physicists announced in June they had produced results suggestive of the discovery of a new fundamental particle – a sterile neutrino. It is yet another time the Standard Model of Particle Physics is coming under fire.
+Unlike normal neutrinos, a sterile neutrino would carry no charge and only interact through gravitation, not any of the other fundamental forces of nature.
+
+It’s not the first time that experiments involving gallium have thrown up this “anomaly”. It could also be an experimental error, or that our theories about neutrinos themselves need adjusting. A head-scratcher for sure.
+What would the potential for a new particle mean? 
+Sterile neutrinos could help explain dark matter – elusive, but five times more prevalent in the universe than ordinary matter.
+Read more
+3. Einstein might have been (ever so slightly) off (in certain instances)
+
+Milky way over the sky, view from the Southern Hemisphere. Credit: Sellwell / Moment / Getty.
+Albert Einstein has deserved his reverential place in physics, but the master was not infallible. And new tests of his Theory of General Relativity at cosmic scale this year have raised questions about when the theory is applicable.
+General Relativity is the most complete explanation of gravity we have. But there are inconsistencies which not even Einstein could account for – namely the conflicting measurements of the rate of the universe’s expansion. These discrepancies are collectively called the “Hubble tension”.
+Researchers tested Einstein’s theories at the largest scale by looking at the cosmic microwave background and producing a computer model to map the evolution of the universe, and found yet more mismatches.
+But the team isn’t ready to declare it has proven Einstein wrong outright. It would take a brave physicist indeed.
+
+Read more
+
+Get an update of science stories delivered straight to your inbox.
+
+ 
+
+
+
+
+
+
+
+
+
+Get a daily dose of scienceGet a weekly Cosmos Catch-up
+
+
+
+4. Quantum computer creates new phase of matter with two time dimensions
+In this quantum computer, physicists created a never-before-seen phase of matter that acts as if time has two dimensions. Credit: Quantinuum.
+The development of quantum mechanics has led to the possibility of utilising bizarre quantum effects to build super-fast, powerful quantum computers. But the physics of the quantum computers can sometimes throw up major curve balls.
+This year, researchers in New York realised their quantum computer had produced a completely new phase of matter. Not satisfied with their new state of matter, the physicists also observed that the phase exhibited two time dimensions despite there still being only a singular flow of time.
+
+The phase was produced by shining on atoms, lasers pulsed in a Fibonacci sequence.
+The mind-bending physics and geometry was the experimental culmination of five years of work.
+Read more
+5. Artificial invents new physics variables
+Latent embeddings from the framework coloured by physical state variables. Credit: Boyuan Chen/Columbia Engineering.
+
+The mathematical variables we use to translate the physical world into equations which can be quantified and understood may not be the only ways in which we can understand the universe. There’s nothing sacred about the variables we currently use.
+Things like distance, rotation, energy and momentum may not be all that there is – and a fresh set of eyes, not corrupted by the millennia of human physics – might be able to see different variables.
+This is exactly what a team of physicists and computer scientists found when they got a machine learning program to observe pendula and come up with its own equations of motion.
+The artificial intelligence came up with variables which had no match in our current understanding of physics!
+Read more
+
+6. Curved-space robot moves by defying known physical principles
+Experimental realisation of a swimmer on a sphere with actuated motors on a freely rotating boom arm. Credit: Georgia Tech.
+Locomotion is predicated on Newton’s third law which states that: “for every action there is an equal and opposite reaction.” To move, an object has to exert a force (on the Earth, air, water.) and the repelling force causes the motion of the object.
+But a robot developed at Georgia Tech has achieved movement without abiding by this basic precept.
+The physics defying robot was built on a curved space, as opposed to the cartesian space (x-, y- and z-axes) that we’re used to. By jiggling about, the robot moved forward despite exerting negligible force on its environment. The team was careful to ensure that friction could be ruled out as the cause of the movement.
+
+Maybe thrust-less space vehicles in the future could be based on the same principle of jiggling in curved space?
+Read more
+
+
+
+
+
+
+Originally published by Cosmos as Here are 6 times in 2022 that science broke physics
+
+
+
+
+
+
+
+
+Evrim Yazgin Evrim Yazgin has a Bachelor of Science majoring in mathematical physics and a Master of Science in physics, both from the University of Melbourne. 
+
+
+
+Read science facts, not fiction... There’s never been a more important time to explain the facts, cherish evidence-based knowledge and to showcase the latest scientific, technological and engineering breakthroughs. Cosmos is published by The Royal Institution of Australia, a charity dedicated to connecting people with the world of science. Financial contributions, however big or small, help us provide access to trusted science information at a time when the world needs it most. Please support us by making a donation or purchasing a subscription today.
+
+Make a donation 
+
+
+
+
+
+
+
+Article: 
+Article: 
+Article: 

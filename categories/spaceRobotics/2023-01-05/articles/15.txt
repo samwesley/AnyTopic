@@ -1,0 +1,512 @@
+Mars Is Littered With 'Much More' Than 16,000 Pounds of Human Trash
+Katherine Martinko is an expert in sustainable living. She holds a degree in English Literature and History from the University of Toronto. NASA/JPL-Caltech 
+If and when human beings take our first steps on the rusty soil of the Red Planet, we will be greeted by something extremely familiar: our own trash. 
+ 
+In an article published in The Conversation last fall, Cagri Kilic, a postdoctoral research fellow in robotics at West Virginia University, calculated that there were at least 15,694 pounds of debris left on Mars from previous missions. 
+ 
+“[W]e managed to leave debris on a planet where we haven’t been to yet,” Kilic tells Treehugger. “The number is kind of interesting.”
+ 
+Kilic studies how to track the rovers that humans send to the moon and Mars, which are the missions ultimately responsible for the human debris left on the celestial bodies. He says Martian debris usually takes one of three forms:
+ 
+Kilic reached his number by calculating the mass of all the spacecraft humans have launched to Mars—around 22,000 pounds—and subtracting the 6,306 pounds of currently active spacecraft to come up with 15,694 pounds. 
+ 
+In an email to Treehugger, he clarifies a few points about this number that had been misreported elsewhere. The figure represents mass, not weight, as an object’s weight depends on the gravity of the planet it finds itself on. Further, it doesn’t include all the human trash on Mars, such as orbiters or landing debris. 
+ 
+“Here is an example to make this clearer,” Kilic tells Treehugger. “The mass of the Opportunity rover is 185 kilograms (approximately 408 pounds), the backshell and parachute are approximately 210 kilograms (approximately 463 pounds), the heat shield is approximately 80 kilograms (approximately 176 pounds), and the lander is 348 kilograms (approximately 767 pounds).”
+ 
+That comes to 1,406 pounds from just one spacecraft landing that was not included in Kilic’s calculation.  
+ 
+“So the total mass of the space junk is actually much more higher” than 15,694 pounds, Kilic says.
+ 
+For just the inactive spacecraft included in this number, Kilic isn’t sure junk, waste, or trash is the best word. 
+ 
+“[T]hese might be better considered historical relics than space junk,” he says. “Maybe one day humankind can visit their location and see the pioneering efforts on the planetary exploration.”
+ 
+There is a certain symbolic weight to the mere fact of human debris on Mars, but does it actually pose a problem?
+ 
+There are two potential challenges that debris from past missions could present for future ones. 
+ 
+One is contamination. On December 21, Perseverance deposited its first sample tube filled with Martian dirt to be collected for study by a future mission, as NASA announced. The concern is that human debris could potentially end up in samples like these collected by the rovers, though Kilic says that this is an issue the scientists involved have planned for.
+ 
+“All the space agencies are doing more than their best to reduce the risk of contamination,” he says. “For the issue on the possibility of the contamination on Mars, even though there is no immediate concern, Perseverance sampling teams are documenting the debris and checking to see if it may pose a potential contamination source for the sample tubes.”
+ 
+Another potential risk is entanglement from the discarded entry/descent/landing (EDL) gear. 
+ 
+“These scattered small debris can travel with Martian winds and may entangle to the robots,” Kilic explains.
+ 
+This is what might have happened with the pieces of Perseverance’s thermal blanket. 
+ 
+“It’s a surprise finding this here: My descent stage crashed about 2 kilometers away,” the robot tweeted of the discovery. “Did this piece land here after that, or was it blown here by the wind?”
+ 
+However, Kilic also notes that NASA has determined the risk of such entanglements to be low. 
+ 
+Overall, Kilic thinks that there is relatively little debris on Mars given humanity’s 50 years of exploration there. This is not the case on the moon, where the amount of debris is much higher. Then there’s the case of the space junk orbiting the Earth.
+ 
+“Space trash is a problem,” Kilic says. “There are many reasons why it is a problem: It is a problem because orbital debris can collide with or damage other orbiting systems, including [the] International Space Station.”
+ 
+The Department of Defense’s global Space Surveillance Network (SSN) sensors are currently monitoring more than 27,000 pieces of so-called “space junk” or orbital debris—around 23,000 of which are larger than a softball, according to NASA. Beyond this, there are many more pieces that are too small to be tracked but still pose a risk to spacecraft because they travel at speeds of up to 17,500 miles per hour. 
+ 
+“Even tiny paint flecks can damage a spacecraft when traveling at these velocities,” NASA says.
+ 
+Like the Martian debris, orbital debris usually comes from previous missions and includes defunct spacecraft, jettisoned stages from launch vehicles, and related materials. In one example of the havoc such junk can cause, a defunct Russian spacecraft crashed into a U.S. Iridium commercial spacecraft on February 10, 2009. The resulting collision sent more than 2,300 pieces of trackable trash into orbit.
+ 
+More missions to Mars will no doubt lead to more debris on that planet, but, despite the extent of the litter both on and around the Earth, Kilic is optimistic about our species’ capacity to learn from the past as we reach for the stars.
+ 
+“I feel that humankind will not do the same mistake that we had done for our planet, Earth,” he says.
+ "Space Debris and Human Spacecraft." NASA. May 26, 2021. Sign up for our newsletter By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. 
+
+
+
+News
+
+
+
+Environment
+
+
+Mars Is Littered With 'Much More' Than 16,000 Pounds of Human Trash
+
+
+'Space trash is a problem.'
+
+
+
+
+By
+
+Olivia Rosane
+
+
+
+
+
+
+
+
+ 
+
+Olivia Rosane
+
+
+
+
+ 
+
+
+Facebook
+ 
+
+ 
+
+
+LinkedIn
+ 
+
+ 
+
+
+Twitter
+ 
+
+
+
+Writer
+
+
+Barnard College
+
+Goldsmiths, University of London
+
+University of Cambridge
+
+
+Olivia Rosane is a freelance writer who focuses on environmental issues. Her work has appeared in EcoWatch, YES!, and Real Life Magazine.
+
+
+
+Learn about our 
+editorial process
+
+
+
+
+Published January 4, 2023 11:24AM EST
+
+
+
+
+
+
+Fact checked by
+
+Katherine Martinko
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Fact checked by
+Katherine Martinko
+
+
+
+
+ 
+
+
+Twitter
+ 
+
+
+
+
+University of Toronto
+
+
+Katherine Martinko is an expert in sustainable living. She holds a degree in English Literature and History from the University of Toronto.
+
+
+
+Learn about our 
+fact checking process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+Pinterest
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+ 
+
+NASA/JPL-Caltech
+
+
+
+
+
+
+News
+
+
+
+ 
+
+
+Environment
+
+
+
+ 
+
+ Business & Policy
+
+
+
+ 
+
+ Science
+
+
+
+ 
+
+ Animals
+
+
+
+ 
+
+ Home & Design
+
+
+
+ 
+
+ Current Events
+
+
+
+ 
+
+ Treehugger Voices
+
+
+
+ 
+
+ News Archive
+
+
+
+ 
+
+
+
+
+
+
+
+If and when human beings take our first steps on the rusty soil of the Red Planet, we will be greeted by something extremely familiar: our own trash. 
+
+
+
+In an article published in The Conversation last fall, Cagri Kilic, a postdoctoral research fellow in robotics at West Virginia University, calculated that there were at least 15,694 pounds of debris left on Mars from previous missions. 
+
+
+
+“[W]e managed to leave debris on a planet where we haven’t been to yet,” Kilic tells Treehugger. “The number is kind of interesting.”
+
+
+   Tallying the Trash on Mars  
+
+Kilic studies how to track the rovers that humans send to the moon and Mars, which are the missions ultimately responsible for the human debris left on the celestial bodies. He says Martian debris usually takes one of three forms:
+
+
+
+Abandoned hardware: This debris spreads when the protective module built around a spacecraft is jettisoned as it lands. The landing gear can sometimes break up and travel; for example, NASA’s Perseverance Mars Rover spotted a piece of the thermal blanket from its descent stage sticking up out of the Martian sand in June.
+Inactive spacecraft: There are nine spacecraft left over from previous Mars missions—the Mars 3 lander, the Mars 6 lander, the Viking 1 lander, the Viking 2 lander, the Sojourner rover, the Beagle 2 lander, the Phoenix lander, the Spirit rover, and the Opportunity rover.
+Crashed spacecraft: Not all spacecraft land safely and go on to conduct their missions. There are at least two crashed spacecraft on Mars and four that lost contact with Earth before landing.
+
+
+
+Kilic reached his number by calculating the mass of all the spacecraft humans have launched to Mars—around 22,000 pounds—and subtracting the 6,306 pounds of currently active spacecraft to come up with 15,694 pounds. 
+
+
+
+In an email to Treehugger, he clarifies a few points about this number that had been misreported elsewhere. The figure represents mass, not weight, as an object’s weight depends on the gravity of the planet it finds itself on. Further, it doesn’t include all the human trash on Mars, such as orbiters or landing debris. 
+
+
+
+“Here is an example to make this clearer,” Kilic tells Treehugger. “The mass of the Opportunity rover is 185 kilograms (approximately 408 pounds), the backshell and parachute are approximately 210 kilograms (approximately 463 pounds), the heat shield is approximately 80 kilograms (approximately 176 pounds), and the lander is 348 kilograms (approximately 767 pounds).”
+
+
+
+That comes to 1,406 pounds from just one spacecraft landing that was not included in Kilic’s calculation.  
+
+
+
+“So the total mass of the space junk is actually much more higher” than 15,694 pounds, Kilic says.
+
+
+
+For just the inactive spacecraft included in this number, Kilic isn’t sure junk, waste, or trash is the best word. 
+
+
+
+“[T]hese might be better considered historical relics than space junk,” he says. “Maybe one day humankind can visit their location and see the pioneering efforts on the planetary exploration.”
+
+
+   Trashy Entanglements   
+
+There is a certain symbolic weight to the mere fact of human debris on Mars, but does it actually pose a problem?
+
+
+
+There are two potential challenges that debris from past missions could present for future ones. 
+
+
+
+One is contamination. On December 21, Perseverance deposited its first sample tube filled with Martian dirt to be collected for study by a future mission, as NASA announced. The concern is that human debris could potentially end up in samples like these collected by the rovers, though Kilic says that this is an issue the scientists involved have planned for.
+
+
+
+“All the space agencies are doing more than their best to reduce the risk of contamination,” he says. “For the issue on the possibility of the contamination on Mars, even though there is no immediate concern, Perseverance sampling teams are documenting the debris and checking to see if it may pose a potential contamination source for the sample tubes.”
+
+
+
+Another potential risk is entanglement from the discarded entry/descent/landing (EDL) gear. 
+
+
+
+“These scattered small debris can travel with Martian winds and may entangle to the robots,” Kilic explains.
+
+
+
+This is what might have happened with the pieces of Perseverance’s thermal blanket. 
+
+
+
+“It’s a surprise finding this here: My descent stage crashed about 2 kilometers away,” the robot tweeted of the discovery. “Did this piece land here after that, or was it blown here by the wind?”
+
+
+
+However, Kilic also notes that NASA has determined the risk of such entanglements to be low. 
+
+
+
+Overall, Kilic thinks that there is relatively little debris on Mars given humanity’s 50 years of exploration there. This is not the case on the moon, where the amount of debris is much higher. Then there’s the case of the space junk orbiting the Earth.
+
+
+
+“Space trash is a problem,” Kilic says. “There are many reasons why it is a problem: It is a problem because orbital debris can collide with or damage other orbiting systems, including [the] International Space Station.”
+
+
+
+The Department of Defense’s global Space Surveillance Network (SSN) sensors are currently monitoring more than 27,000 pieces of so-called “space junk” or orbital debris—around 23,000 of which are larger than a softball, according to NASA. Beyond this, there are many more pieces that are too small to be tracked but still pose a risk to spacecraft because they travel at speeds of up to 17,500 miles per hour. 
+
+
+
+“Even tiny paint flecks can damage a spacecraft when traveling at these velocities,” NASA says.
+
+
+
+Like the Martian debris, orbital debris usually comes from previous missions and includes defunct spacecraft, jettisoned stages from launch vehicles, and related materials. In one example of the havoc such junk can cause, a defunct Russian spacecraft crashed into a U.S. Iridium commercial spacecraft on February 10, 2009. The resulting collision sent more than 2,300 pieces of trackable trash into orbit.
+
+
+
+More missions to Mars will no doubt lead to more debris on that planet, but, despite the extent of the litter both on and around the Earth, Kilic is optimistic about our species’ capacity to learn from the past as we reach for the stars.
+
+
+
+“I feel that humankind will not do the same mistake that we had done for our planet, Earth,” he says.
+
+
+
+
+
+
+
+
+
+
+View Article Sources
+
+
+
+
+
+
+
+
+
+
+
+"Space Debris and Human Spacecraft." NASA. May 26, 2021.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

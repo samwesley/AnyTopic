@@ -1,0 +1,444 @@
+How effectively do trees reduce atmospheric CO2 levels?
+Led by the University of Copenhagen in collaboration with the University of Nottingham, the research suggests that when forests first emerged on Earth, atmospheric CO2 levels were far less than previously believed. The findings change over 30 years of understanding and could have significant implications for combatting climate change. The study, ‘Low atmospheric CO2 levels before the rise of forested ecosystems,’ is published in Nature Communications.  Our planet first started to become colonised by forests around 385 million years ago and was preceded by the emergence of shallow shrub-like plants with vascular tissue, stems, and shallow roots, which had no flowers. It was previously thought that atmospheric CO2 levels at that time were much higher than seen today, causing a greenhouse effect that led to a warmer climate. It was believed that the emergence of forests aided CO2 removal from the atmosphere, leading to the Earth’s cooling. However, reconstructing atmospheric CO2 levels in the geological past is challenging and previously relied on proxies dependent on assumed parameters, leading to inaccuracies. Climate scientists agree that CO2 played a pivotal role in shaping our planet’s climate in the past and present, but what controlled atmospheric CO2 levels is hotly contested. The researchers’ new method looks to solve this ambiguity. Professor Tais Dahl, who led the study from the Globe institute at the University of Copenhagen, explained: “We calibrated a mechanistic model for the gas exchange between plant leaves and the ambient air to the oldest lineage of vascular land plants, namely clubmosses. With this approach, we could calculate the CO2 level in the air solely from observations made on the plant material.” Their innovative method builds on three observations that can be made in living plants and fossil plant tissue, such as the ratio of two stable carbon isotopes and the size and density of stomata through which the plant uptakes CO2. The team calibrated the method in living clubmosses, illuminating that the method can accurately reproduce ambient CO2 levels in the greenhouse. Barry Lomax, Professor at the University of Nottingham and a co-author on the study, commented: “The newly calibrated method to study CO2 levels from the geological record is superior to previous approaches that produce estimates with unbound error bars simply because they depend on parameters that cannot be independently constrained in the geological record.” The team utilised their method on several of the oldest vascular plant fossils that lived before and after trees evolved on our planet, revealing that the ratio of the two stable carbon isotopes, carbon-13 and carbon-12, is similar to modern plants. Moreover, the stomata’s density and size were also similar, prompting a more comprehensive investigation of the early CO2 record, The scientists acquired data from 66 fossils of three distinct species of club mosses found in nine different areas globally, ranging from 410 to 380 million years in age. The atmospheric CO2 levels were only 30-70% higher – 525 to 715 parts-per-million (PM) – than today in all cases. This is significantly lower than the previously believed 2,000-8,000 ppm. Additionally, the researchers employed a paleoclimate model to demonstrate the Earth was a temperate planet with a mean tropical surface air temperature of 24.1 to 24.6°C. Georg Feulner from the Potsdam Institute for Climate in Germany, who co-authored the study, said: “We used a fully coupled atmosphere-ocean model to find that Earth had ice-covered poles when forests emerged. Yet, land plants could thrive in the tropical, subtropical, and temperate zones.” The research suggests that trees actually play an insignificant role in reducing atmospheric CO2 levels over long periods because early trees had deeper root systems and produced more developed soils associated with lower nutrient loss. Due to more efficient nutrient recycling in soils, trees have a smaller weathering demand than shallow shrub-like vegetation living before them. This contradicts previous beliefs that trees with deeper root systems accelerated CO2 removal through enhanced chemical weathering and dissolution of silicate rocks. The model shows that primitive shrub-like vascular plants potentially drove a huge decline in atmospheric CO2 earlier in history as they spread among the planet. However, the model also demonstrates that the vascular ecosystem would have also led to a rise in atmospheric CO2 levels simultaneously.
+
+     
+ 
+  
+
+Save my name, email, and website in this browser for the next time I comment.
+  
+
+  Δ Innovation News Network brings you the latest science, research and innovation news from across the fields of digital healthcare, space exploration, e-mobility, biodiversity, aquaculture and much more. Disclaimer: www.innovationnewsnetwork.com is an independent portal and is not responsible for the content of external sites. Please Note: Phone calls may be recorded for training and monitoring purposes.
+
+
+
+
+
+
+How effectively do trees reduce atmospheric carbon dioxide levels?
+
+
+
+By Jack Thomas
+
+Environment
+
+
+
+
+29th December 2022 
+
+
+
+
+Share
+
+
+Facebook
+
+
+Twitter
+
+
+Linkedin
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+© iStock/enot-poloskun
+An international team of researchers has developed a new method that accurately reveals how effective forests are at reducing atmospheric CO2 levels.
+Led by the University of Copenhagen in collaboration with the University of Nottingham, the research suggests that when forests first emerged on Earth, atmospheric CO2 levels were far less than previously believed. The findings change over 30 years of understanding and could have significant implications for combatting climate change.
+The study, ‘Low atmospheric CO2 levels before the rise of forested ecosystems,’ is published in Nature Communications. 
+How did forests change the Earth’s atmosphere?
+Our planet first started to become colonised by forests around 385 million years ago and was preceded by the emergence of shallow shrub-like plants with vascular tissue, stems, and shallow roots, which had no flowers.
+It was previously thought that atmospheric CO2 levels at that time were much higher than seen today, causing a greenhouse effect that led to a warmer climate. It was believed that the emergence of forests aided CO2 removal from the atmosphere, leading to the Earth’s cooling.
+However, reconstructing atmospheric CO2 levels in the geological past is challenging and previously relied on proxies dependent on assumed parameters, leading to inaccuracies. Climate scientists agree that CO2 played a pivotal role in shaping our planet’s climate in the past and present, but what controlled atmospheric CO2 levels is hotly contested. The researchers’ new method looks to solve this ambiguity.
+Professor Tais Dahl, who led the study from the Globe institute at the University of Copenhagen, explained: “We calibrated a mechanistic model for the gas exchange between plant leaves and the ambient air to the oldest lineage of vascular land plants, namely clubmosses. With this approach, we could calculate the CO2 level in the air solely from observations made on the plant material.”
+New method reveals how forests affect atmospheric CO2 levels
+Their innovative method builds on three observations that can be made in living plants and fossil plant tissue, such as the ratio of two stable carbon isotopes and the size and density of stomata through which the plant uptakes CO2. The team calibrated the method in living clubmosses, illuminating that the method can accurately reproduce ambient CO2 levels in the greenhouse.
+Barry Lomax, Professor at the University of Nottingham and a co-author on the study, commented: “The newly calibrated method to study CO2 levels from the geological record is superior to previous approaches that produce estimates with unbound error bars simply because they depend on parameters that cannot be independently constrained in the geological record.”
+The team utilised their method on several of the oldest vascular plant fossils that lived before and after trees evolved on our planet, revealing that the ratio of the two stable carbon isotopes, carbon-13 and carbon-12, is similar to modern plants. Moreover, the stomata’s density and size were also similar, prompting a more comprehensive investigation of the early CO2 record,
+The scientists acquired data from 66 fossils of three distinct species of club mosses found in nine different areas globally, ranging from 410 to 380 million years in age. The atmospheric CO2 levels were only 30-70% higher – 525 to 715 parts-per-million (PM) – than today in all cases. This is significantly lower than the previously believed 2,000-8,000 ppm. Additionally, the researchers employed a paleoclimate model to demonstrate the Earth was a temperate planet with a mean tropical surface air temperature of 24.1 to 24.6°C.
+Georg Feulner from the Potsdam Institute for Climate in Germany, who co-authored the study, said: “We used a fully coupled atmosphere-ocean model to find that Earth had ice-covered poles when forests emerged. Yet, land plants could thrive in the tropical, subtropical, and temperate zones.”
+The research suggests that trees actually play an insignificant role in reducing atmospheric CO2 levels over long periods because early trees had deeper root systems and produced more developed soils associated with lower nutrient loss.
+Due to more efficient nutrient recycling in soils, trees have a smaller weathering demand than shallow shrub-like vegetation living before them. This contradicts previous beliefs that trees with deeper root systems accelerated CO2 removal through enhanced chemical weathering and dissolution of silicate rocks.
+The model shows that primitive shrub-like vascular plants potentially drove a huge decline in atmospheric CO2 earlier in history as they spread among the planet. However, the model also demonstrates that the vascular ecosystem would have also led to a rise in atmospheric CO2 levels simultaneously.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommended Articles
+
+
+
+
+
+
+
+ 
+
+
+EDITOR'S PICK
+
+			  Carbon sequestration in UK woodlands twice as high as expected        	
+
+
+
+
+
+
+ 
+
+
+EDITOR'S PICK
+
+			  Carbon capture system provides carbon-negative ethylene production        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tagsclimate
+
+
+
+Share
+
+
+Facebook
+
+
+Twitter
+
+
+Linkedin
+
+
+Email
+
+
+Print
+
+
+
+
+
+
+
+
+
+Previous articleTen New Year’s resolutions you can make to achieve net zero emissionsNext articleRevolutionary sodium battery has four times the capacity of lithium-ion batteries
+
+ 
+LEAVE A REPLY Cancel reply
+
+
+Please enter your comment!
+
+
+Please enter your name here
+
+
+
+You have entered an incorrect email address!
+Please enter your email address here
+
+
+
+
+
+
+Save my name, email, and website in this browser for the next time I comment.
+
+ 
+
+Δ 
+
+
+Featured TopicsAgriculture
+Aquaculture
+Ecotechnology
+Battery Recycling
+Pollution
+
+
+Partner News
+
+   First Hydrogen expands its design of zero-emission vehicles
+
+22nd December 2022 
+
+
+ 
+
+   Maricunga lithium brine project’s 100% consolidated ownership nears completion
+
+16th December 2022 
+
+
+ 
+
+   QX Resources Limited initiates drilling at Turner River hard rock lithium...
+
+15th December 2022 
+
+
+ 
+
+   ACE Green Recycling signs long-term offtake agreement to supply recycled battery...
+
+8th December 2022 
+
+
+  
+
+
+
+
+Advertisements 
+
+Latest eBooks
+
+   Queensland Pacific Metals: Sustainable battery materials production will re-energise the nickel...
+ Launch eBook More Details 
+
+17th November 2022 
+
+
+ 
+
+   A comprehensive battery recycling platform to support the rising demand for...
+ Launch eBook More Details 
+
+31st October 2022 
+
+
+  
+Latest Partners
+
+   Queensland Pacific Metals: Sustainable battery materials production will re-energise the nickel...
+ Launch eBook More Details 
+
+17th November 2022 
+
+
+ 
+
+   A comprehensive battery recycling platform to support the rising demand for...
+ Launch eBook More Details 
+
+31st October 2022 
+
+
+  
+
+  
+
+Similar Articles
+
+
+
+ 
+
+Ten New Year’s resolutions you can make to achieve net zero emissions
+
+Environment
+
+28th December 2022 
+
+As we near the end of 2022, we look at the top ten New Year's resolutions you can make in 2023 to bring us closer to net zero emissions.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+How to reduce plastic waste and become more sustainable this Christmas
+
+Environment
+
+23rd December 2022 
+
+Despite Christmas being a time to celebrate, the UK accumulates hundreds of thousands of tonnes of plastic waste over the festive season.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Ocean algae more resilient to future climate change
+
+Environment
+
+22nd December 2022 
+
+Scientists have found evidence to suggest that marine algae are much more resilient to future climate change than previously thought. 
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Carbon sequestration in UK woodlands twice as high as expected
+
+Environment
+
+20th December 2022 
+
+Find out how the carbon sequestration capacity of UK woodlands is potentially double that of previous estimates. 
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+
+Similar Articles
+
+
+
+
+
+
+ 
+
+Transforming carbon emissions into climate-friendly plastics
+
+Environment
+
+16th December 2022 
+
+A research project coordinated by VTT examines the use of carbon dioxide in the manufacture of different types of plastic products. 
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Tsunami warning systems improved using signals from Earth’s ionosphere
+
+Environment
+
+13th December 2022 
+
+Research suggests that using signals from Earth’s ionosphere could effectively optimise tsunami warning systems.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Carbon capture system provides carbon-negative ethylene production
+
+Environment
+
+13th December 2022 
+
+Experts have developed an innovative carbon capture system that enables the carbon-negative production of ethylene.
+
+Read more
+
+
+
+
+
+
+
+ 
+
+Economic degrowth policies will be effective in fighting climate change
+
+Environment
+
+12th December 2022 
+
+Degrowth policies can be effective in fighting climate breakdown and biodiversity loss, as well as securing human needs and well-being.
+
+Read more
+
+
+
+
+
+
+
+
+More from Innovation News Network
+ 
+
+

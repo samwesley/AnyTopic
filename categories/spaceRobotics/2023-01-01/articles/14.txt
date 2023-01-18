@@ -1,0 +1,88 @@
+Here’s a look at the Computer Vision trends that are likely to dominate the industry next year IT Voice | Online IT Media | IT Magazine
+
+IT Voice | Online IT Media | IT Magazine
+ IT in Depth 
+IT Voice | Online IT Media | IT Magazine
+ The machine uses computer vision to ‘see’ the world. Artificial intelligence (AI) models are created to mimic how live things can perceive, interpret, and understand their environment. Machines accomplish this by analysing the photos, videos, and surrounding objects. Computer vision was heavily utilised in recent innovations like Tesla’s Optimus Robot and Full-Self Driving for object identification and image tracking. For picture processing and interpretation, computer vision is used in even 2D to 3D models. 8,161 submissions were received for the Conference on Computer Vision and Pattern Recognition (CVPR) 2022, and thousands of them attempted to address various AI/ML issues. Let’s examine some of the foreseeable trends in the field of computer vision in light of these breakthroughs and improvements. Autonomous Vehicles The goal of developing self-driving cars has been ongoing for a while. Identification of the things around the car is one of the most crucial steps in creating autonomous vehicles so that it can travel and navigate safely. Algorithms based on computer vision can be used in this situation. Auto-labelling is one of the strategies that businesses like Tesla have adopted to advance their self-driving cars. Other transportation-related applications like vehicle classification, traffic flow analysis, vehicle identification, monitoring of road conditions, accident avoidance systems, and driver attentiveness detection can benefit from the same technology. Increased use of edge computing There will probably be a trend toward adopting edge computing to perform computations closer to the source of the data as the demand for real-time processing of visual data grows. Computer vision tasks have historically been carried out on centralised servers or cloud-based platforms, which can be laborious and call for a steady internet connection. With the use of edge computing, these systems can make rapid judgements based on visual data without repeatedly transmitting it to the cloud for processing. Robotics Robots can navigate and manipulate objects in their environment by using algorithms to analyse images and video from cameras. This allows robots to detect and identify objects as well as understand their shape, size, and location. This is one of the main areas where computer vision is expected to play a significant role in robotics. As a result, robots may be able to carry out operations like gripping and moving objects as well as dodging pitfalls and navigating through challenging environments. Robots can comprehend human behaviour by analysing facial expressions, body language, and other visual cues using computer vision. Robots might therefore be employed in fields like customer service, teaching, and healthcare. Retail Cameras can be deployed in shops and retail establishments to inspect products on shelves, automatically determine the stock, and identify the most popular items. Similar to how filters on Snapchat or Instagram work by superimposing items on top of the person in front of the camera, augmented reality (AR) can be used to create “virtual fitting rooms” or “virtual mirrors” so that users can test out items without touching them or even visiting the story. 3D reconstruction We first saw text-to-image models in 2022, and those eventually gave way to text-to-3D models. This further led to the development of 3D reconstruction models utilising techniques like Neural Radiance Fields (NeRF), which could convert 2D photos into 3D meshes that could be used for building models in the metaverse and for recreating scenes. As a result, people can engage with digital worlds in a more authentic and natural way. This can also be utilised to create immersive virtual and augmented reality experiences. SpaceTech If you point your phone at an item in the sky, Apple’s computer vision-based apps can find it. This is only one example of how computer vision is used in the space business. We can precisely map and analyse the Earth’s surface and environment by analysing imagery and data gathered by satellite or aerial sensors. Additionally, we can foresee future catastrophes like earthquakes and hurricanes and then work efficiently to lessen their effects by analysing geographical data obtained from satellites. By locating and identifying space objects and also detecting their many features, computer vision can be employed for space exploration. The identification of these objects can also be used for space cleanup efforts, which NASA, ISRO, and all other major technology corporations are contemplating.
+
+
+
+
+
+
+
+ 
+                                 Artificial Intelligence
+                             
+
+ 
+                                 Mixed Reality (MR)
+                             
+
+ 
+                                 News
+                             
+ 
+Here’s a look at the Computer Vision trends that are likely to dominate the industry next year
+
+
+
+ 
+                    21 hours ago                    
+
+
+
+                    Shashvat Prakash                
+
+
+
+
+
+
+ 
+
+
+
+The machine uses computer vision to ‘see’ the world. Artificial intelligence (AI) models are created to mimic how live things can perceive, interpret, and understand their environment. Machines accomplish this by analysing the photos, videos, and surrounding objects.
+Computer vision was heavily utilised in recent innovations like Tesla’s Optimus Robot and Full-Self Driving for object identification and image tracking. For picture processing and interpretation, computer vision is used in even 2D to 3D models. 8,161 submissions were received for the Conference on Computer Vision and Pattern Recognition (CVPR) 2022, and thousands of them attempted to address various AI/ML issues.
+Let’s examine some of the foreseeable trends in the field of computer vision in light of these breakthroughs and improvements.
+Autonomous Vehicles
+The goal of developing self-driving cars has been ongoing for a while. Identification of the things around the car is one of the most crucial steps in creating autonomous vehicles so that it can travel and navigate safely. Algorithms based on computer vision can be used in this situation. Auto-labelling is one of the strategies that businesses like Tesla have adopted to advance their self-driving cars.
+Other transportation-related applications like vehicle classification, traffic flow analysis, vehicle identification, monitoring of road conditions, accident avoidance systems, and driver attentiveness detection can benefit from the same technology.
+Increased use of edge computing
+There will probably be a trend toward adopting edge computing to perform computations closer to the source of the data as the demand for real-time processing of visual data grows. Computer vision tasks have historically been carried out on centralised servers or cloud-based platforms, which can be laborious and call for a steady internet connection. With the use of edge computing, these systems can make rapid judgements based on visual data without repeatedly transmitting it to the cloud for processing.
+Robotics
+Robots can navigate and manipulate objects in their environment by using algorithms to analyse images and video from cameras. This allows robots to detect and identify objects as well as understand their shape, size, and location. This is one of the main areas where computer vision is expected to play a significant role in robotics. As a result, robots may be able to carry out operations like gripping and moving objects as well as dodging pitfalls and navigating through challenging environments. Robots can comprehend human behaviour by analysing facial expressions, body language, and other visual cues using computer vision. Robots might therefore be employed in fields like customer service, teaching, and healthcare.
+Retail
+Cameras can be deployed in shops and retail establishments to inspect products on shelves, automatically determine the stock, and identify the most popular items. Similar to how filters on Snapchat or Instagram work by superimposing items on top of the person in front of the camera, augmented reality (AR) can be used to create “virtual fitting rooms” or “virtual mirrors” so that users can test out items without touching them or even visiting the story.
+3D reconstruction
+We first saw text-to-image models in 2022, and those eventually gave way to text-to-3D models. This further led to the development of 3D reconstruction models utilising techniques like Neural Radiance Fields (NeRF), which could convert 2D photos into 3D meshes that could be used for building models in the metaverse and for recreating scenes. As a result, people can engage with digital worlds in a more authentic and natural way. This can also be utilised to create immersive virtual and augmented reality experiences.
+SpaceTech
+If you point your phone at an item in the sky, Apple’s computer vision-based apps can find it. This is only one example of how computer vision is used in the space business. We can precisely map and analyse the Earth’s surface and environment by analysing imagery and data gathered by satellite or aerial sensors. Additionally, we can foresee future catastrophes like earthquakes and hurricanes and then work efficiently to lessen their effects by analysing geographical data obtained from satellites.
+By locating and identifying space objects and also detecting their many features, computer vision can be employed for space exploration. The identification of these objects can also be used for space cleanup efforts, which NASA, ISRO, and all other major technology corporations are contemplating.
+
+Related
+ 
+Tags: autonomous vehicles, Computer vision, Robotics, Space Tech 
+
+Continue Reading
+Previous Nubia has announced the Red Magic 8 Pro and Red Magic 8 Pro+
+ 
+
+
+
+Leave a Reply					Cancel reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+

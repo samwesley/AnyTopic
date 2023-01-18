@@ -1,0 +1,31 @@
+Article: 0 block 1: 
+• NASA has created a humanoid robot named Apollo that is intended to help with tasks like laundry at home and explore space.
+• Apollo includes sensors, cameras, and computer-vision algorithms along with two hands and arms with 7 degrees of freedom in each hand. 
+• The robot will be able to detect objects in its environment using computer vision algorithms allowing it to grasp an object without assistance from humans. 
+• The robot is being developed as part of the PhantomX program which seeks to develop robots for public use both on Earth and in space exploration missions. 
+Daily Briefing:
+• NASA has developed the humanoid robot 'Apollo' which can perform tasks like doing laundry at home and outer space exploration.
+• It consists of sensors, cameras, 2 hands & arms each having seven degrees of freedom & computer vision algorithms are leveraged for autonomously detecting objects so that it can reach out & grasp them.  
+• This project is part of PhantomX program focused on building robots for everyday use on Earth & outer space explorations missions respectively. Article: 1 block 1:  Not Applicable Article: 2 block 1: 
+• 2022 will be a year of odd and futuristic trends in robotics 
+• Nanobots that swim inside human bodies to detect and repair disease
+• Drone delivery services featuring robotic 'unicorn' as fronts 
+• Military applications of robot dogs, such as sentry security patrolling  
+• Autonomous robots used for entertainment purposes, such as interacting with guests at resorts 
+Not Applicable Article: 3 block 1: 
+- Fincantieri and the Italian Hydrographic Institute of the Navy have reached an agreement for the building of a new research vessel
+- The hull will be built in Castellammare di Stabia within 24 months 
+- After completion, it will become part of the Ammiraglio Magnaghi active fleet
+- This is one of three vessels partially funded by EU funds to strengthen oceanographic research activities led by IHN 
+- The design has been optimized with advanced technologies to reduce acoustic emission, fuel consumption and impact on sea environment. Article: 4 block 1:  streets, barely inhabited beaches and a steady stream of departures as people try to flee town are all part of the new normal in Monaco amid its coronavirus outbreak.
+
+• Coronavirus causing changes in Monaco, including: 
+    - Empty streets 
+    - Barely inhabited beaches 
+    - Steady stream of departures as people attempt to flee town 
+• Area's new normal is drastically different than prior conditions Article: 5 block 1: 
+• Astrobotic Technology is a space robotics company that was founded in 2007 by Carnegie Mellon University alumnus, William "Red" Whittaker 
+• They develop robots for the purpose of exploring distant planets such as Mars and the Moon 
+• The goal of their mission is to make affordable planetary access available to everyone  
+• They have partnered with organizations such as NASA, ESA (European Space Agency), and JAXA (Japan Aerospace Exploration Agency) to create unmanned robotic payload solutions 
+• Astrobotic has been awarded over $3.5M from organizations like NASA which they use to design new lunar missions

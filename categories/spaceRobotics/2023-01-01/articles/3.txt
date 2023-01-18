@@ -1,0 +1,177 @@
+An Innovation Ecosystem Grows in Pasadena – Pasadena Now
+Inside the kitchens of some of America’s biggest fast food restaurants, you might find a new a mechanical fry cook on the job. A robotic arm called Flippy dunks the French fries in sizzling oil at a Jack in the Box location and runs the tortilla chip station at a Southern California Chipotle store. The minds behind these robots—Miso Robotics, a startup with a host of Caltech connections—design and test them right in the heart of Pasadena. When co-founder and chief research officer Ryan Sinnet (BS ’07) helped start Miso in 2016 along with partners including vice president of hardware engineering Rob Anderson (BS ’16), the founders chose Pasadena to be close to the robotics research at Caltech, which has its locus at the Center for Autonomous Systems and Technologies (CAST). Today, the firm routinely hires new employees and interns from the Institute because of its robotics focus. “What does it take to build a start-up in a new space or even just a competitive business? I think it takes the best people and the right people that have to have a certain skill set,” Sinnet says. “And Silicon Valley being kind of saturated, a lot of people are interested in these opportunities here.” Over the past couple of decades, the start-up ecosystem in Southern California has blossomed and developed an ecosystem with the funding, institutional collaboration, and people to support start-ups in fields from robotics to biotechnology, says Andy Wilson, executive director for the Alliance for SoCal Innovation. While Silicon Valley is known for innovations in software and computing, Wilson says, and “Silicon Beach” on Los Angeles’s west side focuses on digital content and film, the east side’s ecosystem centered around Pasadena has become a hub for start-ups in what he calls “frontier technologies” like solar energy, telescopes, batteries, and artificial intelligence. The innovation community is buoyed by the students and ideas that emerge from not only Caltech but also universities around the region plus an acceleration in venture capital and spaces for new start-ups to work. Meanwhile, the Institute has grown its partnerships with private industry. The AWS Center for Quantum Computing, the result of a partnership between Caltech and Amazon Web Services, recently opened on the north side of campus. Meanwhile, says Fred Farina, Caltech’s chief innovation and corporate partnerships officer, the Institute is working to build new space for start-ups on Green Street that will stand alongside a new home for the Carnegie Institute for Science. “These are events that would’ve been unthinkable a decade ago in the area. And it’s because we’ve got people that have put down roots and have developed their skill sets and their company technologies.” These partnerships benefit both Caltech and its home city, says David Tirrell, Caltech provost and Ross McCollum-William H. Corcoran Professor of Chemistry and Chemical Engineering. “They enrich the intellectual atmosphere in the Caltech community and create good jobs in the city of Pasadena.” Farina says these results come from the Institute taking a much more proactive approach over the past half decade toward supporting and stimulating the Pasadena innovation ecosystem. “We’re making sure that we have the tools and the infrastructure around campus to keep start-ups around Pasadena and to try to attract larger companies to Pasadena,” he says. When Steve Mayo (PhD ’87), now the Bren Professor of Biology and Chemistry and Merkin Institute Professor, joined the Caltech faculty in 1992, he already had experience in translating his laboratory research into a commercial company. As a student in the 1980s, he created Molecular Systems Inc. (now Biovia, which creates software products to aid researchers in molecular modeling, data science, and other fields). So, when one of his first graduate students, Bassil Dahiyat (PhD ’97), wanted to create a start-up based on his work in protein engineering, Mayo became both an academic and entrepreneurial mentor. With Mayo’s help, Dahiyat launched the life sciences company Xencor and became its president and CEO. “It was very daunting,” Dahiyat says. “What Steve did is just to say, ‘It’s possible.’” A quarter-century later, Xencor is one of the anchors of the Pasadena innovation ecosystem, developing therapeutic antibody and cytokine treatments for cancers and autoimmune disorders. The advantages of living in Southern California have always helped Dahiyat attract people with life sciences expertise to the area. And now that Xencor is one of several established biotech firms in town, the positive effects of being part of an innovation community have begun to snowball. “Now we’ve got multiple biotech companies spinning out of places like City of Hope, Caltech, or UCLA that want to be in the Pasadena area—successful growth companies getting big [initial] financing and companies getting bought by big pharmaceutical companies,” he says. “I think these are events that would’ve been unthinkable a decade ago in the area. And it’s because we’ve got people that have put down roots and have developed their skill sets and their company technologies. They’re not just bailing out and flying up to San Francisco, which is what most of them had done.” Michael Amori (MS ’07) shares a similar story. After completing his master’s degree, the sunshine and quality of life kept him in town. “Honestly, I just loved Caltech, and I also just loved the climate in Pasadena,” he says. “I thought it was a great place to raise a family.” His closeness to campus also provided the spark for Virtualitics, an AI-driven data visualization start-up he co-founded that is now headquartered next to campus on Lake Avenue and which was born from a very Caltech idea. Through alumni events, Amori was introduced to George Djorgovski, professor of astronomy and data science and director of the Center for Data Driven Discoveries (CD3), and to research done in collaboration with Ciro Donalek, a computational staff scientist at CD3. Donalek uses his PhD research in artificial intelligence to help Caltech astronomers analyze big data sets, such as when they search for one object of interest amid a sea of dark-sky images. He and Djorgovski also helped to create virtual spaces in which collaborators dispersed around the world could work together, such as the first professional community of astronomers in Second Life, the online platform that allowed users to create virtual versions of themselves and a “virtual Caltech” built in VR, where students could hang out. “They then started using the virtual environments more for data analytics—to see objects in 3-D and really explore the data and the models with other people in real time.” The different parts of Donalek’s research came together when Amori approached him about starting a company called Virtualitics, which uses three-dimensional visualizations to help clients understand data analysis at a level that goes beyond looking at numbers on a page. For instance, the firm can use data analysis to predict which mechanical parts of an aircraft or tank are in danger of failing the soonest. But sometimes its defense contractor clients need more information than a list of potentially problematic parts. “The problem with that is that the user does not feel a lot of confidence in the recommendation, because the user does not understand why that is being recommended,” Amori says. “If the user then has to explain to his or her boss why he’s doing some very time-consuming maintenance on a part that hasn’t broken down yet, the boss may not be so supportive.” The company’s data visualization helps the AI show its work, so to speak, by not only showing the troublesome part in 3-D but also explaining its rationale for suggesting the part may be about to fail. Like Miso Robotics, Virtualitics sees a variety of benefits from its proximity to Caltech. “I think the most important connections are to the talent that we can hire,” Amori says. “A lot of our employees, a lot of our engineers, are Caltech graduates, and being able to get access to these really smart, hardworking students is good. Then the other thing, on our board of advisors we have a couple of professors from Caltech who help us out on some of the technical problems that we need to solve, and that’s also been extremely valuable. I think it’s really the talent pool that you have here.” Still, any innovation community has its growing pains. When Virtualitics started in 2016, Amori and his colleagues had to put in extra work to find venture capital to back the company—whereas in places like Northern California, some of the world’s biggest tech investors are right across the street. When Xencor started in the late 1990s, Pasadena had relatively little by way of wet lab spaces that biotechnology firms require, Dahiyat says. But now, Wilson says, Southern California is coming into its own by bringing those resources to bear. In 2015, Wilson, in partnership with Mike Giardello (a Caltech postdoc and longtime CEO and CTO of Pasadena-based Materia), worked with the city and Caltech partners including Farina and the Caltech Office of Technology Transfer and Corporate Partnerships (OTTCP) to launch Innovate Pasadena, an organization dedicated to strengthening the local innovation ecosystem and spreading the word about what’s happening in this community. Before then, only a few venture capital firms operated in Pasadena, he says. Now, when the organization hosts networking events, 20-plus VCs—such as Kairos, Thin Line Capital, Wavemaker 360, Calibrate, Pasadena Angels, Smash Capital, Freeflo, and Mandala Space Ventures—show up. Caltech itself is now working with Wilson Hill Ventures, an independently managed firm whose mission is to advance Caltech-affiliated startups. Pasadena also is now home to the headquarters of Alexandria, one of the nation’s biggest real estate firms specializing in creating wet lab space for bioscience companies. The company is collaborating with Caltech on a large new research and development center to be built just north of campus on Green Street. Protomer, which is now owned by Eli Lilly and Company and grew out of Caltech research into therapeutic proteins, has established a Pasadena presence too. The city of Pasadena is just the beginning. Southern California is a sprawling region with an enormous, diverse population, elite universities, and dreamers who want to solve the world’s biggest challenges. The next challenge is to fully unify SoCal into a start-up powerhouse. “We have all the ingredients, but it is challenging to make the cake because we’re all so spread out and so diversified,” Wilson says. “Our work at the Alliance is really to knit the fabric that’s the innovation ecosystem across Southern California.” Get all the latest Pasadena news, more than 10 fresh stories daily, 7 days a week at 7 a.m. Your email address will not be published. Required fields are marked * Name (required)  Mail (required) (not be published)  Website    
+
+  More » EVENTS & ENTERTAINMENT | FOOD & DRINK | THE ARTS | REAL ESTATE | HOME & GARDEN | WELLNESS | SOCIAL SCENE | GETAWAYS | PARENTS & KIDS Home of the Week: Mills Act Contract with Property Tax Savings For Newsroom, Call (626) 737-8486 Ext. 8
+For Advertising, Call (626) 737-8486 Ext. 7
+Click for Directory Pasadena Now has been published daily since April, 2004 and is among the very oldest continuously operated community news websites in the U.S. Pasadena Now strives to publish a full spectrum of news and information articles in service to the entire community. The publication will remain free to readers and will not erect paywalls. Pasadena Now strives to provide factual, unbiased reporting. Our opinion section is open to all. Copyright © 2023. Pasadena Now | Terms of - Service | Privacy Policy | CA Notice of Collection RSS (Really Simple Syndication) feeds offer another way to get Pasadena Now content. Subscribe to our feeds to get the latest headlines, summaries and links back to full articles – formatted for your favorite feed reader and updated throughout the day. Breaking News Tips: (626) 737-8486 Extension 7 
+E-mail press release to : editor@pasadenanow.com 
+Fax press release to : (888) 650-9712  James Macpherson, Co-Publisher | jamesm@pasadenanowmagazine.com
+(626)737-8486 Ext. 7 Candice Merrill, Co-Publisher | editor@pasadenanowmagazine.com
+(626)737-8486 Ext. 4 Faith Fernandez, Chief Administrative Officer | ffernandez@pasadenanowmagazine.com
+(626)737-8486 Ext. 801 . Editorial Department André Coleman, Managing Editor | andrec@pasadenanowmagazine.com
+(626) 737-8486 Ext. 2 David Cross | newsdesk@pasadenanowmagazine.com
+(626)737-8486 Ext. 8 Eddie Rivera | erivera@pasadenanowmagazine.com
+(626)737-8486 Ext. 82 . Sales Jeff Vaughn, Sales Manager | jvaughn@pasadenanowmagazine.com
+(310) 378-9116 
+
+
+
+
+
+
+
+
+
+47 recommended0 commentsShareShareTweetSharePin it 
+
+
+
+
+ 
+
+Ciro Donalek, George Djorgovski, and Michael Amori on Caltech’s campus. Image: Lance Hayashida/Caltech
+Inside the kitchens of some of America’s biggest fast food restaurants, you might find a new a mechanical fry cook on the job. A robotic arm called Flippy dunks the French fries in sizzling oil at a Jack in the Box location and runs the tortilla chip station at a Southern California Chipotle store.
+The minds behind these robots—Miso Robotics, a startup with a host of Caltech connections—design and test them right in the heart of Pasadena. When co-founder and chief research officer Ryan Sinnet (BS ’07) helped start Miso in 2016 along with partners including vice president of hardware engineering Rob Anderson (BS ’16), the founders chose Pasadena to be close to the robotics research at Caltech, which has its locus at the Center for Autonomous Systems and Technologies (CAST). Today, the firm routinely hires new employees and interns from the Institute because of its robotics focus.
+
+
+“What does it take to build a start-up in a new space or even just a competitive business? I think it takes the best people and the right people that have to have a certain skill set,” Sinnet says. “And Silicon Valley being kind of saturated, a lot of people are interested in these opportunities here.”
+Over the past couple of decades, the start-up ecosystem in Southern California has blossomed and developed an ecosystem with the funding, institutional collaboration, and people to support start-ups in fields from robotics to biotechnology, says Andy Wilson, executive director for the Alliance for SoCal Innovation. While Silicon Valley is known for innovations in software and computing, Wilson says, and “Silicon Beach” on Los Angeles’s west side focuses on digital content and film, the east side’s ecosystem centered around Pasadena has become a hub for start-ups in what he calls “frontier technologies” like solar energy, telescopes, batteries, and artificial intelligence.
+The innovation community is buoyed by the students and ideas that emerge from not only Caltech but also universities around the region plus an acceleration in venture capital and spaces for new start-ups to work. Meanwhile, the Institute has grown its partnerships with private industry. The AWS Center for Quantum Computing, the result of a partnership between Caltech and Amazon Web Services, recently opened on the north side of campus. Meanwhile, says Fred Farina, Caltech’s chief innovation and corporate partnerships officer, the Institute is working to build new space for start-ups on Green Street that will stand alongside a new home for the Carnegie Institute for Science.
+
+
+
+
+
+“These are events that would’ve been unthinkable a decade ago in the area. And it’s because we’ve got people that have put down roots and have developed their skill sets and their company technologies.”— BASSIL DAHIYAT
+
+
+
+
+
+These partnerships benefit both Caltech and its home city, says David Tirrell, Caltech provost and Ross McCollum-William H. Corcoran Professor of Chemistry and Chemical Engineering. “They enrich the intellectual atmosphere in the Caltech community and create good jobs in the city of Pasadena.”
+Farina says these results come from the Institute taking a much more proactive approach over the past half decade toward supporting and stimulating the Pasadena innovation ecosystem. “We’re making sure that we have the tools and the infrastructure around campus to keep start-ups around Pasadena and to try to attract larger companies to Pasadena,” he says.
+When Steve Mayo (PhD ’87), now the Bren Professor of Biology and Chemistry and Merkin Institute Professor, joined the Caltech faculty in 1992, he already had experience in translating his laboratory research into a commercial company. As a student in the 1980s, he created Molecular Systems Inc. (now Biovia, which creates software products to aid researchers in molecular modeling, data science, and other fields). So, when one of his first graduate students, Bassil Dahiyat (PhD ’97), wanted to create a start-up based on his work in protein engineering, Mayo became both an academic and entrepreneurial mentor. With Mayo’s help, Dahiyat launched the life sciences company Xencor and became its president and CEO.
+“It was very daunting,” Dahiyat says. “What Steve did is just to say, ‘It’s possible.’”
+A quarter-century later, Xencor is one of the anchors of the Pasadena innovation ecosystem, developing therapeutic antibody and cytokine treatments for cancers and autoimmune disorders. The advantages of living in Southern California have always helped Dahiyat attract people with life sciences expertise to the area. And now that Xencor is one of several established biotech firms in town, the positive effects of being part of an innovation community have begun to snowball.
+“Now we’ve got multiple biotech companies spinning out of places like City of Hope, Caltech, or UCLA that want to be in the Pasadena area—successful growth companies getting big [initial] financing and companies getting bought by big pharmaceutical companies,” he says. “I think these are events that would’ve been unthinkable a decade ago in the area. And it’s because we’ve got people that have put down roots and have developed their skill sets and their company technologies. They’re not just bailing out and flying up to San Francisco, which is what most of them had done.”
+Michael Amori (MS ’07) shares a similar story. After completing his master’s degree, the sunshine and quality of life kept him in town. “Honestly, I just loved Caltech, and I also just loved the climate in Pasadena,” he says. “I thought it was a great place to raise a family.”
+His closeness to campus also provided the spark for Virtualitics, an AI-driven data visualization start-up he co-founded that is now headquartered next to campus on Lake Avenue and which was born from a very Caltech idea.
+Through alumni events, Amori was introduced to George Djorgovski, professor of astronomy and data science and director of the Center for Data Driven Discoveries (CD3), and to research done in collaboration with Ciro Donalek, a computational staff scientist at CD3. Donalek uses his PhD research in artificial intelligence to help Caltech astronomers analyze big data sets, such as when they search for one object of interest amid a sea of dark-sky images. He and Djorgovski also helped to create virtual spaces in which collaborators dispersed around the world could work together, such as the first professional community of astronomers in Second Life, the online platform that allowed users to create virtual versions of themselves and a “virtual Caltech” built in VR, where students could hang out. “They then started using the virtual environments more for data analytics—to see objects in 3-D and really explore the data and the models with other people in real time.”
+The different parts of Donalek’s research came together when Amori approached him about starting a company called Virtualitics, which uses three-dimensional visualizations to help clients understand data analysis at a level that goes beyond looking at numbers on a page. For instance, the firm can use data analysis to predict which mechanical parts of an aircraft or tank are in danger of failing the soonest. But sometimes its defense contractor clients need more information than a list of potentially problematic parts.
+“The problem with that is that the user does not feel a lot of confidence in the recommendation, because the user does not understand why that is being recommended,” Amori says. “If the user then has to explain to his or her boss why he’s doing some very time-consuming maintenance on a part that hasn’t broken down yet, the boss may not be so supportive.” The company’s data visualization helps the AI show its work, so to speak, by not only showing the troublesome part in 3-D but also explaining its rationale for suggesting the part may be about to fail.
+Like Miso Robotics, Virtualitics sees a variety of benefits from its proximity to Caltech.
+“I think the most important connections are to the talent that we can hire,” Amori says. “A lot of our employees, a lot of our engineers, are Caltech graduates, and being able to get access to these really smart, hardworking students is good. Then the other thing, on our board of advisors we have a couple of professors from Caltech who help us out on some of the technical problems that we need to solve, and that’s also been extremely valuable. I think it’s really the talent pool that you have here.”
+Still, any innovation community has its growing pains. When Virtualitics started in 2016, Amori and his colleagues had to put in extra work to find venture capital to back the company—whereas in places like Northern California, some of the world’s biggest tech investors are right across the street. When Xencor started in the late 1990s, Pasadena had relatively little by way of wet lab spaces that biotechnology firms require, Dahiyat says.
+But now, Wilson says, Southern California is coming into its own by bringing those resources to bear. In 2015, Wilson, in partnership with Mike Giardello (a Caltech postdoc and longtime CEO and CTO of Pasadena-based Materia), worked with the city and Caltech partners including Farina and the Caltech Office of Technology Transfer and Corporate Partnerships (OTTCP) to launch Innovate Pasadena, an organization dedicated to strengthening the local innovation ecosystem and spreading the word about what’s happening in this community. Before then, only a few venture capital firms operated in Pasadena, he says. Now, when the organization hosts networking events, 20-plus VCs—such as Kairos, Thin Line Capital, Wavemaker 360, Calibrate, Pasadena Angels, Smash Capital, Freeflo, and Mandala Space Ventures—show up. Caltech itself is now working with Wilson Hill Ventures, an independently managed firm whose mission is to advance Caltech-affiliated startups.
+Pasadena also is now home to the headquarters of Alexandria, one of the nation’s biggest real estate firms specializing in creating wet lab space for bioscience companies. The company is collaborating with Caltech on a large new research and development center to be built just north of campus on Green Street. Protomer, which is now owned by Eli Lilly and Company and grew out of Caltech research into therapeutic proteins, has established a Pasadena presence too.
+The city of Pasadena is just the beginning. Southern California is a sprawling region with an enormous, diverse population, elite universities, and dreamers who want to solve the world’s biggest challenges. The next challenge is to fully unify SoCal into a start-up powerhouse.
+“We have all the ingredients, but it is challenging to make the cake because we’re all so spread out and so diversified,” Wilson says. “Our work at the Alliance is really to knit the fabric that’s the innovation ecosystem across Southern California.”
+
+
+
+
+
+
+
+
+ Get our daily Pasadena newspaper in your email box. Free.
+Get all the latest Pasadena news, more than 10 fresh stories daily, 7 days a week at 7 a.m.
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make a comment
+
+Your email address will not be published. Required fields are marked *
+
+Name (required) 
+Mail (required) (not be published) 
+Website 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top of the News  
+
+
+
+Faith
+
+
+By EDDIE RIVERA, Editor, Weekendr Magazine
+Local Clergy Leaders March and Pray for Pasadena, New Year
+
+
+
+
+
+
+Community News
+
+
+
+Sunday Night Along Parade Route Predicted to Fall to 39 Degrees
+
+
+
+
+
+
+Public Safety
+
+
+CITY NEWS SERVICE
+Home Invasion Robbery Rocks San Marino
+
+
+
+
+
+
+Gabriel More »
+ShareTweetShare on Google+Pin on PinterestSend with WhatsApp
+
+
+
+
+
+
+
+

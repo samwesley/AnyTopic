@@ -1,0 +1,60 @@
+Top 10 robotic stories of 2022 - The Robot Report
+The Robot Report By Brianna Wessling | December 29, 2022 In 2022 we saw big movements in the robotics industry, from high-profile lawsuits to big acquisitions to exciting new robots and deployments, there was no shortage of news to cover this year.  Here are the top 10 most popular stories on The Robot Report in 2022. Subscribe to The Robot Report Newsletter or listen to The Robot Report Podcast to stay updated on the robotics stories you need to know about. Early this year, Amazon unveiled its first-ever autonomous mobile robot (AMR) Proteus. The company first entered the mobile robot space in 2012, when it acquired Kiva Systems for $775 million. Kiva Systems offered automated guided vehicles (AGVs) that have been at work in Amazon’s warehouses since. Read More  Boston Dynamics is suing competitor Ghost Robotics for patent infringement. Boston Dynamics claims Ghost Robotics infringed on seven patents related to its Spot quadruped robot. According to the complaint (PDF) filed in Delaware federal court, Boston Dynamics said Ghost Robotics’ Vision 60 and Spirit 40 quadrupeds both contain infringing capabilities. Read More  Boston Dynamics has landed the first customer for its Stretch case-handling robot. DHL Supply Chain is spending $15 million with Boston Dynamics to further automate warehouses in North America. Boston Dynamics will deliver a fleet of Stretch robots to multiple DHL warehouses throughout North America over the next three years. Read More  Ghost Robotics has responded to the patent infringement lawsuit recently filed by Boston Dynamics. Earlier this year, we learned that Boston Dynamics is suing competitor Ghost Robotics for allegedly infringing on seven patents related to the former’s Spot quadruped robot. Filed in Delaware Federal court on November 11, 2022, Boston Dynamics takes issue with both Ghost Robotics’ Vision 60 and Sprint 40 quadrupeds. Read More  Yes, you read that headline correctly. There is a new Intel RealSense depth camera on the market. The Intel RealSense D405 Depth Camera ($259) is a short-range stereo camera that the company said provides sub-millimeter accuracy. The Intel RealSense D405 Depth Camera is designed for robotics applications that require “close-range depth sensing.” Read More Earlier this year, we celebrated the one-year anniversary of the Perseverance rover landing on Mars. It touched down on Jezero Crater on Feb. 18, 2021, and is searching for signs of past life on Mars. During its journey, Perseverance is also taking some incredible images of Mars. Below are some of the more memorable photos taken by Perseverance over the past year. Read More NASA released the first science image from the James Webb Space Telescope (JWST) during a press conference with US President Joe Biden. The image was of SMACS J0723.3-7327. What you see in the image is an area of space that includes the faintest objects ever observed in the infrared. This slice of the vast universe covers a patch of sky approximately the size of a grain of sand held at arm’s length by someone on the ground. Read More  Hyundai Motor Group (Hyundai) announced the launch of the Boston Dynamics AI Institute. Hyundai and Boston Dynamics are making an initial investment of more than $400 million to make fundamental advances in artificial intelligence (AI), robotics and intelligent machines. The institute will be led by Marc Raibert, founder of Boston Dynamics. Read More Since it was unveiled as part of the Avengers Campus on June 4, 2021, Disneyland’s Spider-Man robot has successfully performed its stunts countless times. On June 9, 2022, however, robot Peter Parker momentarily lost its Spidey-Sense. The Spider-Man robot failed in mid-air and crashed into the W.E.B. facility that is part of the stunt setup. And it was all caught on video. You can watch the incident below. Read More  RoboTire announced that it’s installed and started operating its system at a Discount Tire in Fountain Hills, Arizona. The system can replace four tires on a passenger vehicle in less than 25 minutes. At the Discount Tire, the RoboTire System will remove, lift and install tire and wheel assemblies. RoboTire hopes that its system will reduce technician injuries that can be caused by repetitive heavy lifting. Read More Brianna Wessling is an Associate Editor, Robotics, WTWH Media. She joined WTWH Media in November 2021, and is a recent graduate from the University of Kansas. She can be reached at [email protected] Comment *  Name *  Email *  Website   
+
+  Δ This site uses Akismet to reduce spam. Learn how your comment data is processed. Copyright © 2022 WTWH Media LLC. All Rights Reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of WTWH Media Privacy Policy  | Advertising  | About Us 
+Top 10 robotic stories of 2022
+By Brianna Wessling | December 29, 2022
+
+
+
+Listen to this article
+
+
+
+
+
+
+
+
+
+In 2022 we saw big movements in the robotics industry, from high-profile lawsuits to big acquisitions to exciting new robots and deployments, there was no shortage of news to cover this year. 
+Here are the top 10 most popular stories on The Robot Report in 2022. Subscribe to The Robot Report Newsletter or listen to The Robot Report Podcast to stay updated on the robotics stories you need to know about.
+
+10. How Amazon developed precision autonomy for Proteus
+Early this year, Amazon unveiled its first-ever autonomous mobile robot (AMR) Proteus. The company first entered the mobile robot space in 2012, when it acquired Kiva Systems for $775 million. Kiva Systems offered automated guided vehicles (AGVs) that have been at work in Amazon’s warehouses since. Read More 
+
+9. Boston Dynamics suing Ghost Robotics over quadruped design
+Boston Dynamics is suing competitor Ghost Robotics for patent infringement. Boston Dynamics claims Ghost Robotics infringed on seven patents related to its Spot quadruped robot. According to the complaint (PDF) filed in Delaware federal court, Boston Dynamics said Ghost Robotics’ Vision 60 and Spirit 40 quadrupeds both contain infringing capabilities. Read More
+
+
+8. Boston Dynamics delivering a fleet of Stretch robots to DHL
+Boston Dynamics has landed the first customer for its Stretch case-handling robot. DHL Supply Chain is spending $15 million with Boston Dynamics to further automate warehouses in North America. Boston Dynamics will deliver a fleet of Stretch robots to multiple DHL warehouses throughout North America over the next three years. Read More
+
+
+7. Ghost Robotics responds to Boston Dynamics lawsuit
+Ghost Robotics has responded to the patent infringement lawsuit recently filed by Boston Dynamics. Earlier this year, we learned that Boston Dynamics is suing competitor Ghost Robotics for allegedly infringing on seven patents related to the former’s Spot quadruped robot. Filed in Delaware Federal court on November 11, 2022, Boston Dynamics takes issue with both Ghost Robotics’ Vision 60 and Sprint 40 quadrupeds. Read More
+
+
+6. Intel adds short-range RealSense D405 depth camera
+Yes, you read that headline correctly. There is a new Intel RealSense depth camera on the market. The Intel RealSense D405 Depth Camera ($259) is a short-range stereo camera that the company said provides sub-millimeter accuracy. The Intel RealSense D405 Depth Camera is designed for robotics applications that require “close-range depth sensing.” Read More
+
+5. 9 amazing photos from Mars Perseverance rover
+Earlier this year, we celebrated the one-year anniversary of the Perseverance rover landing on Mars. It touched down on Jezero Crater on Feb. 18, 2021, and is searching for signs of past life on Mars. During its journey, Perseverance is also taking some incredible images of Mars. Below are some of the more memorable photos taken by Perseverance over the past year. Read More
+
+4. NASA releases first science image from James Webb Space Telescope
+NASA released the first science image from the James Webb Space Telescope (JWST) during a press conference with US President Joe Biden. The image was of SMACS J0723.3-7327. What you see in the image is an area of space that includes the faintest objects ever observed in the infrared. This slice of the vast universe covers a patch of sky approximately the size of a grain of sand held at arm’s length by someone on the ground. Read More
+
+
+3. Hyundai launches Boston Dynamics AI Institute
+Hyundai Motor Group (Hyundai) announced the launch of the Boston Dynamics AI Institute. Hyundai and Boston Dynamics are making an initial investment of more than $400 million to make fundamental advances in artificial intelligence (AI), robotics and intelligent machines. The institute will be led by Marc Raibert, founder of Boston Dynamics. Read More
+
+2. Watch Disneyland’s Spider-Man robot crash during a stunt
+Since it was unveiled as part of the Avengers Campus on June 4, 2021, Disneyland’s Spider-Man robot has successfully performed its stunts countless times. On June 9, 2022, however, robot Peter Parker momentarily lost its Spidey-Sense. The Spider-Man robot failed in mid-air and crashed into the W.E.B. facility that is part of the stunt setup. And it was all caught on video. You can watch the incident below. Read More
+
+
+1. RoboTire installs its first system at Discount Tire
+RoboTire announced that it’s installed and started operating its system at a Discount Tire in Fountain Hills, Arizona. The system can replace four tires on a passenger vehicle in less than 25 minutes. At the Discount Tire, the RoboTire System will remove, lift and install tire and wheel assemblies. RoboTire hopes that its system will reduce technician injuries that can be caused by repetitive heavy lifting. Read More
+
+ Pony.ai and Baidu receive approval to test L4 robotaxis in Beijing 8 notable robotics acquisitions in 2022 ARO launches new RaaS service for any robotics OEM Looking back at our 2022 robotics predictions
+
+

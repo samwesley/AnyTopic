@@ -1,0 +1,2 @@
+block 1: 
+This article summarizes the progress of India's private space sector and highlights the potential for collaboration between ISRO, Indian private companies and foreign investment. It also mentions several initiatives taken to create a conducive environment for innovation in this sector such as reserving 28GHz band for space industry, implementation of Goods and Services Tax (GST), introduction of Production Linked Incentive Scheme (PLI) etc.

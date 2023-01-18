@@ -1,0 +1,139 @@
+Recreated 'Blue Marble' photo of Earth tests powerful new climate model | Space
+Article: When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.  The Blue Marble is arguably one of the most famous photographs of all time, so it makes perfect sense to use this beloved image as a test for a powerful new climate modeling program on one of the world's most powerful computers.  Researchers at the Max Planck Institute for Meteorology (MPI-M) in Germany set out to recreate the iconic image using nothing but the climate simulation and weather data from 1972. They didn't just want to recreate the view of swirling white clouds stretching across and around Earth, but also to bring that day in 1972 (or at least its weather patterns) to life. "Unlike the superficial beauty of the sun's light reflected by our Earth into the astronaut's camera lens, our Blue Marble is connected together by the laws of physics, which brings it into life and into motion," MPI-M officials wrote in a statement (opens in new tab). Related: The 1st photograph of all Earth: 50 years on, Blue Marble still inspires As Apollo 17 rocketed away from Earth, an astronaut in the crew capsule looked out and saw the fully illuminated Earth and snapped a photo before continuing his work. No one is quite sure who took the photo as it was one of many, but the stunning sight of the beautiful "Blue Marble" that is our planet, alone against the backdrop of the void of space, became a galvanizing image that turbocharged the nascent environmental movement. It's no wonder then that scientists looking to validate one of the most advanced climate models in the world chose to attempt to recreate the incredibly recognizable image.  The researchers took weather data from December 1972 and fed it into a computer model that could crunch hundreds of interacting climate variables. Starting two days prior to Dec. 7, the day Apollo 17 launched and the Blue Marble photo was taken, the simulation reproduced the weather conditions that produced the cloud cover and weather systems seen by the Apollo astronauts as they rocketed to the moon.  "Essentially, fifty years too late, we were creating a two-day forecast of the image the astronauts would then capture," officials wrote in the statement.  The incredible precision of the reproduced image, down to the detailed curls and swirls of cloud cover over Africa, is an incredible achievement in climate modeling, all the more so in that it's actually nothing but numbers and math interpreted by a computer simulator to produce the actual visualization. — Landsat: 20 remarkable photos of Earth (gallery)
+— The top 10 views of Earth from space
+— LightSail 2 captures stunning photos of Earth from space  However, the simulation didn't just produce a single photo; it recreated a living simulation of the climate that Apollo 17 astronauts would have felt as they readied themselves for the last crewed lunar mission ever attempted. And the simulation goes beyond the atmosphere, incorporating the oceans as well. "The simulations allow us to dive deep to study eddies well below the water's surface, or to rise up with convective currents following the march of the sun across the land surface," officials wrote in the statement. MPI-M also produced a video of the climate model in action, revealing how the iconic photo took shape. Follow John on Twitter at @ThisDotJohn or on Mastodon @ThisDotJohn@Mastodon.social. Follow us on Twitter @Spacedotcom and on Facebook.  Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.  John is a science and technology journalist and Space.com contributor. He received his B.A. in English and his M.A. in Computer Science from the City University of New York, Brooklyn College, and has bylines with TechRadar, Live Science, and other publications. You can find him on Twitter at @thisdotjohn or seeking out dark sky country for spectacular views of the cosmos.  Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab). ©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 
+Article: 
+
+
+
+
+Home
+
+
+News
+
+
+Science & Astronomy
+
+
+
+Recreated 'Blue Marble' photo of Earth tests powerful new climate model
+
+
+By John Loeffler published 25 December 2022 
+
+
+
+
+
+
+  (opens in new tab)
+
+
+
+  (opens in new tab)
+
+
+
+ 
+
+
+
+
+ (opens in new tab)
+
+
+
+  (opens in new tab)
+
+
+
+  (opens in new tab)
+
+
+
+
+
+
+
+
+
+Comments (0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the left, the original Blue Marble photo taken by the crew of Apollo 17 in 1972. On the left, a computer's recreation that tested a cutting-edge climate model.
+(Image credit: NASA/MPI-M, DKRZ, NVIDIA)
+
+
+
+
+The Blue Marble is arguably one of the most famous photographs of all time, so it makes perfect sense to use this beloved image as a test for a powerful new climate modeling program on one of the world's most powerful computers. Researchers at the Max Planck Institute for Meteorology (MPI-M) in Germany set out to recreate the iconic image using nothing but the climate simulation and weather data from 1972. They didn't just want to recreate the view of swirling white clouds stretching across and around Earth, but also to bring that day in 1972 (or at least its weather patterns) to life."Unlike the superficial beauty of the sun's light reflected by our Earth into the astronaut's camera lens, our Blue Marble is connected together by the laws of physics, which brings it into life and into motion," MPI-M officials wrote in a statement (opens in new tab).Related: The 1st photograph of all Earth: 50 years on, Blue Marble still inspiresAs Apollo 17 rocketed away from Earth, an astronaut in the crew capsule looked out and saw the fully illuminated Earth and snapped a photo before continuing his work. No one is quite sure who took the photo as it was one of many, but the stunning sight of the beautiful "Blue Marble" that is our planet, alone against the backdrop of the void of space, became a galvanizing image that turbocharged the nascent environmental movement.It's no wonder then that scientists looking to validate one of the most advanced climate models in the world chose to attempt to recreate the incredibly recognizable image. The researchers took weather data from December 1972 and fed it into a computer model that could crunch hundreds of interacting climate variables. Starting two days prior to Dec. 7, the day Apollo 17 launched and the Blue Marble photo was taken, the simulation reproduced the weather conditions that produced the cloud cover and weather systems seen by the Apollo astronauts as they rocketed to the moon. "Essentially, fifty years too late, we were creating a two-day forecast of the image the astronauts would then capture," officials wrote in the statement. The incredible precision of the reproduced image, down to the detailed curls and swirls of cloud cover over Africa, is an incredible achievement in climate modeling, all the more so in that it's actually nothing but numbers and math interpreted by a computer simulator to produce the actual visualization.Related stories:— Landsat: 20 remarkable photos of Earth (gallery)
+— The top 10 views of Earth from space
+— LightSail 2 captures stunning photos of Earth from space However, the simulation didn't just produce a single photo; it recreated a living simulation of the climate that Apollo 17 astronauts would have felt as they readied themselves for the last crewed lunar mission ever attempted. And the simulation goes beyond the atmosphere, incorporating the oceans as well."The simulations allow us to dive deep to study eddies well below the water's surface, or to rise up with convective currents following the march of the sun across the land surface," officials wrote in the statement.MPI-M also produced a video of the climate model in action, revealing how the iconic photo took shape.Follow John on Twitter at @ThisDotJohn or on Mastodon @ThisDotJohn@Mastodon.social. Follow us on Twitter @Spacedotcom and on Facebook. 
+
+
+Join our Space Forums to keep talking space on the latest missions, night sky and more! And if you have a news tip, correction or comment, let us know at: community@space.com.
+
+John Loeffler John is a science and technology journalist and Space.com contributor. He received his B.A. in English and his M.A. in Computer Science from the City University of New York, Brooklyn College, and has bylines with TechRadar, Live Science, and other publications. You can find him on Twitter at @thisdotjohn or seeking out dark sky country for spectacular views of the cosmos. 
+
+
+
+
+
+
+
+See all comments (0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No comments yet
+
+Comment from the forums
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article: 
+Article: 
+Article: 

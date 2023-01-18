@@ -1,0 +1,391 @@
+5 deep tech trends to watch from SA entrepreneurs - Ventureburn
+Article: Airports Company South Africa (ACSA) has confirmed that O.R Tambo airport is experiencing challenges with fuel supply. In a statement, ACSA said refueling of… Tiktok has become the go-to form of entertainment, and their clear mode update seems to be a winner. Browsing through a series of videos… Netflix plans to put a stop to password sharing. In a move likely to leave some freeloaders out in the cold, Netflix plans to… Building cyber resilience has become a business imperative for businesses across industries that hold sensitive information, warns Craig Allen, principal security engineer at iOCO,… The “as-a-service” model, whereby businesses can subscribe to a service or offering without the need to pay upfront, has revolutionised B2B operations forever. This… A South African technology investment group, Alphawave, is backing at least five deep tech applications in its innovation units. The group has been investing… Captain America: New World Order will be arriving in theaters on May 3, 2024, with a Julius Onah as director. With a star studded… Sponsored by HUAWEI With 2023 on the doorstep and new year’s resolutions being set. Why not match your needs with a smartphone that complements… Apple has launched Freeform a new app to help users organize and layout content on a flexible canvas, with the ability to share and… i7 is not the most affordable or aesthetic car of the year. But BMW’s limousine gains our approval as the best car of 2022… Ranger V6 double-cab promises much. But does it deliver? We drove the new Ford bakkie over some very steep Western Cape terrain, to test… Astra to the rescue. This could be the outcome of Opel’s latest strategic model release, which takes its legacy sedan and hatchback nameplate into… A South African technology investment group, Alphawave, is backing at least five deep tech applications in its innovation units. The group has been investing in deep tech since the mid-nineties – long before it was said to define the future. At the time, Alphawave chief executive Frans Meyer, along with some fellow PhD students in electromagnetic engineering, built a few specialised antenna businesses. Today, some remain part of the group’s portfolio, including EMSS Antennas which developed the world’s most sensitive radio astronomy receiver for the MeerKAT space texlescope, part of the Square Kilometre Array (SKA) project. Another simulation-software business, FEKO, was sold to NASDAQ listed- company, Altair, in 2014. While the exact amount of this transaction has not been disclosed, it has been described as “quite significant”. Meanwhile, new research by the Boston Consulting Group (BCG) says although deep tech may seem like it is years away, 2023 is the ideal time for organisations to build a deep tech strategy. Deep tech, also known as “hard tech,” may suggest technology that’s five or 10 years away from being relevant, but much of this technology can be applied now by tapping a vibrant ecosystem of deep tech ventures. Deep tech is widely described as technology that is based on scientific discovery or meaningful engineering innovation. It is often referred to as problem-solving technology. There is a lot more to it than what we see in the everyday technology industry. A BCG report adds that up to 96% of deep tech ventures use at least two technologies, and 66% use more than one advanced technology – so it’s not just another cool gadget on the market. Back in South Africa, Alphawave’s engineers continue to innovate in deep tech and have built a portfolio of 16 successful technology businesses. Today, over half of the companies in the group are selling abroad, with one firmly established as the market leader in the United States. Companies in the portfolio range from established profitable companies, to fast-growing scaling businesses, to incubation and innovation units. The group hardly invests in going concerns but instead engages with the best in their field of tech to develop solutions and build new markets or disrupt existing ones. Funding in deep tech is growing significantly, mainly in China and the US. BCG estimates that investments in deep tech have quadrupled from $15 billion in 2016 to more than $60 billion in 20202. A survey by Hello Tomorrow found that investment in early-stage start-ups alone increased from $36 000 to $2 million between 2016 and 2019. Alphawave, as a Stellenbosch-based investor, confirms to Ventureburn that it is backing five deep tech applications in its innovation units. Here is a sneak peek into some of the deep tech trends it looks forward to seeing South African engineers and developers lead the way in innovation. When the world wide web was created on the internet in the mid-nineties, it had no built-in concept of payment or ownership. The “social web” era of the past decade allowed regular web users to share content and interact – but with some of the largest companies in the world as custodians of information and payments. The future of the web allows web users to own content and transact with each other directly using blockchains, cryptocurrencies, smart contracts and Non-Fungible Tokens (NFTs). This is known as “Web3”. There is a lot of criticism about this technology and the jury is still out. Some see Web3 as a major technology shift not to be ignored. In 2021, Alphawave invested in Fanfire to discover ways these technologies can have a practical, commercial utility – making this emerging tech more user-friendly and accessible, especially where users have limited crypto knowledge. Gert-Jan van Rooyen heads up this innovation unit, having worked in this space since 2013, he is reinventing the wine, art and sports industry by forming online marketplaces where valuable items can easily be traded using NFTs. Artificial intelligence (AI) and machine learning are not new kids on the block. The field of “AI” was formally founded in 1956 and has seen periods of hype and investment, along with much disappointment, leading to a slowdown in innovation – also known as the “AI winter”. The adoption of AI is booming again, with McKinsey’s Global Survey showing that most respondents (56 percent) reported that AI has been adopted in at least one business function4. The combination of computer science and machine learning engineers can be a powerful tool for businesses looking to make an impact on the top line, as well as those looking for cost savings. ByteFuse, an Alphawave company led by Greg Newman and Etienne Barnard, is doing just that, seeking ways to solve real-world problems with AI. The ByteFuse team is experimenting with several innovative solutions including optimising traffic lights to improve traffic flow and next-gen chatbots. Predictive Insights is another gem in the Alphawave portfolio leading the way with AI. By combining machine intelligence with economic and behavioural insights, restaurants and retailers can predict demand, improving the accuracy of revenue forecasts up to 18 months ahead, and reducing the cost and environmental impact of waste. Space opens up a huge opportunity for the world. According to Bank of America, the space economy is expected to triple from 2020 to $1.4 trillion in 20305. From Google maps and weather forecasts to advanced deep space tech, applications in this field are enabling our everyday life and expanding our knowledge of the universe. Hundreds of satellites are launched into orbit each year by researchers, government agencies and private companies to gather data, either observing the earth or looking further into space and then transmitting that data back to earth. Cubecom, another one of Alphawave’s deep tech ventures, first started exploring innovative space sub-systems for university satellite projects. Today, Sampie Booysen and the Cubecom team design, develop and manufacture communication systems for satellites. They have experienced a major spike in interest in these systems for space missions, where private sector companies are investing heavily in advanced electronic technology to communicate findings from space. The virtual reality (VR) world is another example of technology that has struggled to gather mainstream adoption – at least until the last few years. Web3 and the metaverse are likely to boost growth in these immersive technologies, even more, changing how people connect, especially in the gaming world. This technology is experiencing an increase in adoption in businesses and academic institutions. Alphawave’s VR venture, Sozo Labs, is led by Jason Haddock and is changing the way people are trained in the workplace. In construction and heavy industry, this technology can significantly reduce risks and mortality rates, keeping workers safe. Sozo Labs is also exploring ways to enhance education in schools through more immersive experiences. Smart farming is growing significantly. Emerging technologies from AI to drones and the Internet of Things (IoT) are modernising the way farmers operate and significantly improving efficiency and sustainability. Alphawave’s electronics engineers have been working with farmers to develop advanced IoT solutions with specialised sensors to improve farm management. The portfolio has two agri tech brands. FarmRanger is a market leader in South Africa, protecting over three million livestock from theft and predators with a security collar that offers an early warning system when abnormal movement is detected and live GPS tracking during an alarm, managed via maps on the farmer’s smartphone. The second smart farming brand Farmtrack, tracks and monitors all farm vehicles to ensure rows are not missed when sprayed and improves driver efficiency – also through precision GPS tracking. Experts say while deep tech is constantly evolving, the outlook is very positive. However, it requires investors to have a very different set of knowledge and skills than typical venture capitalists. These emerging technologies are not for the fainthearted. It takes years of knowledge in the field to uncover truly useful applications and find practical ways to solve real-world problems that can often change the way we live, work, study, and play. ALSO READ: Sedna, Globalstar deal keeps African miners connected Ivor Price is a multi-award-winning journalist. Building cyber resilience has become a business imperative for businesses across industries that hold sensitive information, warns Craig Allen, principal security engineer at iOCO,… The “as-a-service” model, whereby businesses can subscribe to a service or offering without the need to pay upfront, has revolutionised B2B operations forever. This… A South African technology investment group, Alphawave, is backing at least five deep tech applications in its innovation units. The group has been investing… “Let’s be honest – we’re all tired,” writes We Do Change coach, trainer and co-founder Rochelle Roos. “The truth is that fatigue is a… © Memeburn 2022, a Burn Media publication. No article may be published or reproduced without prior written permission from Memeburn. To improve your experience, deliver personalised content and advertising. Find out more by reading our cookie policy. Sign up to our newsletter to get the latest in digital insights. sign up Sign up to our newsletter to get the latest in digital insights. By signing up for this email you agree to receive the latest info from Burnmedia Group. Learn more via our Privacy Policy.
+Article: 
+
+ 
+
+
+Fuel or storage? Reason for flight delays at OR Tambo airport
+
+
+Airports Company South Africa (ACSA) has confirmed that O.R Tambo airport is experiencing challenges with fuel supply. In a statement, ACSA said refueling of…
+
+
+
+ Gopolang Moloko Internet •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+Tiktok: How to clear info on the side, bottom of your screen | Clear mode
+
+
+Tiktok has become the go-to form of entertainment, and their clear mode update seems to be a winner. Browsing through a series of videos…
+
+
+
+ Gopolang Moloko Africa •
+27 Dec 2022 
+
+ 
+
+ 
+
+
+Here’s how Netflix will clamp down on password sharing
+
+
+Netflix plans to put a stop to password sharing. In a move likely to leave some freeloaders out in the cold, Netflix plans to…
+
+
+
+ Gopolang Moloko Geek Culture •
+26 Dec 2022 
+
+ 
+
+ 
+
+
+Cyber threats, data privacy laws demand business resilience
+
+
+Building cyber resilience has become a business imperative for businesses across industries that hold sensitive information, warns Craig Allen, principal security engineer at iOCO,…
+
+
+
+
+ Ivor Price News •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+XaaS trends: Business in era of everything-as-a-service
+
+
+The “as-a-service” model, whereby businesses can subscribe to a service or offering without the need to pay upfront, has revolutionised B2B operations forever. This…
+
+
+
+
+ Staff Reporter News •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+5 deep tech trends to watch from SA entrepreneurs
+
+
+A South African technology investment group, Alphawave, is backing at least five deep tech applications in its innovation units. The group has been investing…
+
+
+
+
+ Ivor Price News •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+Captain America: New World Order, here’s some inside info
+
+
+Captain America: New World Order will be arriving in theaters on May 3, 2024, with a Julius Onah as director. With a star studded…
+
+
+
+
+ Gopolang Moloko E-Readers •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+Smartphones that match your needs for 2023: Choose the best HUAWEI nova right now
+
+
+Sponsored by HUAWEI With 2023 on the doorstep and new year’s resolutions being set. Why not match your needs with a smartphone that complements…
+
+
+
+
+ Sponsored Huawei •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+Brainstorm effortlessly with Apple’s Freeform
+
+
+Apple has launched Freeform a new app to help users organize and layout content on a flexible canvas, with the ability to share and…
+
+
+
+
+ Gopolang Moloko Apple •
+23 Dec 2022 
+
+ 
+
+ 
+
+
+BMW i7 is our car tech breakthrough of 2022
+
+
+i7 is not the most affordable or aesthetic car of the year. But BMW’s limousine gains our approval as the best car of 2022…
+
+
+
+ Lance Branquinho BMW •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+Ford Ranger V6 first drive
+
+
+Ranger V6 double-cab promises much. But does it deliver? We drove the new Ford bakkie over some very steep Western Cape terrain, to test…
+
+
+
+ Lance Branquinho Ford •
+24 Dec 2022 
+
+ 
+
+ 
+
+
+Astra electric could be Opel’s breakthrough car
+
+
+Astra to the rescue. This could be the outcome of Opel’s latest strategic model release, which takes its legacy sedan and hatchback nameplate into…
+
+
+
+ Lance Branquinho New Cars •
+1 Dec 2022 
+
+ 
+
+
+
+
+
+
+
+
+
+News •
+28 Dec 2022 
+
+5 deep tech trends to watch from SA entrepreneurs 
+
+
+
+
+
+
+
+
+
+
+
+										By  Ivor Price 
+
+
+
+
+
+
+
+Read nextXaaS trends: Business in era of everything-as-a-service 
+
+
+
+
+ 2022 has been a big year for Web3 in many ways. Even with some anticipated ups and downs, 2023 will undoubtedly be a landmark year. Photo: Supplied/Ventureburn 
+
+
+
+
+A South African technology investment group, Alphawave, is backing at least five deep tech applications in its innovation units. The group has been investing in deep tech since the mid-nineties – long before it was said to define the future.
+Alphawave chief executive Frans Meyer. Photo: Supplied/Ventureburn
+At the time, Alphawave chief executive Frans Meyer, along with some fellow PhD students in electromagnetic engineering, built a few specialised antenna businesses. Today, some remain part of the group’s portfolio, including EMSS Antennas which developed the world’s most sensitive radio astronomy receiver for the MeerKAT space texlescope, part of the Square Kilometre Array (SKA) project.
+
+
+
+
+
+Another simulation-software business, FEKO, was sold to NASDAQ listed- company, Altair, in 2014. While the exact amount of this transaction has not been disclosed, it has been described as “quite significant”.
+Meanwhile, new research by the Boston Consulting Group (BCG) says although deep tech may seem like it is years away, 2023 is the ideal time for organisations to build a deep tech strategy. Deep tech, also known as “hard tech,” may suggest technology that’s five or 10 years away from being relevant, but much of this technology can be applied now by tapping a vibrant ecosystem of deep tech ventures.
+Deep tech is widely described as technology that is based on scientific discovery or meaningful engineering innovation. It is often referred to as problem-solving technology. There is a lot more to it than what we see in the everyday technology industry.
+A BCG report adds that up to 96% of deep tech ventures use at least two technologies, and 66% use more than one advanced technology – so it’s not just another cool gadget on the market.
+Back in South Africa, Alphawave’s engineers continue to innovate in deep tech and have built a portfolio of 16 successful technology businesses. Today, over half of the companies in the group are selling abroad, with one firmly established as the market leader in the United States.
+Companies in the portfolio range from established profitable companies, to fast-growing scaling businesses, to incubation and innovation units. The group hardly invests in going concerns but instead engages with the best in their field of tech to develop solutions and build new markets or disrupt existing ones.
+Funding in deep tech is growing significantly, mainly in China and the US. BCG estimates that investments in deep tech have quadrupled from $15 billion in 2016 to more than $60 billion in 20202. A survey by Hello Tomorrow found that investment in early-stage start-ups alone increased from $36 000 to $2 million between 2016 and 2019.
+Alphawave, as a Stellenbosch-based investor, confirms to Ventureburn that it is backing five deep tech applications in its innovation units. Here is a sneak peek into some of the deep tech trends it looks forward to seeing South African engineers and developers lead the way in innovation.
+Web3
+When the world wide web was created on the internet in the mid-nineties, it had no built-in concept of payment or ownership. The “social web” era of the past decade allowed regular web users to share content and interact – but with some of the largest companies in the world as custodians of information and payments.
+The future of the web allows web users to own content and transact with each other directly using blockchains, cryptocurrencies, smart contracts and Non-Fungible Tokens (NFTs). This is known as “Web3”. There is a lot of criticism about this technology and the jury is still out. Some see Web3 as a major technology shift not to be ignored.
+In 2021, Alphawave invested in Fanfire to discover ways these technologies can have a practical, commercial utility – making this emerging tech more user-friendly and accessible, especially where users have limited crypto knowledge. Gert-Jan van Rooyen heads up this innovation unit, having worked in this space since 2013, he is reinventing the wine, art and sports industry by forming online marketplaces where valuable items can easily be traded using NFTs.
+Etienne Barnard and Greg Newman of ByteFuse, an AI research and development company that helps companies to build better products, create better customer experiences, and deliver actionable insights. Photos: Supplied/Ventureburn
+Artificial intelligence
+Artificial intelligence (AI) and machine learning are not new kids on the block. The field of “AI” was formally founded in 1956 and has seen periods of hype and investment, along with much disappointment, leading to a slowdown in innovation – also known as the “AI winter”.
+The adoption of AI is booming again, with McKinsey’s Global Survey showing that most respondents (56 percent) reported that AI has been adopted in at least one business function4. The combination of computer science and machine learning engineers can be a powerful tool for businesses looking to make an impact on the top line, as well as those looking for cost savings.
+ByteFuse, an Alphawave company led by Greg Newman and Etienne Barnard, is doing just that, seeking ways to solve real-world problems with AI. The ByteFuse team is experimenting with several innovative solutions including optimising traffic lights to improve traffic flow and next-gen chatbots.
+Predictive Insights is another gem in the Alphawave portfolio leading the way with AI. By combining machine intelligence with economic and behavioural insights, restaurants and retailers can predict demand, improving the accuracy of revenue forecasts up to 18 months ahead, and reducing the cost and environmental impact of waste.
+Space tech
+Space opens up a huge opportunity for the world. According to Bank of America, the space economy is expected to triple from 2020 to $1.4 trillion in 20305. From Google maps and weather forecasts to advanced deep space tech, applications in this field are enabling our everyday life and expanding our knowledge of the universe.
+Hundreds of satellites are launched into orbit each year by researchers, government agencies and private companies to gather data, either observing the earth or looking further into space and then transmitting that data back to earth.
+Cubecom, another one of Alphawave’s deep tech ventures, first started exploring innovative space sub-systems for university satellite projects. Today, Sampie Booysen and the Cubecom team design, develop and manufacture communication systems for satellites. They have experienced a major spike in interest in these systems for space missions, where private sector companies are investing heavily in advanced electronic technology to communicate findings from space.
+Extended, virtual and augmented reality
+The virtual reality (VR) world is another example of technology that has struggled to gather mainstream adoption – at least until the last few years. Web3 and the metaverse are likely to boost growth in these immersive technologies, even more, changing how people connect, especially in the gaming world.
+This technology is experiencing an increase in adoption in businesses and academic institutions. Alphawave’s VR venture, Sozo Labs, is led by Jason Haddock and is changing the way people are trained in the workplace. In construction and heavy industry, this technology can significantly reduce risks and mortality rates, keeping workers safe. Sozo Labs is also exploring ways to enhance education in schools through more immersive experiences.
+Farmtrack guides growers with cutting-edge GPS technology, accurate data and helpful insights that takes the guesswork out of wine, fruit, and nut production and enables them to improve efficiency. Photos: Supplied/Ventureburn
+Agritech
+Smart farming is growing significantly. Emerging technologies from AI to drones and the Internet of Things (IoT) are modernising the way farmers operate and significantly improving efficiency and sustainability.
+Alphawave’s electronics engineers have been working with farmers to develop advanced IoT solutions with specialised sensors to improve farm management. The portfolio has two agri tech brands. FarmRanger is a market leader in South Africa, protecting over three million livestock from theft and predators with a security collar that offers an early warning system when abnormal movement is detected and live GPS tracking during an alarm, managed via maps on the farmer’s smartphone.
+The second smart farming brand Farmtrack, tracks and monitors all farm vehicles to ensure rows are not missed when sprayed and improves driver efficiency – also through precision GPS tracking.
+Experts say while deep tech is constantly evolving, the outlook is very positive. However, it requires investors to have a very different set of knowledge and skills than typical venture capitalists.
+These emerging technologies are not for the fainthearted. It takes years of knowledge in the field to uncover truly useful applications and find practical ways to solve real-world problems that can often change the way we live, work, study, and play.
+ALSO READ: Sedna, Globalstar deal keeps African miners connected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Ivor PriceIvor Price is a multi-award-winning journalist.
+Read More 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Posted in NewsTagged Alphawave, deep tech
+
+ 
+
+ 
+
+
+Cyber threats, data privacy laws demand business resilience
+
+
+Building cyber resilience has become a business imperative for businesses across industries that hold sensitive information, warns Craig Allen, principal security engineer at iOCO,…
+
+
+
+
+ Ivor Price News •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+XaaS trends: Business in era of everything-as-a-service
+
+
+The “as-a-service” model, whereby businesses can subscribe to a service or offering without the need to pay upfront, has revolutionised B2B operations forever. This…
+
+
+
+
+ Staff Reporter News •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+5 deep tech trends to watch from SA entrepreneurs
+
+
+A South African technology investment group, Alphawave, is backing at least five deep tech applications in its innovation units. The group has been investing…
+
+
+
+
+ Ivor Price News •
+28 Dec 2022 
+
+ 
+
+ 
+
+
+10 tips to overcome workplace change fatigue
+
+
+“Let’s be honest – we’re all tired,” writes We Do Change coach, trainer and co-founder Rochelle Roos. “The truth is that fatigue is a…
+
+
+
+
+ Staff Reporter Entrepreneurship •
+27 Dec 2022 
+
+
+Article: 
+Article: 
+Article: 

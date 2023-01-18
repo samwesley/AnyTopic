@@ -1,0 +1,405 @@
+Robot Rebellion Brings Back BBC Camera Operators | Hackaday
+The modern TV news studio is a masterpiece of live video and CGI, as networks vie for the flashiest presentation. BBC News in London is no exception, and embraced the future in 2013 to the extent of replacing its flesh-and-blood camera operators with robotic cameras. On the face of it this made sense; it was cheaper, and newsroom cameras are most likely to record as set range of very similar shots. A decade later they’re to be retired in a victory for humans, as the corporation tires of the stream of viral fails leaving presenters scrambling to catch up. A media story might seem slim pickings for Hackaday readers, however there’s food for thought in there for the technically minded. It seems the cameras had a set of pre-programmed maneuvers which the production teams could select for their different shots, and it was too easy for the wrong one to be enabled. There’s also a suggestion that the age of the system might have something to do with it, but this is somewhat undermined by their example which we’ve placed below being from when the cameras were only a year old. Given that a modern TV studio is a tightly controlled space and that detecting the location of the presenter plus whether they are in shot or not should not have been out of reach in 2013, so we’re left curious as to why they haven’t taken this route. Perhaps OpenCV to detect a human, or simply detecting the audio levels on the microphones before committing to a move could do the job. Either way we welcome the camera operators back even if we never see them, though we’ll miss the viral funnies.   Honestly… to me, this looks more like a bad interface design. Yeah, that’s how I understood the article as presented as well.  Seems more like a case study of now not to do a user interface. Hi Jenny  I’m afraid this is wrong. “Embraced the future in 2013 to the extent of replacing its flesh-and-blood camera operators with robotic cameras. ” BBC News hasn’t had human camera operators on the studio floor much at all in its history of TV news production. Remember the 1990s blue cut glass studio?  That had robotic camera pedestals remotely controlled from the control room.  Remote control camera mountings such as those from Evershed Powers Optics/EPO, Radamec, Vinten, Shotoku, Furio and now Electric Friends have been in use by BBC News since the late 1950s or early 1960s. News had them at Alexandra Palace before they moved to TV Centre.  A few times in the history of BBC News bulletin production they have reintroduced a floor operator or two for very high profile programmes like the Six and Ten O’Clock News – but News 24 has relied on directors to remotely control cameras since it launched in 1997…  The change that happened with the move from TV Centre to NBH in 2013 was not related to the use of remote cameras – that was business as usual. The change was instead due to a change in how the remote cameras were controlled.  In 2013 the newsroom automation system that also controls vision mixing, graphics, screen routing, captions etc. was expanded in scope to also recall preset camera shots based on instructions entered in the newsroom scripting system.  If these codes are entered incorrectly / the presenter misunderstands where they should be these change.  AIUI the recent reporting in Deadline around this may be related to a possible procurement discussion about replacing the 10 year old Furio remote controlled track cameras in one or two studios with a replacement.  I directed BBC News 24 and then BBC One/Six/Nine/Ten O’Clock bulletins daily from 1997 to 2007 – and I can assure you we seldom had ‘flesh and blood camera operators’ on the studio floor.  You had remote controlled cameras that were remotely controlled either by the director or a single lighting/camera/vision operator from the studio control room.  If the camera pedestals needed to be repositioned in the studios that didn’t have fully robotic pedestals, the floor manager would reposition them, off shot. This is why I love HAD.  Also, I bet you have some stories to share…? Broadcast engineer here at a location where we make use of robotic cameras.  Not with an automation system to operate the shots however.  We have a single robotic operator who can recall shots and override if issue arise. As Steve mentions this is not a robotic camera issue.  Miscues in the newsroom automation will cause this kind of malfunction.  If someone has the shots out of sequence OR one gets deleted when the scripts are being constructed, all bets are off. I have worked with Radamec, Shotoku, Fujinon, Telemetrics, and a host of other systems and with rare exception the robotics are rarely at fault. Somebody at BBC is making a terrible move by doing full on replacement.  What they should consider is preview software to run through the script and show the expected shots based on what the newsroom automation system will play out. My company will never adopt these automation systems for a variety of reasons, but the biggest reason is we like having a robotic operator at all times.  Yes, we save money by not needing to man 4 to 6 cameras for a news show.  But we also enjoy a live operator at all times.  Note that we do save shots and moves, but those are triggered by the same operator, not some automation software at the whim of a mistyped cue by a Production Assistant who doesn’t know any better.  They tend to do copy/paste rather than check their work. For those interested : https://youtu.be/dEW-MW8SsMw?t=540 at about 9’00” in shows the robotic cameras we had in BBC News in the late 90s. And here is a much earlier robot camera used in 1960ish :
+https://www.tvcameramuseum.org/bbc/robot/p1.html
+https://www.tvcameramuseum.org/bbc/robot/pix/epo-rob-boroc.pdf That is fascinating, thank you so much for sharing Is there a prospect for this job to operators a bit less equipped? Asking for a friend. Did we read the same article? Because right in the second paragraph: >The British broadcaster has begun the process of acquiring new automated cameras They are upgrading one set of robot cameras for another. I send back your ping-pong ball: > (Title) New cameras, same glitches
+>
+> The BBC has not disclosed how much the robot camera refit will cost, but the broadcaster has recent experience of installing new news studio cameras.
+>
+> Studio B, which is home to BBC1’s flagship 10PM and 6PM bulletins, was revamped earlier this year with new automated cameras from Norwegian company Electric Friends.
+>
+>The technology has not been without problems, however. Just last month, a camera swung around to show the wrong part of the studio during Yeah.  And ironically, it says that one of the features of the old, buggier system was that it _did_ face tracking / ID.  (Apparently, not very well.) Live camera operators can have their moments also, not just automated cameras.
+Back in the 70’s my late father was at a South Dakota television station to arrange broadcast ads for his furniture store. They took him into the studio to watch the live, evening news broadcast.
+The weatherman was known for being all business, with no sense of humor. That night, before my father, the cameraman stepped from behind the camera and dropped his pants. At first, the weatherman did not respond, but then started laughing on camera. He was not laughing at the cameraman. He saw that the station manager’s wife was standing in the back of the studio, witnessing the cameraman’s antics. Former cameraman after something like that. This one from March 2021 is even better:
+https://youtu.be/Nos95w_oad8 Fabulous! I can see them going to “reality” shooting like so many prime time TV shows. A modern lightweight handheld camera and plenty of coffee in the studio is all we need. I’d prefer it if they went back to the ‘good old days’ ……  when they reported actual news and not propaganda…. Agree Please be kind and respectful to help make the comments section excellent. (Comment Policy) This site uses Akismet to reduce spam. Learn how your comment data is processed. 
+						By using our website and services, you expressly agree to the placement of our performance, functionality and advertising cookies. Learn more
+
+
+Robot Rebellion Brings Back BBC Camera Operators
+
+
+                18 Comments            
+
+by:
+Jenny List
+
+
+
+December 30, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title:
+
+
+Copy
+
+Short Link:
+
+
+Copy
+
+
+
+
+
+
+The modern TV news studio is a masterpiece of live video and CGI, as networks vie for the flashiest presentation. BBC News in London is no exception, and embraced the future in 2013 to the extent of replacing its flesh-and-blood camera operators with robotic cameras. On the face of it this made sense; it was cheaper, and newsroom cameras are most likely to record as set range of very similar shots. A decade later they’re to be retired in a victory for humans, as the corporation tires of the stream of viral fails leaving presenters scrambling to catch up.
+A media story might seem slim pickings for Hackaday readers, however there’s food for thought in there for the technically minded. It seems the cameras had a set of pre-programmed maneuvers which the production teams could select for their different shots, and it was too easy for the wrong one to be enabled. There’s also a suggestion that the age of the system might have something to do with it, but this is somewhat undermined by their example which we’ve placed below being from when the cameras were only a year old.
+Given that a modern TV studio is a tightly controlled space and that detecting the location of the presenter plus whether they are in shot or not should not have been out of reach in 2013, so we’re left curious as to why they haven’t taken this route. Perhaps OpenCV to detect a human, or simply detecting the audio levels on the microphones before committing to a move could do the job. Either way we welcome the camera operators back even if we never see them, though we’ll miss the viral funnies.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Posted in News, Robots HacksTagged fail, robotic camera, tv 
+ 
+
+
+raster says: 
+
+
+
+							December 30, 2022 at 2:06 am						
+
+
+
+
+Honestly… to me, this looks more like a bad interface design.
+
+
+Report comment 
+Reply  
+
+
+not_raster says: 
+
+
+
+							December 30, 2022 at 8:25 am						
+
+
+
+
+Yeah, that’s how I understood the article as presented as well.  Seems more like a case study of now not to do a user interface.
+
+
+Report comment 
+Reply  
+
+
+Steve says: 
+
+
+
+							December 30, 2022 at 2:18 am						
+
+
+
+
+Hi Jenny 
+I’m afraid this is wrong. “Embraced the future in 2013 to the extent of replacing its flesh-and-blood camera operators with robotic cameras. ”
+BBC News hasn’t had human camera operators on the studio floor much at all in its history of TV news production. Remember the 1990s blue cut glass studio?  That had robotic camera pedestals remotely controlled from the control room. 
+Remote control camera mountings such as those from Evershed Powers Optics/EPO, Radamec, Vinten, Shotoku, Furio and now Electric Friends have been in use by BBC News since the late 1950s or early 1960s. News had them at Alexandra Palace before they moved to TV Centre. 
+A few times in the history of BBC News bulletin production they have reintroduced a floor operator or two for very high profile programmes like the Six and Ten O’Clock News – but News 24 has relied on directors to remotely control cameras since it launched in 1997… 
+The change that happened with the move from TV Centre to NBH in 2013 was not related to the use of remote cameras – that was business as usual. The change was instead due to a change in how the remote cameras were controlled.  In 2013 the newsroom automation system that also controls vision mixing, graphics, screen routing, captions etc. was expanded in scope to also recall preset camera shots based on instructions entered in the newsroom scripting system.  If these codes are entered incorrectly / the presenter misunderstands where they should be these change. 
+AIUI the recent reporting in Deadline around this may be related to a possible procurement discussion about replacing the 10 year old Furio remote controlled track cameras in one or two studios with a replacement. 
+I directed BBC News 24 and then BBC One/Six/Nine/Ten O’Clock bulletins daily from 1997 to 2007 – and I can assure you we seldom had ‘flesh and blood camera operators’ on the studio floor.  You had remote controlled cameras that were remotely controlled either by the director or a single lighting/camera/vision operator from the studio control room.  If the camera pedestals needed to be repositioned in the studios that didn’t have fully robotic pedestals, the floor manager would reposition them, off shot.
+
+
+Report comment 
+Reply  
+
+
+Dan says: 
+
+
+
+							December 30, 2022 at 4:52 am						
+
+
+
+
+This is why I love HAD. 
+Also, I bet you have some stories to share…?
+
+
+Report comment 
+Reply  
+
+
+robomonkey says: 
+
+
+
+							December 30, 2022 at 9:58 am						
+
+
+
+
+Broadcast engineer here at a location where we make use of robotic cameras.  Not with an automation system to operate the shots however.  We have a single robotic operator who can recall shots and override if issue arise.
+As Steve mentions this is not a robotic camera issue.  Miscues in the newsroom automation will cause this kind of malfunction.  If someone has the shots out of sequence OR one gets deleted when the scripts are being constructed, all bets are off.
+I have worked with Radamec, Shotoku, Fujinon, Telemetrics, and a host of other systems and with rare exception the robotics are rarely at fault.
+Somebody at BBC is making a terrible move by doing full on replacement.  What they should consider is preview software to run through the script and show the expected shots based on what the newsroom automation system will play out.
+My company will never adopt these automation systems for a variety of reasons, but the biggest reason is we like having a robotic operator at all times.  Yes, we save money by not needing to man 4 to 6 cameras for a news show.  But we also enjoy a live operator at all times.  Note that we do save shots and moves, but those are triggered by the same operator, not some automation software at the whim of a mistyped cue by a Production Assistant who doesn’t know any better.  They tend to do copy/paste rather than check their work.
+
+
+Report comment 
+Reply  
+
+
+Steve says: 
+
+
+
+							December 30, 2022 at 2:28 am						
+
+
+
+
+For those interested : https://youtu.be/dEW-MW8SsMw?t=540 at about 9’00” in shows the robotic cameras we had in BBC News in the late 90s.
+And here is a much earlier robot camera used in 1960ish :
+https://www.tvcameramuseum.org/bbc/robot/p1.html
+https://www.tvcameramuseum.org/bbc/robot/pix/epo-rob-boroc.pdf
+
+
+Report comment 
+Reply  
+
+
+Eric says: 
+
+
+
+							December 30, 2022 at 8:33 am						
+
+
+
+
+That is fascinating, thank you so much for sharing
+
+
+Report comment 
+Reply  
+
+
+Rumble_in_the_Jungle says: 
+
+
+
+							December 30, 2022 at 4:31 am						
+
+
+
+
+Is there a prospect for this job to operators a bit less equipped? Asking for a friend.
+
+
+Report comment 
+Reply  
+
+
+rasz_pl says: 
+
+
+
+							December 30, 2022 at 4:43 am						
+
+
+
+
+Did we read the same article? Because right in the second paragraph:
+>The British broadcaster has begun the process of acquiring new automated cameras
+They are upgrading one set of robot cameras for another.
+
+
+Report comment 
+Reply  
+
+
+Draco says: 
+
+
+
+							December 30, 2022 at 8:53 am						
+
+
+
+
+I send back your ping-pong ball:
+> (Title) New cameras, same glitches
+>
+> The BBC has not disclosed how much the robot camera refit will cost, but the broadcaster has recent experience of installing new news studio cameras.
+>
+> Studio B, which is home to BBC1’s flagship 10PM and 6PM bulletins, was revamped earlier this year with new automated cameras from Norwegian company Electric Friends.
+>
+>The technology has not been without problems, however. Just last month, a camera swung around to show the wrong part of the studio during
+
+
+Report comment 
+Reply  
+
+
+Elliot Williams says: 
+
+
+
+							December 30, 2022 at 8:53 am						
+
+
+
+
+Yeah.  And ironically, it says that one of the features of the old, buggier system was that it _did_ face tracking / ID.  (Apparently, not very well.)
+
+
+Report comment 
+Reply  
+
+
+Daniel Erickson says: 
+
+
+
+							December 30, 2022 at 7:46 am						
+
+
+
+
+Live camera operators can have their moments also, not just automated cameras.
+Back in the 70’s my late father was at a South Dakota television station to arrange broadcast ads for his furniture store. They took him into the studio to watch the live, evening news broadcast.
+The weatherman was known for being all business, with no sense of humor. That night, before my father, the cameraman stepped from behind the camera and dropped his pants. At first, the weatherman did not respond, but then started laughing on camera. He was not laughing at the cameraman. He saw that the station manager’s wife was standing in the back of the studio, witnessing the cameraman’s antics.
+
+
+Report comment 
+Reply  
+
+
+Ostracus says: 
+
+
+
+							December 30, 2022 at 8:07 am						
+
+
+
+
+Former cameraman after something like that.
+
+
+Report comment 
+Reply  
+
+
+AnotherJustEd says: 
+
+
+
+							December 30, 2022 at 8:26 am						
+
+
+
+
+This one from March 2021 is even better:
+https://youtu.be/Nos95w_oad8
+
+
+Report comment 
+Reply  
+
+
+Jason TTW says: 
+
+
+
+							December 30, 2022 at 2:39 pm						
+
+
+
+
+Fabulous!
+
+
+Report comment 
+Reply  
+
+
+echodelta says: 
+
+
+
+							December 30, 2022 at 9:30 am						
+
+
+
+
+I can see them going to “reality” shooting like so many prime time TV shows. A modern lightweight handheld camera and plenty of coffee in the studio is all we need.
+
+
+Report comment 
+Reply  
+
+
+Dave_G says: 
+
+
+
+							December 30, 2022 at 3:26 pm						
+
+
+
+
+I’d prefer it if they went back to the ‘good old days’ ……  when they reported actual news and not propaganda….
+
+
+Report comment 
+Reply  
+
+
+The Commenter Formerly Known As Ren says: 
+
+
+
+							December 30, 2022 at 3:54 pm						
+
+
+
+
+Agree
+
+
+Report comment 
+Reply 
+
+

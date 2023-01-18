@@ -1,0 +1,164 @@
+Inside Amazon’s robotics facility where we build and test new robots
+Tucked away in a small suburb on the outskirts of Boston, an Amazon Robotics facility serves as the unassuming birthplace of some of the company’s most exciting technologies. From the outside, the facility looks like any other building in the area. On the inside, you’ll find roboticists, technicians, and a host of other employees working on cutting-edge robots that will operate in fulfillment centers around the world—making it easier and safer for employees to fulfill customer orders. Amazon recently invited nearly 100 reporters inside the facility for a rare look at the research and projects going on inside, and our team tagged along. Here are some of the most innovative things we found while roaming the halls of the Amazon Robotics facility in Westborough, Massachusetts. A nod to Amazon’s innovation mindset greeted us in the lobby, where a digital art display of black metal rods and circular lights spanned a wall behind the reception desk. The slow, subtle light transitions were mesmerizing—we could have stared at it all day. We made a quick stop at the coffee bar, then headed out to the manufacturing floor. The first thing we noticed in the vast facility was a series of fenced areas where robots are tested, including the Hercules robot. From its small blue base, this small but mighty robot lifts and carries up to a thousand pounds of product across designated areas of Amazon fulfillment centers. As we moved through the halls, we spotted the testing area for Robin, a robotic arm that handles packaged items in fulfillment centers. Smaller blue robots called Pegasus were delivering test packages to Robin to be picked up and placed on a conveyer belt. Also undergoing testing was an exciting new robotic arm called Sparrow. Jason Messinger, principal technical product manager with Amazon Robotics, took us to a restricted room at the back of the building for a sneak peek. Sparrow will be able to help employees working in fulfillment centers by picking individual items and storing them in inventory before the products are packaged and sent to customers. Messinger powered up Sparrow to give us a rare, first look at how it works.   When we were done marveling at Sparrow, Mikell Taylor, principal technical program manager for Amazon Robotics, took us to a special testing area where we met another new technology called Proteus.  Proteus is Amazon’s first fully autonomous robot that will work alongside employees in fulfillment centers. The robots will transport heavy carts carrying packages for loading onto trucks for customer delivery. Proteus operates in open spaces in Amazon facilities, unlike previous-generation mobile robots that work in restricted areas. Proteus uses sensors and a map of the facility to safely navigate new spaces. A few of the robots were showing off their skills and moving around us while we were in the testing area. As we made our way through the rest of the testing floor, Taylor answered our burning question: How does Amazon choose the robots’ names? She said the team takes inspiration from space to name Amazon’s suite of mobile robots. Proteus, for example, is named after a moon of Neptune. Once we’d satisfied our curiosities in the testing area, we headed to the manufacturing line where the robots are built. Erika McClosky, director of global robotics manufacturing at Amazon, gave us a full tour. She explained that there are 10 stations on each manufacturing line. Each line produces a robot every hour during production—and Amazon can produce up to 1,000 robots each day.  McClosky walked us through the process of building Hercules, the small product-moving robot we saw earlier in the testing area. The manufacturing process starts with a simple base plate and ends with an incredibly strong, smart robot. McClosky explained that once the robots have made it through the manufacturing and testing process, they drive themselves to a charging station for one last charge before they go to their new home at an Amazon fulfillment center. After a long day of walking the floor at the Amazon Robotics facility—and learning about all the innovative research and work being done inside—we were ready to take ourselves home too. We bid adieu to the picturesque campus in Westborough and boarded a bus back to Boston. Until next time! Learn more about how Amazon Robotics support employees in fulfillment centers.
+
+Get a rare peek inside the suburban Boston facility where Amazon builds and tests its robots.
+
+Tucked away in a small suburb on the outskirts of Boston, an Amazon Robotics facility serves as the unassuming birthplace of some of the company’s most exciting technologies. From the outside, the facility looks like any other building in the area. On the inside, you’ll find roboticists, technicians, and a host of other employees working on cutting-edge robots that will operate in fulfillment centers around the world—making it easier and safer for employees to fulfill customer orders.Amazon recently invited nearly 100 reporters inside the facility for a rare look at the research and projects going on inside, and our team tagged along. Here are some of the most innovative things we found while roaming the halls of the Amazon Robotics facility in Westborough, Massachusetts.A nod to Amazon’s innovation mindset greeted us in the lobby, where a digital art display of black metal rods and circular lights spanned a wall behind the reception desk. The slow, subtle light transitions were mesmerizing—we could have stared at it all day.
+
+
+
+
+
+
+
+We made a quick stop at the coffee bar, then headed out to the manufacturing floor.
+
+
+
+
+
+
+
+The first thing we noticed in the vast facility was a series of fenced areas where robots are tested, including the Hercules robot. From its small blue base, this small but mighty robot lifts and carries up to a thousand pounds of product across designated areas of Amazon fulfillment centers.
+
+
+
+
+
+
+
+As we moved through the halls, we spotted the testing area for Robin, a robotic arm that handles packaged items in fulfillment centers. Smaller blue robots called Pegasus were delivering test packages to Robin to be picked up and placed on a conveyer belt.
+
+
+
+
+
+
+
+Also undergoing testing was an exciting new robotic arm called Sparrow. Jason Messinger, principal technical product manager with Amazon Robotics, took us to a restricted room at the back of the building for a sneak peek.
+
+
+
+
+
+
+
+Sparrow will be able to help employees working in fulfillment centers by picking individual items and storing them in inventory before the products are packaged and sent to customers.
+
+
+
+
+
+
+
+Messinger powered up Sparrow to give us a rare, first look at how it works. 
+
+
+
+
+
+
+
+When we were done marveling at Sparrow, Mikell Taylor, principal technical program manager for Amazon Robotics, took us to a special testing area where we met another new technology called Proteus. 
+
+
+
+
+
+
+
+Proteus is Amazon’s first fully autonomous robot that will work alongside employees in fulfillment centers. The robots will transport heavy carts carrying packages for loading onto trucks for customer delivery. Proteus operates in open spaces in Amazon facilities, unlike previous-generation mobile robots that work in restricted areas.
+
+
+
+
+
+
+
+Proteus uses sensors and a map of the facility to safely navigate new spaces. A few of the robots were showing off their skills and moving around us while we were in the testing area.
+
+
+
+
+
+
+
+As we made our way through the rest of the testing floor, Taylor answered our burning question: How does Amazon choose the robots’ names? She said the team takes inspiration from space to name Amazon’s suite of mobile robots. Proteus, for example, is named after a moon of Neptune.
+
+
+
+
+
+
+
+Once we’d satisfied our curiosities in the testing area, we headed to the manufacturing line where the robots are built.
+
+
+
+
+
+
+
+Erika McClosky, director of global robotics manufacturing at Amazon, gave us a full tour. She explained that there are 10 stations on each manufacturing line. Each line produces a robot every hour during production—and Amazon can produce up to 1,000 robots each day. 
+
+
+
+
+
+
+
+McClosky walked us through the process of building Hercules, the small product-moving robot we saw earlier in the testing area. The manufacturing process starts with a simple base plate and ends with an incredibly strong, smart robot.
+
+
+
+
+
+
+
+McClosky explained that once the robots have made it through the manufacturing and testing process, they drive themselves to a charging station for one last charge before they go to their new home at an Amazon fulfillment center.
+
+
+
+
+
+
+
+After a long day of walking the floor at the Amazon Robotics facility—and learning about all the innovative research and work being done inside—we were ready to take ourselves home too. We bid adieu to the picturesque campus in Westborough and boarded a bus back to Boston. Until next time!
+
+
+
+
+
+
+
+Learn more about how Amazon Robotics support employees in fulfillment centers.
+
+
+
+
+                            Related Tags
+
+Amazon Robotics OperationsEmployees
+
+
+
+About the Author
+
+
+
+
+
+
+
+
+
+
+
+Cosette Jarrett
+Cosette is a writer and Mrs. Maisel enthusiast who covers all things Amazon. She earned her bachelor's degree in communications from the University of Utah, and has since put it to good use as a digital journalist, a PR specialist, and now as a digital content producer for About Amazon. Follow her work to get interview tips, to learn about some of the coolest jobs at Amazon, and to go behind the scenes at Prime Video, Amazon Fashion, Amazon Music, and more.
+
+
+
+
+
+

@@ -1,0 +1,835 @@
+SpaceX’s First 2023 Mission Includes 114-Strong Payload Haul - AmericaSpace
+
+
+
+
+
+
+
+
+
+
+
+
+
+ For space explorers 
+
+
+
+
+
+
+
+
+
+
+
+
+ For space explorers You are here:  
+
+
+by
+
+Ben Evans
+
+
+December 31, 2022, 7:00 am 
+
+
+ With the dust having barely settled from its final flight of 2022, SpaceX is gearing up for a heavy plate of missions in 2023, as a record-tying Falcon 9 stands poised for a mid-morning liftoff on Tuesday, 3 January, from storied Space Launch Complex (SLC)-40 at Cape Canaveral Space Force Station, Fla. The veteran B1060 core—making her 15th flight—will deliver 114 small “rideshare” cargoes into orbit on the Transporter-6 mission. As its nomenclature implies, this will be SpaceX’s sixth haul of multi-payload Transporter “stacks”. Five earlier missions in January and June of 2021, and more recently in January, April and May of last year, lifted some 435 payloads—including miniaturized CubeSats and PocketQubes—covering disciplines from Earth observation to technology, communications to navigation, remote sensing to signals intelligence and education to amateur radio, on behalf of no fewer than 32 sovereign nations. Notably, Transporter-1’s haul of 143 small satellites—totaling 11,000 pounds (5,000 kilograms)—still stands as the greatest number of discrete payloads ever placed into orbit by a single U.S. orbital-class launch vehicle. And last May’s Transporter-5 supported the first-of-its-kind robotic cutting of metals in orbit, in furtherance of future NanoRacks Space Outpost concepts. Yesterday, SpaceX offered its first outline of what the Transporter-6 mission will entail. “There are 114 payloads on this flight,” the Hawthorne, Calif.-headquartered launch services provider tweeted, “including CubeSats, microsats, picosats and orbital transfer vehicles carrying spacecraft to be deployed at a later time.” It was also noted that the mission would fly no sooner than 9:56 a.m. EST Tuesday, 3 January, making it the first launch from the U.S. soil in the New Year. And with Elon Musk having been vocal in his intent to fly up to 100 times in 2023, it can be expected that SpaceX’s most recent record—achieved just yesterday—of seven launches in a single calendar month will need to be not only equaled, but bettered. And key to hitting such vaulted targets will be booster reusability and turnaround. Kicking off the 2023 manifest is B1060, which entered service back on 30 June 2020 and is set to become only the second Falcon 9 core to log a 15th launch. On her first outing, B1060 deployed the third Block III Global Positioning System (GPS) navigation and timing satellite, bound for Medium Earth Orbit (MEO). Since then, she went on to loft Turkey’s powerful Türksat 5A geostationary communications satellite, a total of 553 Starlink low-orbiting internet communications satellites, the multi-payload Transporter-2 mission and most recently the Galaxy 33/34 dual-stack last fall. This impressive raft of flights saw B1060 mark out her personal territory as the first Falcon 9 core to log a 13th launch in June 2022, before being narrowly beaten to 14th and 15th missions by fellow life-leader B1058. She also established a new record—now broken—of just 27 days between two launches by the same booster in spring 2021. Patrick Space Force Base’s three-day outlook for a Tuesday morning opening launch attempt for Transporter-6 looks favorable, with around an 80-percent probability of acceptable conditions. This is tempered by a small risk of violating the Cumulus Cloud Rule and the Liftoff Winds Rule. “Over the weekend, a weak boundary will pass through the area, bringing showers and a chance for a few storms late Saturday into early Sunday,” the 45th noted in a Friday morning update. “Another frontal system is anticipated to affect the Spaceport and surrounding areas in the middle of next week. “Ahead of the front, a stronger pressure gradient will raise wind speeds,” it was added. “As the high center moves off farther into the Atlantic, winds will also shift to become southeasterly.” This is anticipated to threaten Tuesday’s launch attempt via “a chance for fast, onshore-moving Atlantic showers” and a heightened risk of excessive liftoff winds. With B1060 tracking a landing at Landing Zone (LZ)-1 at the Cape, the Falcon 9’s second stage will execute a customary six-minute “burn” of its single Merlin 1D+ Vacuum engine to deliver the Transporter-6 stack into orbit for deployment. And that deployment process is set to begin a little under an hour into Tuesday’s mission. First out will be KuwaitSat-1, a technology demonstrator provided by Kuwait University. Then, over the following 33 minutes or so, the remaining payloads—flying for the Czech Republic, Bulgaria, Turkey, France, the United Kingdom, Spain, Germany, Luxembourg, the Netherlands, Norway, Italy and the United States—will deploy from their respective dispensers, some departing within a few seconds of each other. Key focuses span technology demonstrations to amateur radio, Earth observation to communications and air-traffic management to Internet of Things (IoT). Included in the mammoth Transporter-6 haul are a 36-strong “flock” of Earth imaging satellites, provided by Planet Labs, and 12 SpaceBEE two-way communications and data-relay satellites, supplied by Swarm Technologies, Inc. Although SpaceX reveals little in the way of detailed flight manifests, past precedent over the last several months permits a reasonable expectation of five or more launches in January. Specific missions targeted for 2023’s opening month are a second stack of high-speed, low-latency broadband satellites for London, England-based OneWeb, a second pair of O3B mPOWER communications satellites for Luxembourg’s SES and a pair of flights for the U.S. Space Force: the sixth Block III Global Positioning System (GPS) and a triple-barreled Falcon Heavy, laden with the highly secretive USSF-67 payload. FOLLOW AmericaSpace on Facebook and Twitter! SpaceXFalcon 9SLC-40Space Launch Complex (SLC)-40B1060Cape Canaveral Space Force StationTransporter-6Landing Zone (LZ)-1 See more 
+
+by
+
+Ben Evans
+
+
+December 30, 2022, 2:57 am  
+
+by
+
+Ben Evans
+
+
+December 28, 2022, 2:47 pm  
+
+by
+
+Ben Evans
+
+
+December 27, 2022, 8:06 am  
+
+by
+
+Ben Evans
+
+
+December 17, 2022, 5:20 pm  
+
+by
+
+Ben Evans
+
+
+December 16, 2022, 6:14 pm  
+
+by
+
+Ben Evans
+
+
+December 16, 2022, 2:42 pm  
+
+by
+
+Ben Evans
+
+
+December 11, 2022, 2:50 am  
+
+by
+
+Ben Evans
+
+
+December 9, 2022, 12:02 pm  
+
+by
+
+Ben Evans
+
+
+December 8, 2022, 7:11 pm  
+
+by
+
+Ben Evans
+
+
+November 26, 2022, 2:52 pm  
+
+by
+
+Ben Evans
+
+
+November 25, 2022, 6:00 am  
+
+by
+
+Ben Evans
+
+
+November 23, 2022, 1:44 am  
+
+by
+
+Ben Evans
+
+
+November 21, 2022, 11:50 pm  
+
+by
+
+Ben Evans
+
+
+November 12, 2022, 1:17 pm  Your email address will not be published. Required fields are marked * Comment *  Name *  Email *  Website  
+
+
+        By using this form you agree with the storage and handling of your data by this website. 
+*
+
+  Notify me of follow-up comments by email.  Notify me of new posts by email.  
+
+  Δ © 2022 AmericaSpace.com All rights reserved
+
+
+
+
+
+SpaceX’s First 2023 Mission Includes 114-Strong Payload Haul
+
+
+
+by
+
+Ben Evans
+
+
+December 31, 2022, 7:00 am 
+
+
+
+
+
+
+B1060 during an April 2021 Starlink launch from Cape Canaveral Space Force Station, Fla. Photo Credit: Alan Walters/AmericaSpace
+With the dust having barely settled from its final flight of 2022, SpaceX is gearing up for a heavy plate of missions in 2023, as a record-tying Falcon 9 stands poised for a mid-morning liftoff on Tuesday, 3 January, from storied Space Launch Complex (SLC)-40 at Cape Canaveral Space Force Station, Fla. The veteran B1060 core—making her 15th flight—will deliver 114 small “rideshare” cargoes into orbit on the Transporter-6 mission.
+
+
+
+
+
+
+
+Video Credit: AmericaSpace
+As its nomenclature implies, this will be SpaceX’s sixth haul of multi-payload Transporter “stacks”. Five earlier missions in January and June of 2021, and more recently in January, April and May of last year, lifted some 435 payloads—including miniaturized CubeSats and PocketQubes—covering disciplines from Earth observation to technology, communications to navigation, remote sensing to signals intelligence and education to amateur radio, on behalf of no fewer than 32 sovereign nations.
+Notably, Transporter-1’s haul of 143 small satellites—totaling 11,000 pounds (5,000 kilograms)—still stands as the greatest number of discrete payloads ever placed into orbit by a single U.S. orbital-class launch vehicle. And last May’s Transporter-5 supported the first-of-its-kind robotic cutting of metals in orbit, in furtherance of future NanoRacks Space Outpost concepts.
+
+B1060 first flew on 30 June 2020, lifting GPS III-03 to orbit for the U.S. Space Force. Photo Credit: Jeff Seibert/AmericaSpace
+Yesterday, SpaceX offered its first outline of what the Transporter-6 mission will entail. “There are 114 payloads on this flight,” the Hawthorne, Calif.-headquartered launch services provider tweeted, “including CubeSats, microsats, picosats and orbital transfer vehicles carrying spacecraft to be deployed at a later time.”
+It was also noted that the mission would fly no sooner than 9:56 a.m. EST Tuesday, 3 January, making it the first launch from the U.S. soil in the New Year. And with Elon Musk having been vocal in his intent to fly up to 100 times in 2023, it can be expected that SpaceX’s most recent record—achieved just yesterday—of seven launches in a single calendar month will need to be not only equaled, but bettered.
+
+The evidence of multiple high-energy launches and re-entries is readily apparent on B1060’s flight surfaces. Photo Credit: Jeff Seibert/AmericaSpace 
+And key to hitting such vaulted targets will be booster reusability and turnaround. Kicking off the 2023 manifest is B1060, which entered service back on 30 June 2020 and is set to become only the second Falcon 9 core to log a 15th launch.
+On her first outing, B1060 deployed the third Block III Global Positioning System (GPS) navigation and timing satellite, bound for Medium Earth Orbit (MEO). Since then, she went on to loft Turkey’s powerful Türksat 5A geostationary communications satellite, a total of 553 Starlink low-orbiting internet communications satellites, the multi-payload Transporter-2 mission and most recently the Galaxy 33/34 dual-stack last fall.
+
+B1060 roars aloft in February 2021, carrying a 60-strong batch of Starlinks. On this launch, she set a new record of just 27 days between two launches by the same orbital-class booster. Photo Credit: Alan Walters/AmericaSpace
+This impressive raft of flights saw B1060 mark out her personal territory as the first Falcon 9 core to log a 13th launch in June 2022, before being narrowly beaten to 14th and 15th missions by fellow life-leader B1058. She also established a new record—now broken—of just 27 days between two launches by the same booster in spring 2021.
+Patrick Space Force Base’s three-day outlook for a Tuesday morning opening launch attempt for Transporter-6 looks favorable, with around an 80-percent probability of acceptable conditions. This is tempered by a small risk of violating the Cumulus Cloud Rule and the Liftoff Winds Rule.
+
+B1060 rises into the night in February 2021, bearing a stack of Starlink low-orbiting internet communications satellites. Photo Credit: Jeff Seibert/AmericaSpace
+“Over the weekend, a weak boundary will pass through the area, bringing showers and a chance for a few storms late Saturday into early Sunday,” the 45th noted in a Friday morning update. “Another frontal system is anticipated to affect the Spaceport and surrounding areas in the middle of next week.
+“Ahead of the front, a stronger pressure gradient will raise wind speeds,” it was added. “As the high center moves off farther into the Atlantic, winds will also shift to become southeasterly.” This is anticipated to threaten Tuesday’s launch attempt via “a chance for fast, onshore-moving Atlantic showers” and a heightened risk of excessive liftoff winds.
+
+Spectacular atmospheric effects during a B1060 ascent in January 2022. Photo Credit: SpaceX
+With B1060 tracking a landing at Landing Zone (LZ)-1 at the Cape, the Falcon 9’s second stage will execute a customary six-minute “burn” of its single Merlin 1D+ Vacuum engine to deliver the Transporter-6 stack into orbit for deployment. And that deployment process is set to begin a little under an hour into Tuesday’s mission.
+First out will be KuwaitSat-1, a technology demonstrator provided by Kuwait University. Then, over the following 33 minutes or so, the remaining payloads—flying for the Czech Republic, Bulgaria, Turkey, France, the United Kingdom, Spain, Germany, Luxembourg, the Netherlands, Norway, Italy and the United States—will deploy from their respective dispensers, some departing within a few seconds of each other.
+
+Image Credit: SpaceX
+Key focuses span technology demonstrations to amateur radio, Earth observation to communications and air-traffic management to Internet of Things (IoT). Included in the mammoth Transporter-6 haul are a 36-strong “flock” of Earth imaging satellites, provided by Planet Labs, and 12 SpaceBEE two-way communications and data-relay satellites, supplied by Swarm Technologies, Inc.
+Although SpaceX reveals little in the way of detailed flight manifests, past precedent over the last several months permits a reasonable expectation of five or more launches in January. Specific missions targeted for 2023’s opening month are a second stack of high-speed, low-latency broadband satellites for London, England-based OneWeb, a second pair of O3B mPOWER communications satellites for Luxembourg’s SES and a pair of flights for the U.S. Space Force: the sixth Block III Global Positioning System (GPS) and a triple-barreled Falcon Heavy, laden with the highly secretive USSF-67 payload.
+FOLLOW AmericaSpace on Facebook and Twitter!
+EmailTwitterFacebookPinterestRedditPocketPrintMoreLinkedInTumblrLike this:Like Loading... 
+
+SpaceXFalcon 9SLC-40Space Launch Complex (SLC)-40B1060Cape Canaveral Space Force StationTransporter-6Landing Zone (LZ)-1
+
+See more
+
+Previous article SpaceX Wraps Up Banner 2022, With Year-End Launch of Israeli Spy Satellite
+
+
+
+
+
+More From: SpaceX 
+
+
+
+
+
+
+
+
+
+SpaceX Wraps Up Banner 2022, With Year-End Launch of Israeli Spy Satellite
+
+
+
+
+by
+
+Ben Evans
+
+
+December 30, 2022, 2:57 am 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Launches Year’s 60th Mission, Looks Ahead to Busy 2023
+
+
+
+
+by
+
+Ben Evans
+
+
+December 28, 2022, 2:47 pm 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Heads for 60th Launch of 2022; East and West Coast Missions Planned Before New Year’s Eve
+
+
+
+
+by
+
+Ben Evans
+
+
+December 27, 2022, 8:06 am 
+
+
+
+
+
+
+
+
+
+
+
+Bob & Doug’s Falcon 9 Makes 15th Launch, Sets New Records
+
+
+
+
+by
+
+Ben Evans
+
+
+December 17, 2022, 5:20 pm 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Flies Twice in One Day, Aims for Third Launch on Saturday
+
+
+
+
+by
+
+Ben Evans
+
+
+December 16, 2022, 6:14 pm 
+
+
+
+
+
+
+
+
+
+
+
+Six-Times-Flown Falcon 9 Lofts SWOT Ocean Watcher from Vandenberg
+
+
+
+
+by
+
+Ben Evans
+
+
+December 16, 2022, 2:42 pm 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Lofts Moon Lander, Rover, Ice-Seeker, Approaches 60-Launch Year
+
+
+
+
+by
+
+Ben Evans
+
+
+December 11, 2022, 2:50 am 
+
+
+
+
+
+
+
+
+
+
+
+Maezawa Identifies dearMoon Crewmates, As SpaceX Prepares for Sunday Lunar Launch
+
+
+
+
+by
+
+Ben Evans
+
+
+December 9, 2022, 12:02 pm 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Resumes Falcon 9 Launches, Heads into Busy Year-End
+
+
+
+
+by
+
+Ben Evans
+
+
+December 8, 2022, 7:11 pm 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Launches CRS-26 Cargo Dragon, Heads for Space Station
+
+
+
+
+by
+
+Ben Evans
+
+
+November 26, 2022, 2:52 pm 
+
+
+
+
+
+
+
+
+
+
+
+Weather Looks Favorable for CRS-26 Launch, Spacewalkers Identified for Next iROSA Tasks
+
+
+
+
+by
+
+Ben Evans
+
+
+November 25, 2022, 6:00 am 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Launches Eutelsat 10B, Expends Long-Serving Falcon 9 Booster
+
+
+
+
+by
+
+Ben Evans
+
+
+November 23, 2022, 1:44 am 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX May Attempt Two Launches, Six Hours Apart Tuesday
+
+
+
+
+by
+
+Ben Evans
+
+
+November 21, 2022, 11:50 pm 
+
+
+
+
+
+
+
+
+
+
+
+SpaceX Bids Farewell to the Old Guard, Expends 14x-Flown Falcon 9
+
+
+
+
+by
+
+Ben Evans
+
+
+November 12, 2022, 1:17 pm 
+
+
+
+
+
+
+
+
+
+
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name * 
+Email * 
+Website 
+
+
+
+        By using this form you agree with the storage and handling of your data by this website. 
+*
+
+
+ Notify me of follow-up comments by email. Notify me of new posts by email. 
+
+Δ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+SpaceX Wraps Up Banner 2022, With Year-End Launch of Israeli Spy Satellite
+
+
+
+
+by
+
+Ben Evans
+
+
+December 30, 2022, 2:57 am 
+
+
+ 
+
+
+
+
+
+SpaceX Launches Year’s 60th Mission, Looks Ahead to Busy 2023
+
+
+
+
+by
+
+Ben Evans
+
+
+December 28, 2022, 2:47 pm 
+
+
+ 
+
+
+
+
+
+SpaceX Heads for 60th Launch of 2022; East and West Coast Missions Planned Before New Year’s Eve
+
+
+
+
+by
+
+Ben Evans
+
+
+December 27, 2022, 8:06 am 
+
+
+ 
+
+
+
+
+
+Bob & Doug’s Falcon 9 Makes 15th Launch, Sets New Records
+
+
+
+
+by
+
+Ben Evans
+
+
+December 17, 2022, 5:20 pm 
+
+
+ 
+
+
+
+
+
+SpaceX Flies Twice in One Day, Aims for Third Launch on Saturday
+
+
+
+
+by
+
+Ben Evans
+
+
+December 16, 2022, 6:14 pm 
+
+
+ 
+
+
+
+
+
+Six-Times-Flown Falcon 9 Lofts SWOT Ocean Watcher from Vandenberg
+
+
+
+
+by
+
+Ben Evans
+
+
+December 16, 2022, 2:42 pm 
+
+
+ 
+
+
+
+
+
+SpaceX Lofts Moon Lander, Rover, Ice-Seeker, Approaches 60-Launch Year
+
+
+
+
+by
+
+Ben Evans
+
+
+December 11, 2022, 2:50 am 
+
+
+ 
+
+
+
+
+
+Maezawa Identifies dearMoon Crewmates, As SpaceX Prepares for Sunday Lunar Launch
+
+
+
+
+by
+
+Ben Evans
+
+
+December 9, 2022, 12:02 pm 
+
+
+ 
+
+
+
+
+
+SpaceX Resumes Falcon 9 Launches, Heads into Busy Year-End
+
+
+
+
+by
+
+Ben Evans
+
+
+December 8, 2022, 7:11 pm 
+
+
+ 
+
+
+
+
+
+SpaceX Launches CRS-26 Cargo Dragon, Heads for Space Station
+
+
+
+
+by
+
+Ben Evans
+
+
+November 26, 2022, 2:52 pm 
+
+
+ 
+
+
+
+
+
+Weather Looks Favorable for CRS-26 Launch, Spacewalkers Identified for Next iROSA Tasks
+
+
+
+
+by
+
+Ben Evans
+
+
+November 25, 2022, 6:00 am 
+
+
+ 
+
+
+
+
+
+SpaceX Launches Eutelsat 10B, Expends Long-Serving Falcon 9 Booster
+
+
+
+
+by
+
+Ben Evans
+
+
+November 23, 2022, 1:44 am 
+
+
+ 
+
+
+
+
+
+SpaceX May Attempt Two Launches, Six Hours Apart Tuesday
+
+
+
+
+by
+
+Ben Evans
+
+
+November 21, 2022, 11:50 pm 
+
+
+ 
+
+
+
+
+
+SpaceX Bids Farewell to the Old Guard, Expends 14x-Flown Falcon 9
+
+
+
+
+by
+
+Ben Evans
+
+
+November 12, 2022, 1:17 pm 
+
+
+ 
+
+
+SpaceX Wraps Up Banner 2022, With Year-End Launch of Israeli Spy Satellite 
+
+
+

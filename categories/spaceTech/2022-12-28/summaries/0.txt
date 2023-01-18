@@ -1,0 +1,3 @@
+block 1: 
+
+This article provides information about the 403 Forbidden error code, which indicates that a user is not allowed to access a page or file on the server.

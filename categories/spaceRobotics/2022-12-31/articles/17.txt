@@ -1,0 +1,210 @@
+Need a New Robot? Reconfigure the Old Robot | designnews.com
+Design News is part of the Informa Markets Division of Informa PLC This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726.  See All Automation »  See All Automotive Engineering »  See All 3DP »  See All Electronics »  See All Design Software »  See All Materials »  See All Industry »  See All CEC » Rob Spiegel | Dec 30, 2022 With lockdowns over and COVID nearly on its way out, staff shortages are still creating bottlenecks for manufacturers. Companies large and small are turning to robots to engage in multiple tasks. This has resulted in a boom for workplace robots according to the International Federation of Robotics. With more robots in use and the number of potential applications growing, users are finding new ways to conceptualize, build, and scale robots. To accommodate this, robot makers are devising systems for robotics to help users repurpose robots from one application to another. A modular robot is a robotic system that includes elements and modules that possess the necessary basic functions of robots. They can be put together and reconfigured as an integrated system that enables users to repurpose the robot for disparate tasks. The obvious benefit of modular robotic systems is that a set of modules can be combined and recombined to form a customized robot designed for a specific application. The robot can be changed – even daily – for an entirely different purpose. Related: Robots Are Taking over Fast Food Jobs Image courtesy of Brain Corp.  One significant benefit is that users don’t have to buy a different robot for each individual application. “The concept of modularity in robots is in the building platforms. Robots have a lot of components that can be reused,” Maturi Jagadish, product management leader for AI and robotics at Brain Corp., told Design News. Brain is a software company that works with partner companies to create cleaning robots. Related: New Smart Robots March into the Packaging Industry The modularity concept can take a variety of forms, even to the point of designing the exterior of the robot to meet specific needs. “Think about how the robots gravitate to round or rectangular. It’s certainly a different shape, but the drive, the motors, the processing, and the sensors are quite similar. If the user needs a different shape for a particular application, we enable it. We enable the partner companies to build robots in different sizes and shapes.” Many small- to mid-size manufacturers want robots to be versatile enough to be repurposed. They are often resistant to purchasing a robot that is restricted to one single purpose. “A lot of the technology is reusable,” said Jagadish. “The customer needs are different, but the smaller company comes to us for help in getting their product production into robotics. The modular platform allows them to use the same robot for multiple purposes. Image courtesy of Brain Corp.  As for modularity, it’s a blend of software and hardware. “We give them the brain that runs the machine and makes the machines autonomous,” said Jagadish. “We offer design for hardware components, but a lot of knowledge is in the software that runs the sensors.” Modularity helps users repurpose robotics across different industries. The ultimate result of modularity is it brings down the overall cost of deploying robots. “Users buy the software and the robotics,” said Jagadish. “They have their own designs for the robot and its applications. What we provide is like a reference design, a starting point to get the robot to do what the user needs.” In addition to repurposing a robot for conventional manufacturing applications, warehousing functions, or retail purposes, the robot can be reconfigured for analytics. Data acquisition can be added to the robot’s duties. “We’re starting to look at the retail space for analytics,” said Jagadish. “As the robot cleans the floor, it looks at what’s on the shelf and reports on what’s out of stock. The robot engages in data collection.” More information about text formats Follow us:
+
+
+
+
+Silicon Carbide, Gallium Nitride Chips Power Up as Electric Vehicles Boom 
+
+Dec 27, 2022 
+
+
+ 
+
+
+
+Engineering Salaries Are Up – But Are They High Enough? 
+
+Dec 18, 2022 
+
+
+ 
+
+
+
+Five HPC Trends to Watch in 2023 
+
+Dec 28, 2022 
+
+
+ 
+
+
+
+A Dandy Dozen Top Auto Industry Articles for 2022 
+
+Dec 23, 2022 
+
+
+ 
+
+
+
+Celebrate the History of Arcade Racing Games with this Museum Exhibit 
+
+Dec 16, 2022 
+
+
+ 
+
+
+
+Robots Are Taking over Fast Food Jobs 
+
+Dec 13, 2022 
+
+
+ 
+
+
+
+9 Carrier/Delivery EVs That Have the Goods 
+
+Dec 20, 2022 
+
+
+ 
+
+
+
+Top Predictions for Manufacturing in 2023 
+
+Dec 23, 2022 
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Need a New Robot? Reconfigure the Old Robot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image courtesy of Brain Corp.
+ 
+
+
+
+
+
+Robots can now be created by modularity, allowing users to reconfigure robots to a variety of applications. 
+
+Rob Spiegel | Dec 30, 2022
+
+
+
+
+
+
+
+
+
+Watch This Webinar
+
+
+
+
+With lockdowns over and COVID nearly on its way out, staff shortages are still creating bottlenecks for manufacturers. Companies large and small are turning to robots to engage in multiple tasks. This has resulted in a boom for workplace robots according to the International Federation of Robotics. With more robots in use and the number of potential applications growing, users are finding new ways to conceptualize, build, and scale robots. To accommodate this, robot makers are devising systems for robotics to help users repurpose robots from one application to another.
+Here Comes the Concept of Modular Robotics. 
+A modular robot is a robotic system that includes elements and modules that possess the necessary basic functions of robots. They can be put together and reconfigured as an integrated system that enables users to repurpose the robot for disparate tasks. The obvious benefit of modular robotic systems is that a set of modules can be combined and recombined to form a customized robot designed for a specific application. The robot can be changed – even daily – for an entirely different purpose.
+Related: Robots Are Taking over Fast Food JobsImage courtesy of Brain Corp.
+One significant benefit is that users don’t have to buy a different robot for each individual application. “The concept of modularity in robots is in the building platforms. Robots have a lot of components that can be reused,” Maturi Jagadish, product management leader for AI and robotics at Brain Corp., told Design News. Brain is a software company that works with partner companies to create cleaning robots.
+Modularity from Shape to Function
+Related: New Smart Robots March into the Packaging IndustryThe modularity concept can take a variety of forms, even to the point of designing the exterior of the robot to meet specific needs. “Think about how the robots gravitate to round or rectangular. It’s certainly a different shape, but the drive, the motors, the processing, and the sensors are quite similar. If the user needs a different shape for a particular application, we enable it. We enable the partner companies to build robots in different sizes and shapes.”
+Many small- to mid-size manufacturers want robots to be versatile enough to be repurposed. They are often resistant to purchasing a robot that is restricted to one single purpose. “A lot of the technology is reusable,” said Jagadish. “The customer needs are different, but the smaller company comes to us for help in getting their product production into robotics. The modular platform allows them to use the same robot for multiple purposes.
+Image courtesy of Brain Corp.
+Modularity Is Both Hardware and Software
+As for modularity, it’s a blend of software and hardware. “We give them the brain that runs the machine and makes the machines autonomous,” said Jagadish. “We offer design for hardware components, but a lot of knowledge is in the software that runs the sensors.”
+Modularity helps users repurpose robotics across different industries. The ultimate result of modularity is it brings down the overall cost of deploying robots. “Users buy the software and the robotics,” said Jagadish. “They have their own designs for the robot and its applications. What we provide is like a reference design, a starting point to get the robot to do what the user needs.”
+In addition to repurposing a robot for conventional manufacturing applications, warehousing functions, or retail purposes, the robot can be reconfigured for analytics. Data acquisition can be added to the robot’s duties. “We’re starting to look at the retail space for analytics,” said Jagadish. “As the robot cleans the floor, it looks at what’s on the shelf and reports on what’s out of stock. The robot engages in data collection.”
+
+
+TAGS: Robotics Robotics Components Sensors 
+
+
+0 comments 
+
+
+Hide comments
+
+
+
+ 
+
+
+user not logged in 
+
+
+Comment *
+
+
+Switch to plain text editorMore information about text formats
+Text format 
+CommentsPlain text
+
+CommentsAllowed HTML tags: <em> <strong> <blockquote> <br> <p>Plain textNo HTML tags allowed.Web page addresses and e-mail addresses turn into links automatically.Lines and paragraphs break automatically.
+
+PublishLog in or register to comment 
+
+
+
+
+
+
+
+
+
+Save
+
+Leave this field blank 
+
+
+ 
+
+
+
+
+
+
+Related
+
+
+Load More
+Next Article
+
+
+
+

@@ -1,0 +1,304 @@
+Securing low Earth orbit represents the new space race | Computer Weekly
+Aliaksandr Marko - stock.adobe.c Are we entering a new space race? In a manner of speaking, it could be argued we’re already in that race, as the barriers to launching satellites into low Earth orbit (LEO) become lower, and cyber criminals subsequently identify a new source of critical information to disrupt, intercept, utilise or even take over. In this respect, the “race” that has already begun is one that requires both governmental and private players to unite and ensure optimum resilience across the systems being placed in our planet’s periphery. Meanwhile, competitors in this – long distance but relatively quick – race are looking to build on examples of early exploitation, to enhance their competencies, and prepare for a future where space is simply a database with a bird’s eye view. But what was the starting pistol that triggered this particular contest? “Ultimately, it is a combination of engineering factors that contribute to dramatically reduced costs of launch,” says Adrian Nish, head of cyber at BAE Systems Digital Intelligence. “You can get things into space much more cheaply than in decades gone by, largely thanks to advances in technology, and manufacturers being able to integrate off-the-shelf solutions as part of the resultant satellites. “‘Space as a service’ is almost analogous to the cloud in that respect, in that customers are being offered platform space to ‘rent’, and to run applications. This commercialisation is driving the sector to become more viable, but wherever there is data being generated or stored, you also have a growing cyber security risk.” BAE Systems itself has had products and services in and around space for a number of decades already, providing radios for clients including the European Space Agency, as well as for deep space missions. Nish explains that it has also sought to capitalise on the future scope of space as a new information arena, with a particular focus on low Earth orbit. “As part of this effort, though, we’ve made sure we’re part of the security conversation, because space as an attack surface is fundamentally different to what it was previously,” he says. “If you think about a geostationary satellite, they are very much bespoke systems designed for long-life endurance in harsh environments. “Conversely, for low Earth orbit and nanosatellites, you can build them using more commercially available technologies. The good news is that it makes them easier to develop and manage. But it also makes it easier for attackers who also know what they’re doing with these systems too.” In this sense, there isn’t a whole lot of difference in terms of the attack surface between on-the-ground platforms and the landscape envisaged slightly further up. That attack surface, rather, comprises not just the physical satellite, but also a ground station which effectively controls the satellite. Joining the party also are a host of receivers that then pick up information from the satellites, and aid communications. The upshot being, an attacker doesn’t have to hit the satellite to hit the satellite. Nish continues: “The ground stations in particular are interesting targets as they are pretty much the same as enterprise networks. There are people sat on desktops or laptops feeding into the network. It just so happens that, at some point, that enterprise network will allow a connection up to an operating system in low Earth orbit, which might also be as familiar as a Linux system.” If a threat actor can gain access to said laptop or desktop, then the potential to piggyback on whatever is being fed up to that operating system becomes a very real possibility. “Once you’ve got that right, and are being delivered to an equally recognisable system, you then have potential access to peripherals in the form of cameras, motion sensors, commands, the spacecraft, essentially. Malicious things can easily follow.” For anyone in any doubt of whether this likelihood of attack – and race – is already underway, criminal activity may be sparse so far, but certainly not insignificant. In the spring of 2022, global communications company Viasat experienced an outage across Europe, at almost the exact time that Russian troops entered Ukraine. As well as being a commercial broadband provider, Viasat is also used by the Ukrainian military. On closer inspection, the main damage seemed to be collateral across the continent, as a result of a misconfiguration sent down to modems. However, upon even closer testing of the memory chips from these modems, it was revealed that they had been essentially wiped out, akin to wiping the operating system from a PC. The EU, UK and US have all since concurred that the attack originated from Russia’s GRU, which gained access to the internal management system through a misconfiguration, developed malware to deploy across the network to wipe the modems, and pushed that malware through on the day of the invasion. It wasn’t the satellite itself that was being targeted – it was merely a portal to impact connections and operations on the ground. “This really demonstrates the lure of satellite attacks – it’s the variety of impacts, and disruption on offer,” Nish notes. “Yes, the majority of attackers are likely to be motivated by money, with space just another frontier to enact ransomware attacks on manufacturers, law firms, finance companies, etc. “State actors, meanwhile, absolutely need to be factored in as well. They’ll be after what they always have been – political, military or commercial insight; to misdirect; to attain data; to disrupt or destruct; to gain intelligence; and to simply see what another country is seeing as silently and covertly as possible.” This is why a united, collaborative defence must be established between public entities and private players. BAE Systems is already part of the Space Security Information Exchange (SSIE) – a by-invitation group backed by the Centre for the Protection of National Infrastructure (CPNI) and the National Cyber Security Centre (NCSC) – of which Neil Sherwin-Peddie is currently chair. He is also head of space security at BAE Systems Digital Intelligence, and is hugely motivated to mobilise stakeholders in this race’s early stages. He says: “UK agencies are already coming together to gain better visibility across multiple platforms and from multiple perspectives. As well as BAE Systems, the UK Space Agency and the European Space Agency, other big private players such as Airbus are also involved in the conversation, while the role of smaller businesses and even startups can’t be overlooked. Security is the main part of this conversation between us all, addressing policy, process and procedure to make sure we’re working in one common direction. “At the moment, there isn’t a user manual or guidebook to follow to secure platforms, so it really is a case of addressing the entire infrastructure as a complete function.” Ground stations are key to this effort, as the receptor of information being transmitted down from satellites, but also as the controls to guide periphery tech in space such as radios, sensors and communications tools. “As a starting point, this lays the foundations for mass management of the large, overall infrastructure, and security of the total enterprise,” Sherwin-Peddie adds. “We can’t just look at ground stations though, or user terminals, or the spacecraft; it’s about securing the entire supply chain, knowing that if one element becomes weak or vulnerable, then the whole network has assurances in place to mitigate that.” Sherwin-Peddie notes the level of urgency in this development conversation across numerous public and private parties. And, to that end, agrees that we are in something of a race; if only against time at this stage. It’s an assertion that Nish agrees with, circling back to the comparisons with cloud’s rise to prominence. “For years, we presumed and predicted that cloud would be the next big thing for attackers to target. How could it not be, considering what it was designed for? But then nothing really happened for a long time. Then…SolarWinds. “Suddenly, those initial predictions became true, all because adoption had reached a scale that became too attractive to ignore. Attackers had spent the time up to that point learning how best to exploit the cloud, what the gains would be, what data they’d be accessing if successful, all so they could strike when the iron was hotter.” In this analogy, space is an iron that is warming up at considerable pace. Nish affirms: “As [low orbit] becomes more utilised, more relied on, more essential, the attacks will come. Simply, the race for us is getting ahead of that inevitability and establishing resilience ahead of time.” It shouldn’t be forgotten that space still represents a technical step change from what both developers and attackers will have experienced before, despite the growing familiarities and lowering barriers to launch. From both a hardware and software perspective, the level of cutting-edge solutions set to be deployed in this realm presents a huge opportunity to slow down would-be exploiters and achieve an initial level of resilience that ensures a sizable lead in this race. Sherwin-Peddie concluded: “I have in the back of my mind constantly that while this is a race, first to market might not be the best to market. This is why a collaborative approach is so vital, in developing systems and platforms that are sustainable and durable in this context. “If we get these initial conversations and developments right, with plans in place to mitigate challenges or attacks, then really, it’s such an exciting ‘space’. One that will soon house hugely impressive feats of engineering, and technological breakthroughs for the future.” When building a list of emerging technologies to watch, it's essential to also consider sustainability -- a concept gaining more ... Looking for information on digital transformation? Our list of 12 must-reads covers everything from formulating a digital ... Technology managers will be boosting cybersecurity, optimizing previous investments and staying on top of AI -- while they also ... The exploit that led to the Rackspace ransomware attack, referred to as OWASSRF, combines two Exchange Server flaws -- CVE-2022-... Cloud provider Rackspace was just one of several major enterprises to suffer a ransomware attack, according to public disclosures... A new exploit chain using one of the ProxyNotShell vulnerabilities has bypassed Microsoft's URL Rewrite mitigations from ... As multi-cloud networking becomes an industry standard, enterprises increasingly seek tools to wrangle data, services and ... Despite the volatile economy and tech industry, networking pros should see a strong job market in 2023, with opportunities for ... When planning wireless network capacity needs, tally your total endpoints, monitor application bandwidth usage and consider ... Quantum computing has lots of potential for high compute applications. But the technology is still in the early stages, so it may... Data lakes and data warehouses both store big data. When choosing a lake or warehouse, consider factors such as cost and what ... Classical and quantum computers have many differences in their compute capabilities and operational traits. Know their ... Expect more organizations to optimize data usage to drive decision intelligence and operations in 2023, as the new year will be ... These 10 roles, with different responsibilities, are commonly a part of the data management teams that organizations rely on to ... These eight challenges complicate efforts to integrate data for operational and analytics uses. Here's why, plus advice on how to... All Rights Reserved, 
+Copyright 2000 - 2023, TechTarget
+
+
+Privacy Policy
+
+
+
+Cookie Preferences 
+
+
+
+Do Not Sell or Share My Personal Information
+
+
+
+
+
+
+Aliaksandr Marko - stock.adobe.c
+
+
+
+
+
+Feature
+
+
+Securing low Earth orbit represents the new space race
+
+
+
+The barriers to launching satellites into low Earth orbit are falling fast, and that brings new cyber security challenges
+
+
+
+
+
+
+Share this item with your network:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By
+
+
+Matthew Staff
+
+
+
+	Published: 05 Jan 2023
+
+
+ 
+Are we entering a new space race? In a manner of speaking, it could be argued we’re already in that race, as the barriers to launching satellites into low Earth orbit (LEO) become lower, and cyber criminals subsequently identify a new source of critical information to disrupt, intercept, utilise or even take over.
+
+
+
+
+
+
+
+
+In this respect, the “race” that has already begun is one that requires both governmental and private players to unite and ensure optimum resilience across the systems being placed in our planet’s periphery. Meanwhile, competitors in this – long distance but relatively quick – race are looking to build on examples of early exploitation, to enhance their competencies, and prepare for a future where space is simply a database with a bird’s eye view.
+But what was the starting pistol that triggered this particular contest?
+“Ultimately, it is a combination of engineering factors that contribute to dramatically reduced costs of launch,” says Adrian Nish, head of cyber at BAE Systems Digital Intelligence. “You can get things into space much more cheaply than in decades gone by, largely thanks to advances in technology, and manufacturers being able to integrate off-the-shelf solutions as part of the resultant satellites.
+“‘Space as a service’ is almost analogous to the cloud in that respect, in that customers are being offered platform space to ‘rent’, and to run applications. This commercialisation is driving the sector to become more viable, but wherever there is data being generated or stored, you also have a growing cyber security risk.”
+
+A piggyback into low Earth orbit
+BAE Systems itself has had products and services in and around space for a number of decades already, providing radios for clients including the European Space Agency, as well as for deep space missions.
+Nish explains that it has also sought to capitalise on the future scope of space as a new information arena, with a particular focus on low Earth orbit.
+“As part of this effort, though, we’ve made sure we’re part of the security conversation, because space as an attack surface is fundamentally different to what it was previously,” he says.
+“If you think about a geostationary satellite, they are very much bespoke systems designed for long-life endurance in harsh environments.
+“Conversely, for low Earth orbit and nanosatellites, you can build them using more commercially available technologies. The good news is that it makes them easier to develop and manage. But it also makes it easier for attackers who also know what they’re doing with these systems too.”
+In this sense, there isn’t a whole lot of difference in terms of the attack surface between on-the-ground platforms and the landscape envisaged slightly further up.
+That attack surface, rather, comprises not just the physical satellite, but also a ground station which effectively controls the satellite. Joining the party also are a host of receivers that then pick up information from the satellites, and aid communications.
+The upshot being, an attacker doesn’t have to hit the satellite to hit the satellite.
+Nish continues: “The ground stations in particular are interesting targets as they are pretty much the same as enterprise networks. There are people sat on desktops or laptops feeding into the network. It just so happens that, at some point, that enterprise network will allow a connection up to an operating system in low Earth orbit, which might also be as familiar as a Linux system.”
+If a threat actor can gain access to said laptop or desktop, then the potential to piggyback on whatever is being fed up to that operating system becomes a very real possibility.
+“Once you’ve got that right, and are being delivered to an equally recognisable system, you then have potential access to peripherals in the form of cameras, motion sensors, commands, the spacecraft, essentially. Malicious things can easily follow.”
+
+
+A variety of impacts
+For anyone in any doubt of whether this likelihood of attack – and race – is already underway, criminal activity may be sparse so far, but certainly not insignificant.
+In the spring of 2022, global communications company Viasat experienced an outage across Europe, at almost the exact time that Russian troops entered Ukraine. As well as being a commercial broadband provider, Viasat is also used by the Ukrainian military. On closer inspection, the main damage seemed to be collateral across the continent, as a result of a misconfiguration sent down to modems.
+However, upon even closer testing of the memory chips from these modems, it was revealed that they had been essentially wiped out, akin to wiping the operating system from a PC. The EU, UK and US have all since concurred that the attack originated from Russia’s GRU, which gained access to the internal management system through a misconfiguration, developed malware to deploy across the network to wipe the modems, and pushed that malware through on the day of the invasion. It wasn’t the satellite itself that was being targeted – it was merely a portal to impact connections and operations on the ground.
+“This really demonstrates the lure of satellite attacks – it’s the variety of impacts, and disruption on offer,” Nish notes. “Yes, the majority of attackers are likely to be motivated by money, with space just another frontier to enact ransomware attacks on manufacturers, law firms, finance companies, etc.
+“State actors, meanwhile, absolutely need to be factored in as well. They’ll be after what they always have been – political, military or commercial insight; to misdirect; to attain data; to disrupt or destruct; to gain intelligence; and to simply see what another country is seeing as silently and covertly as possible.”
+
+
+Securing the entire bubble
+This is why a united, collaborative defence must be established between public entities and private players.
+BAE Systems is already part of the Space Security Information Exchange (SSIE) – a by-invitation group backed by the Centre for the Protection of National Infrastructure (CPNI) and the National Cyber Security Centre (NCSC) – of which Neil Sherwin-Peddie is currently chair. He is also head of space security at BAE Systems Digital Intelligence, and is hugely motivated to mobilise stakeholders in this race’s early stages.
+He says: “UK agencies are already coming together to gain better visibility across multiple platforms and from multiple perspectives. As well as BAE Systems, the UK Space Agency and the European Space Agency, other big private players such as Airbus are also involved in the conversation, while the role of smaller businesses and even startups can’t be overlooked. Security is the main part of this conversation between us all, addressing policy, process and procedure to make sure we’re working in one common direction.
+“At the moment, there isn’t a user manual or guidebook to follow to secure platforms, so it really is a case of addressing the entire infrastructure as a complete function.”
+Ground stations are key to this effort, as the receptor of information being transmitted down from satellites, but also as the controls to guide periphery tech in space such as radios, sensors and communications tools.
+“As a starting point, this lays the foundations for mass management of the large, overall infrastructure, and security of the total enterprise,” Sherwin-Peddie adds. “We can’t just look at ground stations though, or user terminals, or the spacecraft; it’s about securing the entire supply chain, knowing that if one element becomes weak or vulnerable, then the whole network has assurances in place to mitigate that.”
+
+
+First isn’t always best
+Sherwin-Peddie notes the level of urgency in this development conversation across numerous public and private parties. And, to that end, agrees that we are in something of a race; if only against time at this stage.
+It’s an assertion that Nish agrees with, circling back to the comparisons with cloud’s rise to prominence.
+“For years, we presumed and predicted that cloud would be the next big thing for attackers to target. How could it not be, considering what it was designed for? But then nothing really happened for a long time. Then…SolarWinds.
+“Suddenly, those initial predictions became true, all because adoption had reached a scale that became too attractive to ignore. Attackers had spent the time up to that point learning how best to exploit the cloud, what the gains would be, what data they’d be accessing if successful, all so they could strike when the iron was hotter.”
+In this analogy, space is an iron that is warming up at considerable pace.
+Nish affirms: “As [low orbit] becomes more utilised, more relied on, more essential, the attacks will come. Simply, the race for us is getting ahead of that inevitability and establishing resilience ahead of time.”
+It shouldn’t be forgotten that space still represents a technical step change from what both developers and attackers will have experienced before, despite the growing familiarities and lowering barriers to launch.
+From both a hardware and software perspective, the level of cutting-edge solutions set to be deployed in this realm presents a huge opportunity to slow down would-be exploiters and achieve an initial level of resilience that ensures a sizable lead in this race.
+Sherwin-Peddie concluded: “I have in the back of my mind constantly that while this is a race, first to market might not be the best to market. This is why a collaborative approach is so vital, in developing systems and platforms that are sustainable and durable in this context.
+“If we get these initial conversations and developments right, with plans in place to mitigate challenges or attacks, then really, it’s such an exciting ‘space’. One that will soon house hugely impressive feats of engineering, and technological breakthroughs for the future.”
+
+
+Read more about space technology
+
+A growing space industry is creating business opportunities in space, ranging from Earth observation and communications to space tourism and, eventually, asteroid mining.
+Mark Chang, an aerospace, defence and security expert at PA Consulting, looks at the actions that organisations need to take to harness the potential of space services data.
+As satellite broadband industry rockets, report from Commons Science and Technology Committee criticises government’s failures in key technical areas and continues to question value to taxpayer of OneWeb joint venture.
+
+
+
+
+
+
+
+
+
+
+
+
+Read more on IT risk management
+
+
+
+A rising space industry will create new jobs and products
+
+
+
+
+By: Makenzie Holland
+
+
+
+
+UK government approach to space industry lacks coherence and investment
+
+
+
+
+By: Joe O’Halloran
+
+
+
+
+CGI gets ESA order to develop predictive routing tool for satellite constellations
+
+
+
+
+By: Joe O’Halloran
+
+
+
+
+Starlink
+
+
+
+
+By: Kinza Yasar
+
+
+
+
+
+
+
+
+
+
+Latest News
+
+
+How technology is fuelling CommBank’s customer experience
+
+
+Traditional banking under threat from platform-based alternatives
+
+
+St Helens Council plumps for Unit4 ERP to forward automation plans
+
+
+View All News
+
+
+
+
+	Download Computer Weekly
+
+
+
+In The Current Issue:
+
+Post Office scandal: Cock-up or cook-up? 
+Clearing the barriers to full digital connectivity
+
+
+			Download Current Issue
+
+
+
+
+Latest Blog Posts
+
+
+Open Seas: Common file synchronisation issues in today’s hybrid world
+– CW Developer Network
+
+
+What to expect from Civo Navigate 2023
+– CW Developer Network
+
+
+View All Blogs
+
+
+
+
+
+
+
+			Related Content
+
+
+Lessons to be learned from attempted $1bn bank heist
+– ComputerWeekly.com
+
+
+UK Parliamentary committee casts doubt on value of ...
+– ComputerWeekly.com
+
+
+Government remains in orbit to develop UK sat nav
+– ComputerWeekly.com
+
+
+
+
+
+
+
+
+
+
+
+

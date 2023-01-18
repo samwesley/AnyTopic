@@ -1,0 +1,5 @@
+block 1: 
+
+Summary: In 2023, the Technical University of Munich (TUM) will launch their Geriatronics Campus, with funding from the state of Bavaria including two professorships and 12 research and technology transfer positions. The campus will include a new Masters program for geriatronics as well as Robo.Care AI mission dedicated to advancing the use of AI in nursing care.
+block 2: 
+TUM is building a collaborative campus in Garmisch-Partenkirchen, Germany where care, education and research will be combined to develop AI/robotics technologies for everyday applications. It includes a 25,000 square meter social services center, assisted living facilities and nursing care services with resources dedicated to advances in geriatronics and healthcare robotics as well as the Robo.Care AI Mission. Through collaboration of partners in the healthcare field and 14 new positions alongside 4.7 million euros in funding for materials and equipment, Bavaria hopes to lead the world's research on geriatronics technology serving people through high-tech solutions for better quality of life.

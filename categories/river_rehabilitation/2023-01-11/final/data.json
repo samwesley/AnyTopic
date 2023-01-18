@@ -1,0 +1,15 @@
+{
+    "date": "2023-01-11",
+    "category": "rr",
+    "articles": {
+        "0": {
+            "text": "",
+            "title": "",
+            "keywords": "",
+            "link": "https://thehill.com/opinion/energy-environment/3807901-long-term-federal-financing-is-critical-for-us-dam-rehabilitation/",
+            "skip": "true",
+            "gpt_score_reason": "\n\n7/10",
+            "gpt_relevancy_score": 7
+        }
+    }
+}

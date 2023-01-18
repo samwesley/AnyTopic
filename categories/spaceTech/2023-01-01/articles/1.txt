@@ -1,0 +1,297 @@
+Webb Unveils Young Stars in Early Stages of Formation - SpaceRef
+Scientists taking a “deep dive” into one of Webb’s iconic first images have discovered dozens of energetic jets and outflows from young stars previously hidden by dust clouds. The discovery marks the beginning of a new era of investigating how stars like our Sun form, and how the radiation from nearby massive stars might affect the development of planets. The Cosmic Cliffs, a region at the edge of a gigantic, gaseous cavity within the star cluster NGC 3324, has long intrigued astronomers as a hotbed for star formation. While well-studied by the Hubble Space Telescope, many details of star formation in NGC 3324 remain hidden at visible-light wavelengths. Webb is perfectly primed to tease out these long-sought-after details since it is built to detect jets and outflows seen only in the infrared at high resolution. Webb’s capabilities also allow researchers to track the movement of other features previously captured by Hubble. Recently, by analyzing data from a specific wavelength of infrared light (4.7 microns), astronomers discovered two dozen previously unknown outflows from extremely young stars revealed by molecular hydrogen. Webb’s observations uncovered a gallery of objects ranging from small fountains to burbling behemoths that extend light-years from the forming stars. Many of these protostars are poised to become low mass stars, like our Sun. “What Webb gives us is a snapshot in time to see just how much star formation is going on in what may be a more typical corner of the universe that we haven’t been able to see before,” said astronomer Megan Reiter of Rice University in Houston, Texas, who led the study. Molecular hydrogen is a vital ingredient for making new stars and an excellent tracer of the early stages of their formation. As young stars gather material from the gas and dust that surround them, most also eject a fraction of that material back out again from their polar regions in jets and outflows. These jets then act like a snowplow, bulldozing into the surrounding environment. Visible in Webb’s observations is the molecular hydrogen getting swept up and excited by these jets. “Jets like these are signposts for the most exciting part of the star formation process. We only see them during a brief window of time when the protostar is actively accreting,” explained co-author Nathan Smith of the University of Arizona in Tucson. Previous observations of jets and outflows looked mostly at nearby regions and more evolved objects that are already detectable in the visual wavelengths seen by Hubble. The unparalleled sensitivity of Webb allows observations of more distant regions, while its infrared optimization probes into the dust-sampling younger stages. Together this provides astronomers with an unprecedented view into environments that resemble the birthplace of our solar system. “It opens the door for what’s going to be possible in terms of looking at these populations of newborn stars in fairly typical environments of the universe that have been invisible up until the James Webb Space Telescope,” added Reiter. “Now we know where to look next to explore what variables are important for the formation of Sun-like stars.” This period of very early star formation is especially difficult to capture because, for each individual star, it’s a relatively fleeting event – just a few thousand to 10,000 years amid a multi-million-year process of star formation. “In the image first released in July, you see hints of this activity, but these jets are only visible when you embark on that deep dive – dissecting data from each of the different filters and analyzing each area alone,” shared team member Jon Morse of the California Institute of Technology in Pasadena. “It’s like finding buried treasure.” In analyzing the new Webb observations, astronomers are also gaining insights into how active these star-forming regions are, even in a relatively short time span. By comparing the position of previously known outflows in this region caught by Webb, to archival data by Hubble from 16 years ago, the scientists were able to track the speed and direction in which the jets are moving. This science was conducted on observations collected as part of Webb’s Early Release Observations Program. The paper was published in the Monthly Notices of the Royal Astronomical Society in December 2022. The James Webb Space Telescope is the world’s premier space science observatory. Webb will solve mysteries in our solar system, look beyond to distant worlds around other stars, and probe the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency), and CSA (Canadian Space Agency). Larger image SpaceRef co-founder, Explorers Club Fellow, ex-NASA, Away Teams, Journalist, Space & Astrobiology, Lapsed climber. In a letter to the FCC, SpaceX and OneWeb agrees to coordinate spectrum. 2023 Multiverse Media Inc. All right are reserved.
+
+
+
+Science and Exploration
+
+
+Webb Unveils Young Stars in Early Stages of Formation
+
+
+                                    By
+                                    Keith Cowing 
+
+                                    Press Release                                
+
+                                    NASA                                
+
+                                    January 1, 2023                                
+
+ 
+
+                                    Filed under
+                                    Astronomy, NGC 3324, telescope, Webb Space Telescope 
+
+
+
+
+
+
+
+                                                                                                            Dozens of previously hidden jets and outflows from young stars are revealed in this new image of the Cosmic Cliffs from NASA’s James Webb Space Telescope’s Near-Infrared Camera (NIRCam). This image separates out several wavelengths of light from the First Image revealed on July 12, 2022, which highlight molecular hydrogen, a vital ingredient for star formation. Insets on the right-hand side highlight three regions of the Cosmic Cliffs with particularly active molecular hydrogen outflows. In this image, red, green, and blue were assigned to Webb’s NIRCam data at 4.7, 4.44, and 1.87 microns (F470N, F444W, and F187N filters, respectively). Credits: NASA, ESA, CSA, and STScI. Image processing: J. DePasquale (STScI).                                                                                                    
+
+
+
+Scientists taking a “deep dive” into one of Webb’s iconic first images have discovered dozens of energetic jets and outflows from young stars previously hidden by dust clouds.
+
+The discovery marks the beginning of a new era of investigating how stars like our Sun form, and how the radiation from nearby massive stars might affect the development of planets.
+The Cosmic Cliffs, a region at the edge of a gigantic, gaseous cavity within the star cluster NGC 3324, has long intrigued astronomers as a hotbed for star formation. While well-studied by the Hubble Space Telescope, many details of star formation in NGC 3324 remain hidden at visible-light wavelengths. Webb is perfectly primed to tease out these long-sought-after details since it is built to detect jets and outflows seen only in the infrared at high resolution. Webb’s capabilities also allow researchers to track the movement of other features previously captured by Hubble.
+Recently, by analyzing data from a specific wavelength of infrared light (4.7 microns), astronomers discovered two dozen previously unknown outflows from extremely young stars revealed by molecular hydrogen. Webb’s observations uncovered a gallery of objects ranging from small fountains to burbling behemoths that extend light-years from the forming stars. Many of these protostars are poised to become low mass stars, like our Sun.
+“What Webb gives us is a snapshot in time to see just how much star formation is going on in what may be a more typical corner of the universe that we haven’t been able to see before,” said astronomer Megan Reiter of Rice University in Houston, Texas, who led the study.
+Molecular hydrogen is a vital ingredient for making new stars and an excellent tracer of the early stages of their formation. As young stars gather material from the gas and dust that surround them, most also eject a fraction of that material back out again from their polar regions in jets and outflows. These jets then act like a snowplow, bulldozing into the surrounding environment. Visible in Webb’s observations is the molecular hydrogen getting swept up and excited by these jets.
+“Jets like these are signposts for the most exciting part of the star formation process. We only see them during a brief window of time when the protostar is actively accreting,” explained co-author Nathan Smith of the University of Arizona in Tucson.
+Previous observations of jets and outflows looked mostly at nearby regions and more evolved objects that are already detectable in the visual wavelengths seen by Hubble. The unparalleled sensitivity of Webb allows observations of more distant regions, while its infrared optimization probes into the dust-sampling younger stages. Together this provides astronomers with an unprecedented view into environments that resemble the birthplace of our solar system.
+“It opens the door for what’s going to be possible in terms of looking at these populations of newborn stars in fairly typical environments of the universe that have been invisible up until the James Webb Space Telescope,” added Reiter. “Now we know where to look next to explore what variables are important for the formation of Sun-like stars.”
+This period of very early star formation is especially difficult to capture because, for each individual star, it’s a relatively fleeting event – just a few thousand to 10,000 years amid a multi-million-year process of star formation.
+“In the image first released in July, you see hints of this activity, but these jets are only visible when you embark on that deep dive – dissecting data from each of the different filters and analyzing each area alone,” shared team member Jon Morse of the California Institute of Technology in Pasadena. “It’s like finding buried treasure.”
+In analyzing the new Webb observations, astronomers are also gaining insights into how active these star-forming regions are, even in a relatively short time span. By comparing the position of previously known outflows in this region caught by Webb, to archival data by Hubble from 16 years ago, the scientists were able to track the speed and direction in which the jets are moving.
+This science was conducted on observations collected as part of Webb’s Early Release Observations Program. The paper was published in the Monthly Notices of the Royal Astronomical Society in December 2022.
+The James Webb Space Telescope is the world’s premier space science observatory. Webb will solve mysteries in our solar system, look beyond to distant worlds around other stars, and probe the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency), and CSA (Canadian Space Agency).
+Larger image
+
+
+
+
+
+
+
+
+
+
+
+Keith Cowing 
+SpaceRef co-founder, Explorers Club Fellow, ex-NASA, Away Teams, Journalist, Space & Astrobiology, Lapsed climber.
+
+
+ Follow on Twitter
+                                       
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Science and Exploration
+
+
+
+                        Perseverance Rover Collects Martian Regolith                    
+
+
+
+
+
+                        Press Release                    
+
+                        Jan 1, 2023                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Science and Exploration
+
+
+
+                        ESA’s Comet Interceptor Construction Moves Forward                    
+
+
+
+
+
+                        Press Release                    
+
+                        Jan 1, 2023                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        NASA Developing AI to Steer Using Landmarks – On the Moon                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 31, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+New Space and Tech
+
+
+
+                        Meteosat Third Generation Imager Satellite: New Era Of Weather Forecasting Begins                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 31, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Science and Exploration
+
+
+
+                        Three Quarters Of Major Observatories Are Affected By Light Pollution                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 31, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Science and Exploration
+
+
+
+                        IXPE Celebrates 1 Year of Exploring the Cosmos                    
+
+
+
+
+
+                        Press Release                    
+
+                        Dec 31, 2022                    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+                                            Perseverance Rover Collects Martian Regolith                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            ESA’s Comet Interceptor Construction Moves Forward                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            NASA Developing AI to Steer Using Landmarks – On the Moon                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            Meteosat Third Generation Imager Satellite: New Era Of Weather Forecasting Begins                                        
+
+
+ 
+
+
+
+
+
+
+
+
+                                            Three Quarters Of Major Observatories Are Affected By Light Pollution                                        
+
+
+
+
+

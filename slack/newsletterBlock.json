@@ -1,0 +1,82 @@
+{
+    "blocks": [
+      {
+        "type": "header",
+        "text": {
+          "type": "plain_text",
+          "text": ":newspaper: Newsy :newspaper:"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": " :loud_sound: test :loud_sound:"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*Chinas last launch of 2022 sparks falling rocket debris warning from Philippine Space Agency | Space*"
+        }
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": "\n\n- Philippine Space Agency warns of falling rocket debris from recent Chinese launch \n- Advisory issued to relevant government agencies on estimated drop zone area and proposed warnings on air and marine access \n- Debris anticipated to fall within vicinity of Recto Bank but not on land features or inhabited areas within Philippines territory \n"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*S.Koreas Yoon orders revamp of response to violations of countrys air space | Nasdaq*"
+        }
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": " \n• President Yoon Suk-yeol of South Korea ordered a revamp of the militarys response to objects violating its airspace. \n• Five North Korean drones crossed into South Korea on Monday and flew for hours, prompting South Korea’s military to scramble jets and helicopters but failing to bring them down. \n• President Yoon visited the state-run Agency for Defence Development to check the countrys reconnaissance and interception capabilities. \n• In response to North Korean drone intrusion, President Yoon called for an overhaul of the response system against “all flying objects” in order to make it clear that provocations are met with harsh consequences.  \n• The South’s Joint Chiefs of Staff announced air defence drills simulating hostile small-sized unmanned aircraft will be held soon."
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": "*Upcoming Planetary Science Research Position at NASA’s Marshall Space Flight Center | Planetary News*"
+        }
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": "\n- Heliophysics and Planetary Science Branch at NASAs Marshall Space Flight Center in Huntsville, AL is seeking a scientist to conduct research on planetary science problems. \n- Position will be announced in January 2023 under Research Space Scientist, GS-13 or GS-14 grade level depending on qualifications. \n- Incumbent planetary scientist will have expertise in remote/in situ sensing of planets, moons, asteroids & advanced tools/techniques data analysis/mining/machine learning techniques. \n- Job opportunity & requirements can be found by searching USAJobs with keyword NASA and location Huntsville, Alabama. \n- Informal inquiries can be directed to Dr. David McKenzie at david.e.mckenzie@nasa.gov or 256-961-7896"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "text": {
+          "type": "mrkdwn",
+          "text": "Additional News \n\n *Article title with link* \n\n *Article title with link* \n\n *Article title with link* \n\n *Article title with link* \n\n *Article title with link* \n\n *Article title with link* \n\n *Article title with link* \n\n "
+        }
+      }
+    ]
+  }

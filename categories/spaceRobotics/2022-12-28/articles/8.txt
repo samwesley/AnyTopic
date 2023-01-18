@@ -1,0 +1,158 @@
+Latest Generation Single Axis Motion Controller from Galil  | RoboticsTomorrow
+Article: Online Robotics Trade Magazine Industrial Automation, Robots and Unmanned Vehicles If you do not have a RoboticsTomorrow partner account, please register - it's free!  Limit search to:  Advanced Search Visit http://www.electromate.com for further information This 1-axis motion controller features Ethernet/RS232 communication and an optional 800W Servo Drive The DMC-3x01x Motion Controller Series is Galil's latest generation single-axis motion controller. It uses a 32-bit RISC processor to provide higher speed than older models.  Like all Galil controllers, programming the DMC-3x01x is simplified with two-letter, intuitive commands and a full set of software tools for servo tuning and analysis. The DMC-3x01x Motion Controller Series feature:
+More Headlines Application of robots for material handling  RISE™Robotics Granted US Patent for Key Technology - High Reduction Belt-Driven Linear Actuator
+
+
+ Cognizant to advance Garuda Aerospace drones with digital technologies Upgraded Ensenso 3D camera series now available at IDS Midwest Motion Products, Inc - ISO 9001:2015 Continuation Certification SuccessArticles MiniMACS6 Stabilizes the Furuta Pendulum When to Choose a 4pole DC Motor Mapping the Stars, Galaxies and Black Holes in the Universe, Thanks to Precision of Faulhaber Motors & Systems What Are Fresnel Lenses Used For? 3 Benefits of Working With a Robotic Integrator 	Available as a compact card-level or box-level unit
+	Connects to a stepper or servo motor amplifier of any power range
+	Can be purchased with an internal 800-Watt brushless sine drive   or microstepping drive which minimizes space, cost, and wiring
+	Operates stand-alone or can be networked to a PC via Ethernet
+	Modes of motion include point-to-point positioning, position tracking, jogging, contouring, electronic gearing and ecam.
+ Features include:
+•	Two daisy-chainable Ethernet 100 Base-T ports. One 115kbaud RS232 port
+•	Ethernet supports multiple masters and slaves. TCP/IP, UDP and Modbus TCP master protocol for communication with I/O devices
+•	Encoder feedback up to 15 MHz. Quadrature standard. SSI and BiSS encoder option(SER). Sinusoidal Encoder option (DMC-31xxx). Main and auxiliary encoder inputs
+•	Non-volatile memory for programs, variables, and arrays.
+•	Concurrent execution of four programs.
+•	Optically isolated forward and reverse limit inputs and homing inputs
+•	8 uncommitted, isolated inputs and 4 isolated outputs
+•	High speed position latch and output compare
+•	2 uncommitted 12bit 0-5V analog inputs (16bit ±10V inputs on DMC-31xxx) and 1 uncommitted analog output
+•	Standard power input is +/-12V and 5V. Controller available with optional DC-DC converter with 9-48VDC single supply input. (Option for 20-80 VDC).
+For more information, visit Galil Ethernet/RS232 Single Axis Motion Controller.
+ For further information, please contact:
+ Warren Osak
+sales@electromate.com   
+Toll Free Phone:   877-737-8698
+www.electromate.com 
+ Tags:  Galil, DMC-3x01x, Motion Control, Ethernet, Motion Controller, Electromate
+ 2022 Top Article - How Tesla Used Robotics to Survive "Production Hell" and Became the World's Most Advanced Car Manufacturer 2022 Top Article - Wireless Charging Enables Industry 4.0 Implementation with Mobile Robots What Are Fresnel Lenses Used For? When to Choose a 4pole DC Motor ATX West  Geo Week AUVSI XPONENTIAL Robotics Summit & Expo Automate Follow us Alternative Energy Manufacturing & Automation 
+
+
+  
+
+
+  Subscribe | Search | Promote Products | Feature Your Company | Publish News | List Event Articles | News | Stories | Products | Companies | Events  © 2010 - 2022 RoboticsTomorrow - All Rights Reserved
+                Powered by BTH Management
+Article: 
+
+
+
+
+
+
+
+
+
+
+
+Latest Generation Single Axis Motion Controller from Galil
+
+Visit http://www.electromate.com for further information
+
+
+This 1-axis motion controller features Ethernet/RS232 communication and an optional 800W Servo Drive
+
+
+       12/27/22, 01:44 PM 
+        
+                    | Industrial Robotics, Factory Automation 
+                        
+                    | Electromate Inc.
+
+The DMC-3x01x Motion Controller Series is Galil's latest generation single-axis motion controller. It uses a 32-bit RISC processor to provide higher speed than older models.  Like all Galil controllers, programming the DMC-3x01x is simplified with two-letter, intuitive commands and a full set of software tools for servo tuning and analysis. The DMC-3x01x Motion Controller Series feature:
+More Headlines Application of robots for material handling  RISE™Robotics Granted US Patent for Key Technology - High Reduction Belt-Driven Linear Actuator
+
+
+ Cognizant to advance Garuda Aerospace drones with digital technologies Upgraded Ensenso 3D camera series now available at IDS Midwest Motion Products, Inc - ISO 9001:2015 Continuation Certification SuccessArticles MiniMACS6 Stabilizes the Furuta Pendulum When to Choose a 4pole DC Motor Mapping the Stars, Galaxies and Black Holes in the Universe, Thanks to Precision of Faulhaber Motors & Systems What Are Fresnel Lenses Used For? 3 Benefits of Working With a Robotic Integrator 	Available as a compact card-level or box-level unit
+	Connects to a stepper or servo motor amplifier of any power range
+	Can be purchased with an internal 800-Watt brushless sine drive   or microstepping drive which minimizes space, cost, and wiring
+	Operates stand-alone or can be networked to a PC via Ethernet
+	Modes of motion include point-to-point positioning, position tracking, jogging, contouring, electronic gearing and ecam.
+ Features include:
+•	Two daisy-chainable Ethernet 100 Base-T ports. One 115kbaud RS232 port
+•	Ethernet supports multiple masters and slaves. TCP/IP, UDP and Modbus TCP master protocol for communication with I/O devices
+•	Encoder feedback up to 15 MHz. Quadrature standard. SSI and BiSS encoder option(SER). Sinusoidal Encoder option (DMC-31xxx). Main and auxiliary encoder inputs
+•	Non-volatile memory for programs, variables, and arrays.
+•	Concurrent execution of four programs.
+•	Optically isolated forward and reverse limit inputs and homing inputs
+•	8 uncommitted, isolated inputs and 4 isolated outputs
+•	High speed position latch and output compare
+•	2 uncommitted 12bit 0-5V analog inputs (16bit ±10V inputs on DMC-31xxx) and 1 uncommitted analog output
+•	Standard power input is +/-12V and 5V. Controller available with optional DC-DC converter with 9-48VDC single supply input. (Option for 20-80 VDC).
+For more information, visit Galil Ethernet/RS232 Single Axis Motion Controller.
+ For further information, please contact:
+ Warren Osak
+sales@electromate.com   
+Toll Free Phone:   877-737-8698
+www.electromate.com 
+ Tags:  Galil, DMC-3x01x, Motion Control, Ethernet, Motion Controller, Electromate
+
+
+        12/27/22, 01:44 PM 
+        
+                    | Industrial Robotics, Factory Automation 
+                        
+                    | Electromate Inc.
+
+
+
+Subscribe to Newsletter
+
+More Factory Automation News | Stories | Articles
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Featured Product
+
+
+
+Southco - Need to enhance physical security in your Robotics application? 
+Many robotics engineers need to securely mount and latch sensitive electronic components in their robotics applications; Southco is able to help reduce theft and vandalism with our proven and reliable access technologies. Learn how Southco can help secure your robotics, or other smart city application, from theft and vandalism. 
+
+
+
+More Products
+
+Feature Your Product
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Article: 
+Article: 
+Article: 

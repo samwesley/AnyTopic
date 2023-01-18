@@ -1,0 +1,146 @@
+7 things that defined Nigerian tech space in 2022 - Businessday NG
+ 
+
+
+Businessday Ng - 
+
+ The Nigerian tech space achieved a great milestone in 2022 and also faced some challenges. Most of these achievements remain a crucial factor necessary to boost the country’s GDP, and financial inclusion, and grow a fully digital economy. The milestones experienced in the space include the 5G rollout, the startup Act, the launch of Equiano cable, the Launch of payment service banks (PSBs), and Increased Broadband Penetration. Similarly, the sector passed through many challenges in the course of the year including the massive loss of tech talents (Japa) and Global layoffs. Here is the breakdown of the milestones and challenges in the sector. Launch of Payment Service Banks (PSBs) The launch of payment service banks by MTN, Globacom, and Airtel, remains one of the major milestones the sector attains in 2022. MTN launch the MoMo PSB, Airtel Launched the SmartCash PSB and Globacom launched the MoneyMaster PSB. Following the final approval for a Payment Service Bank (PSB) licence granted by the Central Bank of Nigeria (CBN), MTN Nigeria’s fintech subsidiary, MoMo Payment Service Bank (MoMo PSB) Limited, formally commenced operations in May. Similarly, Airtel Africa secured a full Payment Service Bank licence from the Central Bank of Nigeria (CBN) through its subsidiary in April, and received an in-principle approval in 2021. Usoro Usoro, MTN momo PSB said, “Providing easy-to-use, accessible, and affordable financial services to all Nigerians is essential to executing the CBN’s financial inclusion strategy and the digital inclusion agenda of the Minister of Communications and Digital Economy.” However, Globacom in October also launched its payment service bank business called the MoneyMaster PSB. The PSB had since commenced commercial operations on May 30, 2022. In a statement after the launch in Lagos, the telecom company stated that, “Our over-arching business objective remains to empower Nigerians by providing them with unlimited opportunities.” 5G Roll-out After 11 rounds of bidding that lasted eight hours, Mafab Communications Ltd and MTN Nigeria Plc emerged as the two successful winners of the 3.5 gigahertz (GHz) spectrum auction for the deployment of Fifth Generation (5G) technology to support the delivery of ubiquitous broadband services in Nigeria. The two winners emerged in a keenly contested 3.5GHz Spectrum auction conducted by the Nigerian Communications Commission (NCC), in collaboration with the Federal Ministry of Communications and Digital Economy. MTN Nigeria kicked off an open 5G pilot ahead of commercial launch in seven cities, while Mafab is expected also to kick off soon Read also: Tech firm introduces financing options for car owners Meanwhile, the second phase of the 5G bid is ongoing with Airtel emerging as the sole bidder and winner. The emergence of Airtel as the sole bidder led NCC to cancel the entire auction process, announcing the telco as the winner of the 3.5GHz spectrum for the 5G licence. According to a statement released by the NCC, which was signed by Reuben Muoka, director, of Public Affairs, NCC, only two operators expressed interest in the auction of the 3.5Hz spectrum band. They were Airtel Networks Limited and Standard Network and only Airtel was able to make payment for the Intention to Bid Deposit (IBD) as of December 5, while Standard Network couldn’t meet up after requesting an extended time. The 5G rollout will help in providing employment opportunities, achieve a fully digital economy, and boost financial inclusion in Nigeria. Equiano Cable On 21 April 2022, Google and cable landing partner WIOCC announced the landing of the Equiano subsea cable in Lagos, Nigeria. The cable named after Nigerian-born writer and abolitionist, Olaudah Equiano, is state-of-the-art infrastructure based on space-division multiplexing (SDM) technology, with 12 fiber pairs and a design capacity of 144Tbps, approximately 20 times more network capacity than the last cable built to serve this region. The Equiano cable will help boost digital transformation in Nigeria. Nigeria remains the runner destination in Africa after Togo. The subsea cable offers a fifth-generation (5G) mobile service which runs from Portugal along the West Coast of Africa connecting Europe to Togo, Nigeria, Namibia, South Africa, and Saint Helena. The arrival of the subsea cable in Nigeria promises to change the internet experience of the Nigerian population and businesses in the country in many different ways, while offering millions of employment opportunities. Broadband penetration Broadband penetration in Nigeria saw a slight increase in 2022, moving up from 39.9 percent in October 2021 to 45.6 percent in October 2022 when it was last updated by the Nigerian communications commission (NCC). Industry statistics show that this growth represents a 13 percent increase in 2022. The general analysis signifies a slow growth in the 2022 broadband penetration rate which also showed that it outperformed the previous year. Industry experts maintained that the sector needs massive investment and guidelines to reach the peak. While speaking on the year’s broadband performance, Umar Danbatta, executive vice chairman, NCC says the commission is active to meet its target of 70 percent broadband penetration by 2025. To meet up with the target, NCC noted that emerging technologies and advancements in the sector would enable it to match these developments with appropriate regulations and guidelines. “With the technological advancements anticipated in the coming years, it is expected that there will be a proliferation of devices in the industry. It is, therefore, essential for the Commission to ensure that the right regulatory frameworks can accommodate such eventualities, ”Danbatta said. Nigeria Startup Act On 19 October 2022, the Nigeria Startup Bill (NSB) was signed into law by President Muhammadu Buhari. The NSB now known as the Nigeria Startup Act started in June 2021 and was passed by the country’s National Assembly in July. This achievement was a joint initiative by Nigeria’s tech startup ecosystem and the presidency with the aim to harness the potential of the country’s digital economy through co-created regulations. Isa Ali Pantami, minister of communications and digital economy stated that the bill will go a long way to create and develop an enabling environment. Also, the startup act makes provision for the development and growth of technology-related talent. Pantami added that there are provisions in the act that will change the narrative of the industry. He noted that one of the provisions includes the Council for Digital Innovation and Entrepreneurship, which will be led by the president. The task of the council is to ensure the monitoring and evaluation of the regulatory framework and to also formulate and provide general policy guidelines for the realisation of the Startup Act’s objectives and give overall directions for the harmonisation of laws and regulations that affect a startup. Challenges faced by the Nigerian and Global tech space The Great Resignation (Japa wave) While the tech ecosystem has seen an increase in the number of startups and tech hubs, attracting millions of dollars in investment, not a few Nigerian tech talents are leaving the country or angling to leave the country. Many have resigned from their work for a better offer abroad leaving firms in Nigeria short of tech talents. Tech Layoffs The global tech industry has seen 119,155 employees laid off by 887 companies this year, representing the largest layoff activity in the industry, data from Layoffs.fyi have shown. The spate of tech job cuts was in reaction to the macroeconomic downturn in many major markets driven by accelerating inflation, foreign exchange volatility, and new caps on venture capital funding. Layoff activities in 2022 have so far surpassed the peak reached in 2020 when the COVID-19 pandemic forced millions of companies to shut down and work remotely. Most firms affected by these mass layoffs include Facebook, Twitter, Stripe, Snapshot, Coinbase, and Meta among others.  
+
+				Telecom industry records 218.9m active mobile subscriptions in November			
+
+  
+
+				Crypto payment firm takes Christmas to Lagos suburb			
+
+  
+
+				Mobile money adoption to increase by 39% in 2025			
+
+  
+
+				How Oluwatobi Adekunle built a digital marketing ecosystem from WhatsApp			
+
+ Get the best of world News delivered to your inbox daily 
+
+						 latest news					
+  
+			Nigeria’s oil production hits 1.35m bpd, highest in 8 months		
+  
+			Buhari, lawmakers disagree over N22.7trn CBN loans		
+  
+			Obi of Onitsha denies altercation with OBJ over 2nd Niger Bridge		
+  
+			Election: NGO seeks braille ballot paper for visually impaired		
+  
+			Over 1,631 entrepreneurs benefit from Edo, BOI N2bn MSME fund		
+ Business Day, established in 2001, is a daily business newspaper based in Lagos. It is the only Nigerian newspaper with a bureau in Accra, Ghana. It has both daily and Sunday titles. It circulates in Nigeria and Ghana 
+
+
+								 BDlead							
+
+  
+			Nigeria’s oil production hits 1.35m bpd, highest in 8 months		
+  
+			New naira scarce as old goes out in 28 days		
+  
+			Nigeria lags Ghana, Kenya, 12 others in innovation		
+
+
+
+
+7 things that defined Nigerian tech space in 2022
+
+
+
+Francis Onyemachi 
+Jan 3, 2023
+
+
+
+ 
+ Nigerian tech space
+
+
+
+
+
+
+
+
+ Share
+
+ 
+
+The Nigerian tech space achieved a great milestone in 2022 and also faced some challenges.
+Most of these achievements remain a crucial factor necessary to boost the country’s GDP, and financial inclusion, and grow a fully digital economy.
+ The milestones experienced in the space include the 5G rollout, the startup Act, the launch of Equiano cable, the Launch of payment service banks (PSBs), and Increased Broadband Penetration.
+Similarly, the sector passed through many challenges in the course of the year including the massive loss of tech talents (Japa) and Global layoffs.
+Here is the breakdown of the milestones and challenges in the sector.
+Launch of Payment Service Banks (PSBs)
+The launch of payment service banks by MTN, Globacom, and Airtel, remains one of the major milestones the sector attains in 2022.
+MTN launch the MoMo PSB, Airtel Launched the SmartCash PSB and Globacom launched the MoneyMaster PSB.
+Following the final approval for a Payment Service Bank (PSB) licence granted by the Central Bank of Nigeria (CBN), MTN Nigeria’s fintech subsidiary, MoMo Payment Service Bank (MoMo PSB) Limited, formally commenced operations in May.
+Similarly, Airtel Africa secured a full Payment Service Bank licence from the Central Bank of Nigeria (CBN) through its subsidiary in April, and received an in-principle approval in 2021.
+Usoro Usoro, MTN momo PSB said, “Providing easy-to-use, accessible, and affordable financial services to all Nigerians is essential to executing the CBN’s financial inclusion strategy and the digital inclusion agenda of the Minister of Communications and Digital Economy.”
+However, Globacom in October also launched its payment service bank business called the MoneyMaster PSB. The PSB had since commenced commercial operations on May 30, 2022.
+In a statement after the launch in Lagos, the telecom company stated that, “Our over-arching business objective remains to empower Nigerians by providing them with unlimited opportunities.”
+5G Roll-out
+After 11 rounds of bidding that lasted eight hours, Mafab Communications Ltd and MTN Nigeria Plc emerged as the two successful winners of the 3.5 gigahertz (GHz) spectrum auction for the deployment of Fifth Generation (5G) technology to support the delivery of ubiquitous broadband services in Nigeria.
+The two winners emerged in a keenly contested 3.5GHz Spectrum auction conducted by the Nigerian Communications Commission (NCC), in collaboration with the Federal Ministry of Communications and Digital Economy.
+MTN Nigeria kicked off an open 5G pilot ahead of commercial launch in seven cities, while Mafab is expected also to kick off soon
+Read also: Tech firm introduces financing options for car owners
+Meanwhile, the second phase of the 5G bid is ongoing with Airtel emerging as the sole bidder and winner.
+The emergence of Airtel as the sole bidder led NCC to cancel the entire auction process, announcing the telco as the winner of the 3.5GHz spectrum for the 5G licence.
+According to a statement released by the NCC, which was signed by Reuben Muoka, director, of Public Affairs, NCC, only two operators expressed interest in the auction of the 3.5Hz spectrum band. They were Airtel Networks Limited and Standard Network and only Airtel was able to make payment for the Intention to Bid Deposit (IBD) as of December 5, while Standard Network couldn’t meet up after requesting an extended time.
+The 5G rollout will help in providing employment opportunities, achieve a fully digital economy, and boost financial inclusion in Nigeria.
+Equiano Cable
+On 21 April 2022, Google and cable landing partner WIOCC announced the landing of the Equiano subsea cable in Lagos, Nigeria.
+The cable named after Nigerian-born writer and abolitionist, Olaudah Equiano, is state-of-the-art infrastructure based on space-division multiplexing (SDM) technology, with 12 fiber pairs and a design capacity of 144Tbps, approximately 20 times more network capacity than the last cable built to serve this region. The Equiano cable will help boost digital transformation in Nigeria.
+Nigeria remains the runner destination in Africa after Togo.
+
+
+
+
+
+
+
+
+
+ The subsea cable offers a fifth-generation (5G) mobile service which runs from Portugal along the West Coast of Africa connecting Europe to Togo, Nigeria, Namibia, South Africa, and Saint Helena.
+The arrival of the subsea cable in Nigeria promises to change the internet experience of the Nigerian population and businesses in the country in many different ways, while offering millions of employment opportunities.
+Broadband penetration
+Broadband penetration in Nigeria saw a slight increase in 2022, moving up from 39.9 percent in October 2021 to 45.6 percent in October 2022 when it was last updated by the Nigerian communications commission (NCC).
+Industry statistics show that this growth represents a 13 percent increase in 2022.
+The general analysis signifies a slow growth in the 2022 broadband penetration rate which also showed that it outperformed the previous year.
+Industry experts maintained that the sector needs massive investment and guidelines to reach the peak.
+While speaking on the year’s broadband performance, Umar Danbatta, executive vice chairman, NCC says the commission is active to meet its target of 70 percent broadband penetration by 2025.
+To meet up with the target, NCC noted that emerging technologies and advancements in the sector would enable it to match these developments with appropriate regulations and guidelines.
+“With the technological advancements anticipated in the coming years, it is expected that there will be a proliferation of devices in the industry. It is, therefore, essential for the Commission to ensure that the right regulatory frameworks can accommodate such eventualities, ”Danbatta said.
+Nigeria Startup Act
+On 19 October 2022, the Nigeria Startup Bill (NSB) was signed into law by President Muhammadu Buhari.
+The NSB now known as the Nigeria Startup Act started in June 2021 and was passed by the country’s National Assembly in July.
+This achievement was a joint initiative by Nigeria’s tech startup ecosystem and the presidency with the aim to harness the potential of the country’s digital economy through co-created regulations.
+Isa Ali Pantami, minister of communications and digital economy stated that the bill will go a long way to create and develop an enabling environment.
+Also, the startup act makes provision for the development and growth of technology-related talent.
+Pantami added that there are provisions in the act that will change the narrative of the industry. He noted that one of the provisions includes the Council for Digital Innovation and Entrepreneurship, which will be led by the president.
+The task of the council is to ensure the monitoring and evaluation of the regulatory framework and to also formulate and provide general policy guidelines for the realisation of the Startup Act’s objectives and give overall directions for the harmonisation of laws and regulations that affect a startup.
+Challenges faced by the Nigerian and Global tech space
+The Great Resignation (Japa wave)
+While the tech ecosystem has seen an increase in the number of startups and tech hubs, attracting millions of dollars in investment, not a few Nigerian tech talents are leaving the country or angling to leave the country.
+Many have resigned from their work for a better offer abroad leaving firms in Nigeria short of tech talents.
+Tech Layoffs
+The global tech industry has seen 119,155 employees laid off by 887 companies this year, representing the largest layoff activity in the industry, data from Layoffs.fyi have shown.
+The spate of tech job cuts was in reaction to the macroeconomic downturn in many major markets driven by accelerating inflation, foreign exchange volatility, and new caps on venture capital funding.
+Layoff activities in 2022 have so far surpassed the peak reached in 2020 when the COVID-19 pandemic forced millions of companies to shut down and work remotely.
+Most firms affected by these mass layoffs include Facebook, Twitter, Stripe, Snapshot, Coinbase, and Meta among others.  
+
+
+
+
+
+ Share
+
+ 
+
+
+

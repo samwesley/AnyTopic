@@ -1,0 +1,8 @@
+block 1: 
+
+CE-20 Engine Hot Test: 
+• On December 24, 2022, the CE-20 engine successfully operated at a thrust level of 22t for 650s. 
+• The qualification for 20 t thrust level is also completed for induction flight. 
+• This engine has been designed and developed by Liquid Propulsion Systems Centre (LPSC) in Valiamala, Kerala.  
+• During the test, mixture ratio and thrust control were operational in open loop mode while all other parameters performed as predicted.   
+• The engine had undergone 11 hot tests with a cumulative duration of 2720s prior to this test; 3370s total burn duration at different thrust & mixture ratio levels achieved overall.

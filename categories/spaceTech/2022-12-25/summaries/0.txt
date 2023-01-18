@@ -1,0 +1,7 @@
+block 1:  Server Resolution Error 1001 
+• Our servers do not recognize your request. Contact SDxCentral Support and include RayID for faster resolution.  
+• Access denied - Site owner may have set restrictions that prevent access to www.sdxcentral.com
+• Ray ID: 77f31149a839e1b6  
+• Timestamp: 2022-12-25 16:49:00 UTC 
+• Your IP address: 73.75.185.121 
+• Requested URL : www.sdxcentral/articles/analysis/5gs-race-to-space-top-satellite articles in 2022/2022/12  • Error reference number : 1020    Server ID : FL_14F645     User Agent : Python requests / 2 .28 .1

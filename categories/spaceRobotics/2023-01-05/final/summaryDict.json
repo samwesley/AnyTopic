@@ -1,0 +1,72 @@
+{
+    "https://www.engadget.com/asus-zenbook-oled-ces-2023-190025437.html": {
+        "title": "ASUS' latest Zenbook Pro 16X OLED has more space to stay cool | Engadget",
+        "summary": " ASUS launched a range of gaming focused and general-purpose laptops at CES 2021, featuring OLED displays with high resolution, refresh rates and Pantone validation for accurate colors. The Zenbook Pro 16X OLED is the most powerful model and can be configured up to 13th generation Intel Core processors, NVIDIA GeForce RTX 40-series laptop GPUs and 32GB LPDDR5X RAM. Meanwhile, ASUS also announced their business-oriented ExpertBook B9 OLDE which has 14 inch 2.8K display than weighs 1.65 kgs with ecofriendly manufacturing process helping reduce materials by 29%.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.thedefensepost.com/2023/01/05/us-small-weather-satellite-demo/": {
+        "title": "US Space Force Begins Small Satellite Weather Sensor Demonstration",
+        "summary": "\nThe US Space Force has commenced an electro-optical/infrared weather system (EWS) CubeSat demonstration in Florida to validate the use of smaller sensors. The one-year trial is conducted with US military and NATO allies, providing low-Earth orbit imaging data for flight routes and other essential warfighter missions.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.logisticsmanager.com/mccarthy-group-begins-million-pound-extension-in-wales/": {
+        "title": "McCarthy Group begins million-pound extension in Wales | Logistics Manager",
+        "summary": "\nThe McCarthy Group has begun work on a \u00a31 million extension to their Wrexham headquarters increasing the company's warehousing capacity by 18,000ft\u00b2 and creating an opportunity for additional 4,000 pallets. The facility currently serves daily shipments for both UK-based and international companies with food grade accreditation. Managing Director Mike McCarthy believes this will support the goal of growth as they have seen increased demand in high-quality warehousing.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.engadget.com/ottonomys-latest-delivery-robot-can-drop-off-packages-without-human-help-105507322.html": {
+        "title": "Ottonomy's latest delivery robot can drop off packages without human help | Engadget",
+        "summary": " \n\nRobot delivery firm Ottonomy has recently unveiled their new model, the Yeti which is equipped with a unique automated package delivery system. This allows it to drop off packages directly onto doorsteps or lockers and works in partnership with companies such as Verizon in multiple cities around the world. Subscribe now to stay up-to-date on both tech deals and daily news from Ottonomy!",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.europeanbusinessreview.com/3-startups-that-are-innovating-robotics-space/": {
+        "title": "3 Startups that Are Innovating the Robotics Space - The European Business Review",
+        "summary": "\nRobotics has become a major player in the business world, with companies utilizing automation to reduce costs and increase productivity. Startups are driving innovation within the robotics industry, developing user-friendly robots that can automate tasks and adapt to different environments. Examples of such startups include 1MRobotics, ANYbotics and Voliro who specialize in automation for logistics, walking robots and flying robots respectively.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.electropages.com/2023/01/space-saving-and-process-reliable-wire-board-solutions": {
+        "title": "Space-saving and process-reliable wire-to-board solutions",
+        "summary": " Email: info@provertha.com Phone: +49 7032 7806 0\nThis newsletter summarizes Provertha's introduction of ultra-flat installation height of 2.5mm for wire-to-board solutions, which are highly economical and space saving as well as providing process reliable connections. The Low Profile WireClips also provide customised assemblies with different numbers of pins and other wire cross-sections to meet customer needs in a timely manner.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://techcrunch.com/2023/01/04/microsoft-partners-with-india-space-agency-to-work-with-startups/": {
+        "title": "Microsoft partners with India space agency to work with startups \u2022 TechCrunch",
+        "summary": "Microsoft has partnered with India's space agency, ISRO, to provide space tech startups in the country with go-to-market support, access to cloud tools and resources such as Azure and GitHub Enterprise. This comes in light of Space sector reforms passed by the Indian government last June and subsequent successful launches from private companies such as Skyroot Aerospace. The company also made other announcements related to investments from HDFC Bank and Yes Bank this week during Satya Nadella's visit. Microsoft is looking to deepen its ties with young firms in India while supporting innovation within the country\u2019s space tech industry.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://allwork.space/2023/01/digest-starbucks-dismisses-efforts-to-unionize-by-turning-to-automation/": {
+        "title": "Starbucks Dismisses Efforts To Unionize By Turning To Automation - Allwork.Space",
+        "summary": "\nStarbucks is transitioning to more automation in its stores, reducing the number of employees and removing power from those seeking higher wages. This trend is occurring across multiple industries as companies attempt to cut costs while still needing labor. Workers must upskill or reskill themselves in order to take advantage of this new future of work.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://allwork.space/2023/01/digest-why-short-sellers-are-piling-on-wework/": {
+        "title": "Why Short Sellers Are Piling On WeWork - Allwork.Space",
+        "summary": "WeWork, a public company since October 2021, has recently been facing difficulties meeting the requested financial goals. This has caused investors to be skeptical and take out short positions on over 27% of WeWork's shares, suggesting a pessimistic view of the economy.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.yahoo.com/entertainment/aeo-robot-designed-patrol-disinfect-050103073.html": {
+        "title": "The Aeo robot is designed to patrol and disinfect hospitals",
+        "summary": "Summary: Aeolus Robotics' Aeo robot is designed to patrol, disinfect, and deliver food in hospitals, nursing homes and schools using autonomous navigation and its own proprietary components. Currently only available for use in Japan, the company hopes customers from more markets will be enticed by their exhibit at CES 2022.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://techcrunch.com/2023/01/04/the-aeo-robot-is-designed-to-patrol-and-disinfect-hospitals/": {
+        "title": "The Aeo robot is designed to patrol and disinfect hospitals \u2022 TechCrunch",
+        "summary": "\nAeolus Robotics developed the Aeo robot to patrol, disinfect, and open doors in hospitals, nursing homes and schools. It is equipped with autonomous navigation, a maneuverable arm for opening doors and riding elevators, as well as UV light for surface disinfection. The robot is available through a RaaS subscription model and is currently being used mainly in Japan.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://www.designboom.com/technology/inflatable-sculpture-soft-robotics-breathing-pulse-mateo-fernandez-01-04-2023/": {
+        "title": "inflatable sculpture uses soft robotics to mimic breathing",
+        "summary": " \nMateo Fernandez has created an inflatable sculpture titled 'Searching for a Pulse' that combines soft robotics and 3D-printed geometry to mimic the movements of living organisms. The sculpture seeks to bring awareness towards our current world's reliance on machines, as well as project speculations of a future ruled by breathing machines amid the Covid pandemic.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://techcrunch.com/2023/01/04/impulse-space-will-hitch-a-ride-on-spacexs-transporter-9-for-first-mission-later-this-year/": {
+        "title": "Impulse Space will hitch a ride on SpaceX\u2019s Transporter-9 for first mission later this year \u2022 TechCrunch",
+        "summary": "Impulse Space, a transportation startup led by SpaceX's former head of propulsion Tom Mueller, will launch its maiden mission later this year on board the Falcon 9 rocket. Impulse is aiming to prove out its orbital maneuvering and servicing technology and has raised considerable capital from notable investors. Ultimately they are working towards an ambitious mission to Mars in 2024.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    },
+    "https://thespoon.tech/the-walkaround-guide-to-food-tech-at-ces-2023/": {
+        "title": "The Walkaround Guide to Food Tech at CES 2023",
+        "summary": "\nAt the 2023 CES in Las Vegas, Spoon has put together a guide to all companies exhibiting in the food tech category. It offers a description of what each company is showing off and locates their booth on a map. Be sure to keep an eye on this guide, as it will be updated throughout the show! This is your one-stop-shop for discovering new food technology innovations at CES 2023.",
+        "prompt": "Extract the key points from the following article. Write them in a 2 sentence summary used for an email newsletter. Article : "
+    }
+}

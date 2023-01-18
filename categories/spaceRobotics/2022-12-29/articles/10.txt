@@ -1,0 +1,113 @@
+VPT Adds Point of Load Converter to Space Product Line
+ Connect and transact with thousands of top North American companies today
+ 
+DC to DC Power Supplies (Converters)
+ 
+VPT, Inc.
+Dec 28, 2022
+ Blacksburg, VA, September 8, 2021Â â VPT, Inc. (VPTÂ®), a HEICO company (NYSE:HEI.A) (NYSE:HEI), announces the availability of its SVRPL Series of space-qualified point of load DC-DC converters. Covering an input voltage range of 3.1 to 5.5 V and available in 6A output surface-mount options, the SVRPL products are designed specifically for space applications facing harsh radiation environments while requiring low voltages and tight regulation for high-performance processors. TheÂ SVRPL3R306SGÂ is based on the Intersil ISL70001ASEH radiation-hardened monolithic buck regulator. It is designed to operate from a nominal 3.3 V or 5 V bus. The SVRPL3R306SG supplies low voltages at 6 A with high efficiency, making it an ideal choice to supply point-of-load applications such as high-performance space processors. âThe SVRPL3R306SG meets the demanding needs of modern rad-hard digital electronics operating in the harshest environments under the strictest of requirements.â Said Brandon Witcher, VPTâs Principal Design Engineer. âIt features high efficiency, tight regulation, low output ripple, fast load transient response, and exceptional Single-Event Transient (SET) performance. Furthermore, it is specifically designed to meet the rigorous requirements of the latest revision of MIL-PRF-38534 Class K.â The series is characterized for Total Ionizing Dose (TID) performance, including Enhanced Low Dose Rate Sensitivity (ELDRS) and for Single Event Effects (SEE) and is operable over the full military temperature range (-55 Â°C to +125 Â°C) with no power derating, and has been submitted for qualification to MIL-PRF-38534 Class H and Class K, and Radiation Hardness Assurance (RHA) Level R. The availability of the SVRPL Series is subject to all applicable U.S. export license restrictions and regulations. Additional information can be obtained by contacting aÂ local VPT distributor. About VPT and HEICO VPT, Inc., part of the HEICO Electronic Technologies Group, is a global provider of innovative DC-DC power converters, EMI filters, and custom engineering services for avionics, military, space, and industrial applications. Every day, organizations like NASA, ESA, Lockheed Martin, Boeing, BAE Systems, Thales and many more depend on high-reliability solutions from VPT to power critical systems. For more information about VPT, please visitÂ www.vptpower.com. HEICO Corporation (NYSE:HEI.A) (NYSE:HEI) is engaged primarily in niche segments of the aviation, defense, space and electronics industries through its Hollywood, FL based HEICO Aerospace Holdings Corp. subsidiary and its Miami, FL-based HEICO Electronic Technologies Corp. subsidiary. For more information about HEICO, please visitÂ www.heico.com. 
+Contact This Company Download Spec Sheet  
+Chemicals & Gases
+ 
+Electrical Equipment & Systems
+ 
+Electrical Equipment & Systems
+ 
+Electrical Equipment & Systems
+ 
+Electrical Equipment & Systems
+ 
+Electrical Equipment & Systems
+ Daily Bite Industry 4.0 Career & Workforce Career & Workforce Daily Bite View All White Papers & Case Studies View All Resources Select From Over 500,000 Industrial Suppliers Find and evaluate OEMs, Custom Manufacturers, Service Companies and Distributors. Receive Daily Industry Updates Stay up to date on industry news and trends, product announcements and the latest innovations.
+                     Search Over 6 Million Products Find materials, components, equipment, MRO supplies and more. Download 2D & 3D CAD Models 10+ million models from leading OEMs, compatible with all major CAD software systems. 
+                    CopyrightÂ© 2022 Thomas Publishing Company. All Rights Reserved. See
+                    Terms and Conditions,
+                    Privacy Statement and
+                    California Do Not Track Notice. 
+Website Last Modified December 29, 2022.
+                    
+Thomas RegisterÂ® and
+                    Thomas RegionalÂ® are part of Thomasnet.com. Thomasnet Is A Registered Trademark Of Thomas Publishing
+                    Company.
+                
+
+
+
+
+
+
+Chemicals & Gases
+
+Jetty Extracts, a Company Famous for its Solventless Products, Explains The Significance of Licensed Cannabis
+
+ 
+
+
+
+
+
+Electrical Equipment & Systems
+
+VPT Adds 28 Volt SVL Series to Space Product Line
+
+ 
+
+
+
+
+
+Electrical Equipment & Systems
+
+VPT's SGRB DC-DC Converter Earns Military & Aerospace Electronic Innovators Awards Highest Honor
+
+ 
+
+
+
+
+
+Electrical Equipment & Systems
+
+VPT Adds Point of Load Converter to Space Product Line
+
+ 
+
+
+
+
+
+Electrical Equipment & Systems
+
+VPT Introduces 120 Volt SGRB DC-DC Converter Featuring GaN Technology
+
+ 
+
+
+
+
+
+Electrical Equipment & Systems
+
+VPT's VSC Series of Space COTS Converters Earns Military & Aerospace Electronics Innovators Awards Highest Honor
+
+ 
+
+
+
+
+
+SponsoredPackaging Products & Equipment
+Things to Consider Before Designing Custom Packaging
+
+ 
+
+
+
+
+
+SponsoredMaterial Handling & Storage
+CMAA Crane Buyer's Guide
+
+
+
+

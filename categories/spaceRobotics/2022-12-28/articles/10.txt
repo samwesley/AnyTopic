@@ -1,0 +1,203 @@
+Exact Sciences Stock Expands into Liquid Biopsy Market - Nanalyze
+Article: Welcome to OurGlobal Community of Tech Investors Did you know that as early as the 1930s scientists were using wastewater – specifically, human excreta – to track disease outbreaks like polio well before the Rona came to town? Here’s another interesting scientific scoop on poop: One of the best treatments for people suffering from a serious bacterial gut infection is a fecal transplant, basically transferring good bacteria from a healthy microbiome to recolonize another’s diseased colon. We’re going to squeeze one more out that’s particularly relevant to today’s article: One way to screen for colon cancer is through a fecal immunochemical test (FIT), which uses antibodies to detect blood in the stool.  We’re MBAs not coprophiliacs, but this is our way of introducing Exact Sciences (EXAS), which has grown to a $9 billion company by offering a diagnostic test for colorectal cancer called Cologuard that combines FIT with a genomic technique that detects altered cancer DNA in stool. The existence of Cologuard is a big reason why Guardant Health (GH) stock took a dump last week following a study that showed its liquid biopsy test for colorectal cancer isn’t nearly as sensitive as the stool DNA (sDNA) test from Exact Sciences. While we remain committed to Guardant Health, believing its overall platform is solid, we want to take a closer look at Exact Sciences and its recent moves to become a leader in cancer diagnostics testing.  We last took a deep dive into Exact Sciences stock back in 2018 after it had been enjoying a few years of significant revenue and market cap growth, capped by the announcement of a marketing campaign in collaboration with Pfizer. Much has changed since then. Revenue is still on a respectable upward trend, climbing to $1.8 billion in 2021, representing about 19% growth year-over-year. At some point in 2020, the stock was up more than +5,000% from when it went public about 20 years ago, most of the gains coming since 2016. However, the decline started in early 2021, months before the rest of the tech sector headed south. What happened? There were probably a few factors in play, starting with that Pfizer deal to promote Cologuard, which ended last year. In response, Exact Sciences hired 400 out-of-work former Pfizer sales flunkies who had been flogging the sDNA test. The company also onboarded celebrity Katie Couric, who made colonoscopies cool a few years ago, to be its brand spokesperson. Like many diagnostics companies with extensive experience in genetic testing, Exact Sciences jumped into the covid-detection market. It enjoyed a sizable bump in revenue for a while but sales have been steadily declining as the pandemic recedes as an everyday concern. As is typical with a company in a high-growth phase of development, Exact Sciences is buying higher revenue with bigger losses, including $595 million in 2021 alone.  Some of the pullback on Exact Sciences stock may be related to its recent spending spree on acquisitions which put $4.4 billion in goodwill on the balance sheet along with $2.2 billion in debt. Exact Sciences has acquired a dozen companies in the last five years, with two-thirds coming into the fold since 2020. The two biggest acquisitions cost a combined $5 billion. Let’s take a quick look at those two specifically, along with a couple of others. It bought Genomic Health in July 2019 for $2.8 billion for that company’s portfolio of precision oncology tests referred to collectively as Oncotype DX. Until then, Exact Sciences was still a one-trick pony with Cologuard as its only cancer diagnostics test. The addition of Genomic Health also brought international exposure, with Octotype tests conducted in more than 90 countries, while Cologuard is only available in the United States. However, based on Q3-2022 revenues, the international market is not that significant. The Genomic Health acquisition also came with some unwanted attention from the U.S. Department of Justice, which is investigating compliance issues around Medicare billing that occurred before Exact Sciences acquired Genomic Health. Currently, Exact Sciences estimates it will owe the government nearly $54 million in fines and fees. Last year, it also wrote down about $200 million in goodwill impairment related to the termination of an R&D agreement that another biotech had with Genomic Health. The project would have developed an in vitro diagnostic version of Genomic Health’s Oncotype DX Breast Recurrence Score test, which examines the activity of 21 genes in a patient’s breast tumor tissue to predict chemotherapy benefit.  In January 2021, Exact Sciences acquired Thrive Earlier Detection for nearly $2.2 billion. The pre-revenue company is developing a liquid biopsy test that can detect 10 different types of cancer in blood rather than from a tissue biopsy. That’s a big chunk of change for a company currently without a commercial product. Other recent acquisitions also geared toward building up the company’s credentials in cancer diagnostics include Ashion Analytics and PreventionGenetics, a couple of commercial genetics-testing laboratories. The former offers expertise in developing tests for detecting small amounts of cancer cells that could cause a relapse (known as minimal residual disease), while the latter is focused on assessing cancer risk through genetics. Exact Sciences is obviously trying to build out a cancer diagnostics empire well beyond Cologuard, with a total addressable market of nearly $60 billion, according to the company. The first market, colorectal cancer, is where the company currently dominates with its sDNA test, though Exact Sciences is also developing its own liquid biopsy test to complement Cologuard. It is also working on a Cologuard 2.0 version, with a recent study showing increased sensitivity of 95% and specificity of 92%, up from 92% and 87%, respectively. The former number refers to the test’s ability to correctly identify the presence of cancer, while the latter refers to the number of false positives – causing someone to freak out that they have cancer when they don’t. Most importantly, Cologuard 2.0 showed a 15-point increase in sensitivity in detecting precancerous lesions, from 42% to 57%, which has been its biggest limitation versus the gold-standard colonoscopy. Meanwhile, blood-testing companies like Guardant Health and Freenome still have work to do before they can reasonably challenge Exact Sciences.   The other two markets remain largely untapped by Exact Sciences at this point (and it’s not entirely clear how the company came up with those numbers). The Thrive acquisition is expected to position Exact Sciences in the thick of the liquid biopsy market for detecting multiple cancers. So far, the research has been promising but there’s more work to be done before the FDA gives its blessing. The Ashion acquisition, along with other technology recently acquired from the lab’s former owner, the Translational Genomics Research Institute (TGen), should help Exact Sciences compete in the third market to monitor and prevent cancer recurrence. For example, the tech from TGen, dubbed TARDIS, is a time machine for stopping cancer highly sensitive, patient-specific liquid biopsy-based test that can detect small amounts of tumor DNA in blood for minimal residual disease (MRD) testing. In addition, the founders of Exact Sciences recently started a new liquid biopsy company, Haystack Oncology, to develop an MRD test. The startup raised $56 million last month, including funding from Exact Sciences. Haystack is reportedly trying to commercialize a product by as early as next year. Exact Sciences is one of those companies that found great financial success from its flagship product and is now aggressively using the money to build a comprehensive cancer diagnostics company, particularly through inorganic growth. A lot of high-growth tech companies followed this model over the last few years when venture capital dollars flowed freely, often paying a premium price that they later had to take an accounting loss on. We’ve already seen some signs of similar growing pangs with Exact Sciences, especially with the Genomic Health acquisition. The $2.2 billion paid for Thrive, a pre-revenue company that had raised $367 million, could prove to be another financial stumble. On the positive side, there are signs that Exact Sciences is trying to rein in losses. The company has laid off nearly 600 employees this year and sold off its Oncotype DX GPS prostate cancer business to a company called mdxhealth for $30 million, with up to another $70 million possible based on attaining certain milestones. Quarterly losses are steadily declining: Another encouraging signal came during the company’s Q3-2022 presentation, when management slightly raised its full-year guidance: It’s worth noting that screening revenue includes between $40 million and $42 million from PreventionGenetics, giving us some insight into the size of that business, which Exact Sciences acquired for an undisclosed sum in January 2022. It’s good to see the company growing revenues, despite the steady decline in income from covid testing. The diversification in revenue is also a plus, even though it has come at a significant cost. Exact Sciences is sitting on about $670 million in cash and assets, so it’s good to go for at least another 12 months, but it’s likely the company will need to institute additional cost-cutting measures or other actions to shore up its bank account until it becomes profitable. Let’s hope that doesn’t involve diluting shareholders. We have liked Exact Sciences stock for a while, and that opinion hasn’t changed. The company is positioning itself to be a market leader in the liquid biopsy market for cancer diagnostics after establishing its dominance in colorectal cancer testing with Cologuard. All signs are pointing toward cancer blood testing using genetic biomarkers as the new standard in the near future, with a number of clinical trials returning positive results. Exact Sciences has proven it can become a niche market leader. We’ll wait and see if that translates into a dominant position in the broader cancer diagnostics market.  Tech investing is extremely risky. Minimize your risk with our stock research, investment tools, and portfolios, and find out which tech stocks you should avoid. Become a Nanalyze Premium member and find out today!
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ Published: December 27, 2022 Your email address will not be published. Required fields are marked * Comment *  Name *  Email *   Save my name, email, and website in this browser for the next time I comment.  
+
+  Δ
+Article: 
+
+
+
+
+Exact Sciences Stock Expands into Liquid Biopsy Market
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Did you know that as early as the 1930s scientists were using wastewater – specifically, human excreta – to track disease outbreaks like polio well before the Rona came to town? Here’s another interesting scientific scoop on poop: One of the best treatments for people suffering from a serious bacterial gut infection is a fecal transplant, basically transferring good bacteria from a healthy microbiome to recolonize another’s diseased colon. We’re going to squeeze one more out that’s particularly relevant to today’s article: One way to screen for colon cancer is through a fecal immunochemical test (FIT), which uses antibodies to detect blood in the stool. 
+We’re MBAs not coprophiliacs, but this is our way of introducing Exact Sciences (EXAS), which has grown to a $9 billion company by offering a diagnostic test for colorectal cancer called Cologuard that combines FIT with a genomic technique that detects altered cancer DNA in stool. The existence of Cologuard is a big reason why Guardant Health (GH) stock took a dump last week following a study that showed its liquid biopsy test for colorectal cancer isn’t nearly as sensitive as the stool DNA (sDNA) test from Exact Sciences. While we remain committed to Guardant Health, believing its overall platform is solid, we want to take a closer look at Exact Sciences and its recent moves to become a leader in cancer diagnostics testing. 
+About Exact Sciences Stock
+
+
+
+
+
+
+
+
+
+
+We last took a deep dive into Exact Sciences stock back in 2018 after it had been enjoying a few years of significant revenue and market cap growth, capped by the announcement of a marketing campaign in collaboration with Pfizer. Much has changed since then. Revenue is still on a respectable upward trend, climbing to $1.8 billion in 2021, representing about 19% growth year-over-year. At some point in 2020, the stock was up more than +5,000% from when it went public about 20 years ago, most of the gains coming since 2016. However, the decline started in early 2021, months before the rest of the tech sector headed south. What happened?
+
+
+
+
+
+
+
+
+
+Core revenues are growing, as income from covid testing recedes into the background. Credit: Exact Sciences
+There were probably a few factors in play, starting with that Pfizer deal to promote Cologuard, which ended last year. In response, Exact Sciences hired 400 out-of-work former Pfizer sales flunkies who had been flogging the sDNA test. The company also onboarded celebrity Katie Couric, who made colonoscopies cool a few years ago, to be its brand spokesperson. Like many diagnostics companies with extensive experience in genetic testing, Exact Sciences jumped into the covid-detection market. It enjoyed a sizable bump in revenue for a while but sales have been steadily declining as the pandemic recedes as an everyday concern. As is typical with a company in a high-growth phase of development, Exact Sciences is buying higher revenue with bigger losses, including $595 million in 2021 alone. 
+Acquisitions by Exact Sciences
+Some of the pullback on Exact Sciences stock may be related to its recent spending spree on acquisitions which put $4.4 billion in goodwill on the balance sheet along with $2.2 billion in debt. Exact Sciences has acquired a dozen companies in the last five years, with two-thirds coming into the fold since 2020. The two biggest acquisitions cost a combined $5 billion. Let’s take a quick look at those two specifically, along with a couple of others.
+It bought Genomic Health in July 2019 for $2.8 billion for that company’s portfolio of precision oncology tests referred to collectively as Oncotype DX. Until then, Exact Sciences was still a one-trick pony with Cologuard as its only cancer diagnostics test. The addition of Genomic Health also brought international exposure, with Octotype tests conducted in more than 90 countries, while Cologuard is only available in the United States. However, based on Q3-2022 revenues, the international market is not that significant.
+
+
+
+
+
+
+
+
+
+Precision oncology revenue is primarily from testing technology acquired from Genomic Health, which also added some modest exposure to international markets. Credit: Exact Sciences
+The Genomic Health acquisition also came with some unwanted attention from the U.S. Department of Justice, which is investigating compliance issues around Medicare billing that occurred before Exact Sciences acquired Genomic Health. Currently, Exact Sciences estimates it will owe the government nearly $54 million in fines and fees. Last year, it also wrote down about $200 million in goodwill impairment related to the termination of an R&D agreement that another biotech had with Genomic Health. The project would have developed an in vitro diagnostic version of Genomic Health’s Oncotype DX Breast Recurrence Score test, which examines the activity of 21 genes in a patient’s breast tumor tissue to predict chemotherapy benefit. 
+
+
+
+
+
+
+
+
+
+Exact Sciences is developing a broad network of cancer diagnostics businesses organically and inorganically. Credit: Exact Sciences
+In January 2021, Exact Sciences acquired Thrive Earlier Detection for nearly $2.2 billion. The pre-revenue company is developing a liquid biopsy test that can detect 10 different types of cancer in blood rather than from a tissue biopsy. That’s a big chunk of change for a company currently without a commercial product. Other recent acquisitions also geared toward building up the company’s credentials in cancer diagnostics include Ashion Analytics and PreventionGenetics, a couple of commercial genetics-testing laboratories. The former offers expertise in developing tests for detecting small amounts of cancer cells that could cause a relapse (known as minimal residual disease), while the latter is focused on assessing cancer risk through genetics.
+The Cancer Diagnostics Market for Exact Sciences
+Exact Sciences is obviously trying to build out a cancer diagnostics empire well beyond Cologuard, with a total addressable market of nearly $60 billion, according to the company.
+
+
+
+
+
+
+
+
+
+Total addressable market for Exact Sciences is nearly $60 billion. Credit: Exact Sciences
+The first market, colorectal cancer, is where the company currently dominates with its sDNA test, though Exact Sciences is also developing its own liquid biopsy test to complement Cologuard. It is also working on a Cologuard 2.0 version, with a recent study showing increased sensitivity of 95% and specificity of 92%, up from 92% and 87%, respectively. The former number refers to the test’s ability to correctly identify the presence of cancer, while the latter refers to the number of false positives – causing someone to freak out that they have cancer when they don’t. Most importantly, Cologuard 2.0 showed a 15-point increase in sensitivity in detecting precancerous lesions, from 42% to 57%, which has been its biggest limitation versus the gold-standard colonoscopy. Meanwhile, blood-testing companies like Guardant Health and Freenome still have work to do before they can reasonably challenge Exact Sciences.  
+The other two markets remain largely untapped by Exact Sciences at this point (and it’s not entirely clear how the company came up with those numbers). The Thrive acquisition is expected to position Exact Sciences in the thick of the liquid biopsy market for detecting multiple cancers. So far, the research has been promising but there’s more work to be done before the FDA gives its blessing.
+
+
+
+
+
+
+
+
+
+A large clinical trial on the Thrive liquid biopsy platform showed promising results. Credit: Exact Sciences
+The Ashion acquisition, along with other technology recently acquired from the lab’s former owner, the Translational Genomics Research Institute (TGen), should help Exact Sciences compete in the third market to monitor and prevent cancer recurrence. For example, the tech from TGen, dubbed TARDIS, is a time machine for stopping cancer highly sensitive, patient-specific liquid biopsy-based test that can detect small amounts of tumor DNA in blood for minimal residual disease (MRD) testing. In addition, the founders of Exact Sciences recently started a new liquid biopsy company, Haystack Oncology, to develop an MRD test. The startup raised $56 million last month, including funding from Exact Sciences. Haystack is reportedly trying to commercialize a product by as early as next year.
+Should You Buy Exact Sciences Stock?
+Exact Sciences is one of those companies that found great financial success from its flagship product and is now aggressively using the money to build a comprehensive cancer diagnostics company, particularly through inorganic growth. A lot of high-growth tech companies followed this model over the last few years when venture capital dollars flowed freely, often paying a premium price that they later had to take an accounting loss on. We’ve already seen some signs of similar growing pangs with Exact Sciences, especially with the Genomic Health acquisition. The $2.2 billion paid for Thrive, a pre-revenue company that had raised $367 million, could prove to be another financial stumble.
+On the positive side, there are signs that Exact Sciences is trying to rein in losses. The company has laid off nearly 600 employees this year and sold off its Oncotype DX GPS prostate cancer business to a company called mdxhealth for $30 million, with up to another $70 million possible based on attaining certain milestones. Quarterly losses are steadily declining:
+
+
+
+
+
+
+
+
+
+Heading in the right direction. Credit: Yahoo Finance
+Another encouraging signal came during the company’s Q3-2022 presentation, when management slightly raised its full-year guidance:
+
+
+
+
+
+
+
+
+
+Credit: Exact Sciences
+It’s worth noting that screening revenue includes between $40 million and $42 million from PreventionGenetics, giving us some insight into the size of that business, which Exact Sciences acquired for an undisclosed sum in January 2022. It’s good to see the company growing revenues, despite the steady decline in income from covid testing. The diversification in revenue is also a plus, even though it has come at a significant cost. Exact Sciences is sitting on about $670 million in cash and assets, so it’s good to go for at least another 12 months, but it’s likely the company will need to institute additional cost-cutting measures or other actions to shore up its bank account until it becomes profitable. Let’s hope that doesn’t involve diluting shareholders.
+Conclusion
+We have liked Exact Sciences stock for a while, and that opinion hasn’t changed. The company is positioning itself to be a market leader in the liquid biopsy market for cancer diagnostics after establishing its dominance in colorectal cancer testing with Cologuard. All signs are pointing toward cancer blood testing using genetic biomarkers as the new standard in the near future, with a number of clinical trials returning positive results. Exact Sciences has proven it can become a niche market leader. We’ll wait and see if that translates into a dominant position in the broader cancer diagnostics market. 
+Tech investing is extremely risky. Minimize your risk with our stock research, investment tools, and portfolios, and find out which tech stocks you should avoid. Become a Nanalyze Premium member and find out today!
+
+
+
+
+
+
+
+
+TweetShareShareRedditBuffer 
+
+
+Published: December 27, 2022
+Life Sciences
+Cancer Blood TestsCancer DetectionCancer Genomics 
+
+
+
+
+
+
+
+
+
+
+
+Guardant Stock Plummets on Study Results
+
+
+
+
+
+
+Is Freenome a Leading Cancer Blood-Testing Company?
+
+
+
+
+
+
+CareDx Stock is Pure Play on Organ Transplant Diagnostics
+
+
+
+
+
+
+
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name * 
+Email * 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+Δ 
+
+
+
+Article: 
+Article: 
+Article: 

@@ -1,0 +1,11 @@
+Successful CE-20 Engine Hot Test with 20t off-nominal & 22.2t vacuum thrust
+Article: 
+Successful CE-20 Engine Hot Test with 20t off-nominal & 22.2t vacuum thrust
+Home/CE20 Engine Hot Test
+                              
+ Dec 24, 2022  
+                                CE-20 engine is successfully operated with a thrust level of 22t for a long duration of 650 s on December 23, 2022, at the Cryogenic Main Engine & Stage Test Facility of ISRO Propulsion Complex (IPRC), Mahendragiri, Tamil Nadu. With this, the engine qualification for 20 t thrust level is also successfully completed for induction in flight. The CE20 engine is designed and developed by Liquid Propulsion Systems Centre (LPSC), Valiamala, Kerala. The engine was operated with a 20.2t thrust level for the first 40 s, followed by an operation at 20t off-nominal zones) before operating it at 22.2 t for a duration of 435 s, by moving the thrust control valve. The mixture ratio and thrust control were in open-loop mode. During the test, the engine and the facility performed normally, and the required engine performance parameters were achieved as predicted. The engine used for this hot test had undergone 11 hot tests with a cumulative duration of 2720 s earlier. Thus, this engine has undergone 3370 s cumulative burn duration at different thrust & mixture ratio levels. CE-20 E9 engine Hot Test   Engine parameters 
+Article: 
+Article: 
+Article: 
+Article: 

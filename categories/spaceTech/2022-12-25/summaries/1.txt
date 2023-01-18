@@ -1,0 +1,9 @@
+block 1: 
+
+Daily Briefing: 
+-Researchers at the Max Planck Institute for Meteorology (MPI-M) in Germany set out to recreate an iconic Blue Marble photo using a powerful new climate modeling program and 1972 weather data.  
+-The simulation not only produced the photo, but also recreated the day's climate patterns.  
+-It incorporated hundreds of interacting climate variables, with precise detail down to clouds over Africa. 
+-The MPI-M produced a video of the model bringing the image to life and beyond, incorporating ocean eddies below water surface too.
+block 2: 
+Not applicable

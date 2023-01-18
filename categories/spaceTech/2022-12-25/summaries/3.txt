@@ -1,0 +1,16 @@
+block 1: 
+Daily Briefing: 
+• ISRO and NSIL launched a heavier rocket with an order size of over Rs 1,000 crore and two satellites in 2022.
+• Private space startups also flew their rockets during the year under review.
+• ISRO successfully launched 36 OneWeb satellites in 2022 using LVM3/GSLV-Mk III rocket, with another similar launch slated for early 2021.
+• Technology transfers include know-how for Indian Mini Satellite Bus to 6 players and lithium-ion battery to 10 companies. 
+• ISRO is researching additive manufacturing (3D printing) & high temperature tolerant materials & software-driven satellites which will be ready sometime next year. 
+• For Gaganyaan mission, Environmental Life Support Systems are being developed instead of importing them as per earlier plan.  
+• Atomic clock fitted in navigation satellite is ready that will complete NavIC constellation when three more are launched – one planned for February 2021 after getting permission from government. 
+• Agnikul Cosmos built its own rocket launch pad at Sriharikota while Skyroot Aerospace tested Vikram sounding rocket there too. 
+• Damange to soft seal valve caused failure of GISAT mission; PSLV C53 successfully orbited 3 Singaporean sats plus start up payloads Digantara and Dhruva Aerospace; SSLV maiden flight failed but microprocessor controlled knee was developed by ISR hence RISAT 2 hit Indian Ocean near Jakarta; EOS 06/8 nano sats were orbited by PSLV C54 while NSIL agreed to transfer Optical Imaging System technology to Paras Defence & Space Technologies Ltd  
+block 2:  
+
+Not applicable
+block 3: 
+Not applicable

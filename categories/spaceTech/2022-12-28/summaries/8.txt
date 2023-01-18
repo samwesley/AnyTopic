@@ -1,0 +1,5 @@
+block 1: 
+
+Summary: Lonestar Data Holdings has announced its plans to build a lunar data center on the Moon in order to protect against human or natural damage and reduce latency. The company has signed contracts with NASA for two prototype missions, scheduled for 2023 and 2024 respectively, which will include 8TB SSDs from Phison that have passed NASA's TRL-6 certification. The servers are planned to store several petabytes of data by 2026 with 15Gb/s data rates.
+block 2: 
+Skycorp, Lonestar's space logistics company, has selected Phison to supply the storage for their upcoming 2023 lunar mission, where the 8TB M.2 SSDs must pass NASA TRL-6 certification tests including deep cryogenic temperatures and simulated launching and landing conditions. This is on top of other space missions Phison has been a part of, with extra shielding added to reduce radiation damage risk in its NAND data cells for qualified SSDs.

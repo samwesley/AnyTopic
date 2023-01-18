@@ -1,0 +1,71 @@
+Top 10 Robots created by DRDO India - Robotics India Live
+
+								Robotics India Live							  Top 10 Robots created by DRDO India Table of Contents The ROV is versatile equipment for improvised explosive device identification and handling. It can also be utilized to survey and monitor nuclear and chemical contamination levels. The ROV has stair-climbing capabilities and can operate continuously for 3 hours. The ROV can be controlled either by fiber optic communication over a 100m distance or can be controlled by wireless communication over a 500m line of sight. This mini UAV has been developed for surveillance applications. It is battery-operated, silent, and equipped with a Day Camera with zoom for detailed surveillance. It also has an optional Thermal Imager for night operations. IT Several UAV systems have been supplied to Paramilitary Forces and Police and are currently in operation. DAKSH MINI is a battery-operated tracked vehicle with multiple degrees of freedom manipulator arm (telescopic arm) weighing not more than 100 kg. DAKSH MINI is capable of extracting suspected objects with a telescopic manipulator arm. The DAKSH-SCOUT is remotely controlled from a portable Operator Console using RF. It has an adequate number of cameras suitably mounted on the platform for real-time viewing in front, at the rear, and on either side. Ballbot is a very small differential-drive robot for short-range visual recon. The Ballbot is an ideal solution for surveillance, reconnaissance, and patrolling. It has a modular chassis, sensor, and computer which can be reconfigured as per the specific requirements. The Ballbot is targeted for CI/CT (counter-intelligence and counter-terrorism) operations and for paramilitary forces. It provides remote eyes on the ground and reduces human casualties. Each MUGV can carry two Ballbots and the operator can deploy them remotely and subsequently all three can be controlled independently. A new version of Ballbot is in the making and it boasts of features like multi-robot collaboration and integration with flying platforms. Sentry medium-sized robot for threat localization. The Robot Sentry is a steerable four-wheel drive robot intended for urban outdoor operations. The robot is meant to autonomously explore and map a campus with real-time feedback to the remote station on a Wifi Network. Salient Features include features like Omnidirectional movement capability with a max speed of 7mph, a max slope 15 degree. Perception suite consisting of 3D-LIDAR, monocular and stereo cameras with on-board computer. The UXO handling Robot (UXOR) is capable to handle, diffuse and detect Unexploded Ordnance (UXO) i.e. Bombs and Missiles up to 1000 kg remotely from of 1km LOS. UXOR is based on an IC Engine operated, tracked Skid Steer Loader platform, with good cross-country mobility with six hours of endurance. UXOR is capable to diffuse Unexploded Ordnance (UXO) i.e. Bombs and Missiles with low-order detonation. UXOR is having multiple DOF manipulator arms with a cutting mechanism to defuse the UXO. Sewak can be a safe alternative for hospital staff like medical professionals and health workers taking care of COVID-19 patients in quarantine centres and hospitals. Sewak can be teleoperated by the hospital staff from a remote location to navigate the robot in the quarantine zone and distribute food, water, medicine, etc. to the affected persons. The operational distance is about 30-50m (can be extended). The robot gets power from maintenance-free rechargeable batteries and can work continuously for 5 hours on a full charge. It has a capacity of 30 kg. A video camera fitted in the front helps navigate to the patient’s bed. The audio facility provided by the robot facilitates two-way communication between the patient and the hospital staff. This will help the hospital staff communicate with the patient to understand his/her health condition and the recovery he/she is making, explain the dosage of the medicines, and comfort the patient.  DRDO has developed six and four-legged robots. These robots have three degrees of freedom legs giving them Omni-directional motion capability. The robots have been equipped with ultrasonic sensors for obstacle detection and avoidance. The hexapod, a six-legged robot, has reptilian leg configuration while the quadruped, four-legged robots, has a mammalian leg configuration. The quadruped has additionally been provided with actuated wheels to enable hybrid locomotion capability. These platforms have given insight into the implementation of stable gaits for legged locomotion. This robot demonstrates concepts of whole-body locomotion. The snake robot has 14 active joints. Lateral undulation, side winding, and rolling gaits have been implemented on this robot. A color camera mounted in the hood of this robot provides video feedback. Snake e Robot for use in search and rescue during earthquakes and inspections in constricted areas such as pipes, surveillance, and reconnaissance operations.  We at The Robotics India want to create a Robotics ecosystem in India. By using the power of an effective Platform for enthusiasts, we want to change India. If you read us, like us, and want this positive movement to grow, then do consider supporting us via the following buttons. Top 10 Robots created by DRDO India for similar Robotics-related news and updates follow The Robotics India. Also don’t forget to follow us on Instagram, Facebook, and Twitter. You can also subscribe to our Newsletter for Indian robotics and defense Robotics related news Your email address will not be published. Required fields are marked * Comment *  Name *  Email *  Website   Save my name, email, and website in this browser for the next time I comment.  
+
+ Sign up for The Robotics India Our Newsletters
+NameNameEmailEnter your email addressPhone NumberPhone NumberSign Up Events Publish Home Newsletter About You can subscribe to our newsletter below to get regular updates on our availability. We share a curated list of best stories on AI & machine learning No thanks, I’m not interested!
+
+
+
+
+
+Defence Robots DRDO Robots Military Robot Robotics 
+
+
+				Top 10 Robots created by DRDO India			
+
+
+ January 1, 2023January 1, 2023
+
+
+
+
+						Roboticsindia					
+
+
+
+ 0 Comments 
+
+
+Share it now!Top 10 Robots created by DRDO India
+1. Remotely Operated Vehicle (Rov) DAKSH
+
+Table of Contents
+
+1. Remotely Operated Vehicle (Rov) DAKSH2. Unmanned Aerial Vehicle (Uav) NETRA3. Confined Space Remotely Operated Vehicle (CSROV)4. Surveillance Remotely Operated Vehicle (SROV) 5. Ballbot created by DRDO6. Sentry created by DRDO7. Unexploded Ordnance Handling Robot (UXOR) 8. Sewak – DRDO Robot9. Hexapod developed by DRDO10. Snake Robot developed by DRDOHelp us grow our Positive Movement
+The ROV is versatile equipment for improvised explosive device identification and handling. It can also be utilized to survey and monitor nuclear and chemical contamination levels. The ROV has stair-climbing capabilities and can operate continuously for 3 hours. The ROV can be controlled either by fiber optic communication over a 100m distance or can be controlled by wireless communication over a 500m line of sight.
+2. Unmanned Aerial Vehicle (Uav) NETRA
+This mini UAV has been developed for surveillance applications. It is battery-operated, silent, and equipped with a Day Camera with zoom for detailed surveillance. It also has an optional Thermal Imager for night operations. IT Several UAV systems have been supplied to Paramilitary Forces and Police and are currently in operation.
+3. Confined Space Remotely Operated Vehicle (CSROV)
+DAKSH MINI is a battery-operated tracked vehicle with multiple degrees of freedom manipulator arm (telescopic arm) weighing not more than 100 kg. DAKSH MINI is capable of extracting suspected objects with a telescopic manipulator arm.
+4. Surveillance Remotely Operated Vehicle (SROV) 
+The DAKSH-SCOUT is remotely controlled from a portable Operator Console using RF. It has an adequate number of cameras suitably mounted on the platform for real-time viewing in front, at the rear, and on either side.
+5. Ballbot created by DRDO
+Ballbot is a very small differential-drive robot for short-range visual recon. The Ballbot is an ideal solution for surveillance, reconnaissance, and patrolling. It has a modular chassis, sensor, and computer which can be reconfigured as per the specific requirements. The Ballbot is targeted for CI/CT (counter-intelligence and counter-terrorism) operations and for paramilitary forces.
+Top 10 Robots created by DRDO Defence Research and Development Organisation
+It provides remote eyes on the ground and reduces human casualties. Each MUGV can carry two Ballbots and the operator can deploy them remotely and subsequently all three can be controlled independently.
+A new version of Ballbot is in the making and it boasts of features like multi-robot collaboration and integration with flying platforms.
+6. Sentry created by DRDO
+Sentry medium-sized robot for threat localization. The Robot Sentry is a steerable four-wheel drive robot intended for urban outdoor operations. The robot is meant to autonomously explore and map a campus with real-time feedback to the remote station on a Wifi Network. Salient Features include features like Omnidirectional movement capability with a max speed of 7mph, a max slope 15 degree. Perception suite consisting of 3D-LIDAR, monocular and stereo cameras with on-board computer.
+7. Unexploded Ordnance Handling Robot (UXOR) 
+The UXO handling Robot (UXOR) is capable to handle, diffuse and detect Unexploded Ordnance (UXO) i.e. Bombs and Missiles up to 1000 kg remotely from of 1km LOS. UXOR is based on an IC Engine operated, tracked Skid Steer Loader platform, with good cross-country mobility with six hours of endurance. UXOR is capable to diffuse Unexploded Ordnance (UXO) i.e. Bombs and Missiles with low-order detonation. UXOR is having multiple DOF manipulator arms with a cutting mechanism to defuse the UXO.
+8. Sewak – DRDO Robot
+Sewak can be a safe alternative for hospital staff like medical professionals and health workers taking care of COVID-19 patients in quarantine centres and hospitals. Sewak can be teleoperated by the hospital staff from a remote location to navigate the robot in the quarantine zone and distribute food, water, medicine, etc. to the affected persons.
+The operational distance is about 30-50m (can be extended). The robot gets power from maintenance-free rechargeable batteries and can work continuously for 5 hours on a full charge. It has a capacity of 30 kg.
+Top 10 Robots created by DRDO India
+A video camera fitted in the front helps navigate to the patient’s bed. The audio facility provided by the robot facilitates two-way communication between the patient and the hospital staff. This will help the hospital staff communicate with the patient to understand his/her health condition and the recovery he/she is making, explain the dosage of the medicines, and comfort the patient. 
+9. Hexapod developed by DRDO
+DRDO has developed six and four-legged robots. These robots have three degrees of freedom legs giving them Omni-directional motion capability. The robots have been equipped with ultrasonic sensors for obstacle detection and avoidance. The hexapod, a six-legged robot, has reptilian leg configuration while the quadruped, four-legged robots, has a mammalian leg configuration. The quadruped has additionally been provided with actuated wheels to enable hybrid locomotion capability. These platforms have given insight into the implementation of stable gaits for legged locomotion.
+10. Snake Robot developed by DRDO
+This robot demonstrates concepts of whole-body locomotion. The snake robot has 14 active joints. Lateral undulation, side winding, and rolling gaits have been implemented on this robot. A color camera mounted in the hood of this robot provides video feedback. Snake e Robot for use in search and rescue during earthquakes and inspections in constricted areas such as pipes, surveillance, and reconnaissance operations. 
+Help us grow our Positive Movement
+We at The Robotics India want to create a Robotics ecosystem in India. By using the power of an effective Platform for enthusiasts, we want to change India. If you read us, like us, and want this positive movement to grow, then do consider supporting us via the following buttons.
+Top 10 Robots created by DRDO India for similar Robotics-related news and updates follow The Robotics India. Also don’t forget to follow us on Instagram, Facebook, and Twitter. You can also subscribe to our Newsletter for Indian robotics and defense Robotics related news
+  
+
+Related
+Share it now! 
+
+
+
+

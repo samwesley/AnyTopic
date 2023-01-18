@@ -1,0 +1,6 @@
+block 1: 
+• Machina Labs, a digital manufacturing company launches with $15 million in funding 
+• The leadership team includes former SpaceX, Relativity Space and Carbon executives 
+• Co-founder are Zvi Cohen (CEO), co-founder of WP Engine; Rayan Rahman (CTO) and Shailen Gandhi (COO). They have expertise in industrial automation, 3D Printing/AM, data science and materials science. 
+• Their mission is to accelerate aerospace production with new software tools  
+• They plan on investing the funding into hiring talent, product engineering and marketing
