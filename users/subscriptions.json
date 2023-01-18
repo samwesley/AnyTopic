@@ -1,60 +1,60 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Sam",
-      "email": "samwesley3@gmail.com",
-      "categories": [
-        "Space Robotics",
-        "Space Technology"
-      ],
-      "categoryKeys": [
-        "sr",
-        "st"
-      ],
-      "deliveryMethods": [
-        "slack"
-      ],
-      "slack": {
-        "key": "",
-        "channel": "@samwesley3",
-        "username": "@samwesley3"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Nick",
-      "email": "INSERT_EMAIL_HERE",
-      "categories": [
-        "chicagoRiver"
-      ],
-      "categoryKeys": [
-        "cr",
-        "cm",
-        "wm",
-        "w",
-        "cdn",
-        "ure",
-        "ftw",
-        "fi",
-        "fii",
-        "bw",
-        "awh",
-        "ur",
-        "urp",
-        "np",
-        "rr",
-        "br",
-        "fw"
-      ],
-      "deliveryMethods": [
-        "slack"
-      ],
-      "slack": {
-        "key": "INSERT_SLACK_BOT_KEY_HERE",
-        "channel": "UBK06CSNB",
-        "username": "@nick"
-      }
-    }
-  ]
+    "users": [
+        {
+            "id": 1,
+            "name": "Sam",
+            "email": "samwesley3@gmail.com",
+            "categories": [
+                "Space Robotics",
+                "Space Technology"
+            ],
+            "categoryKeys": [
+                "sr",
+                "st"
+            ],
+            "deliveryMethods": [
+                "slack"
+            ],
+            "slack": {
+                "key": "",
+                "channel": "@samwesley3",
+                "username": "@samwesley3"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Nick",
+            "email": "INSERT_EMAIL_HERE",
+            "categories": [
+                "chicagoRiver"
+            ],
+            "categoryKeys": [
+                "cr",
+                "cm",
+                "wm",
+                "w",
+                "cdn",
+                "ure",
+                "ftw",
+                "fi",
+                "fii",
+                "bw",
+                "awh",
+                "ur",
+                "urp",
+                "np",
+                "rr",
+                "br",
+                "fw"
+            ],
+            "deliveryMethods": [
+                "slack"
+            ],
+            "slack": {
+                "key": "INSERT_SLACK_BOT_KEY_HERE",
+                "channel": "UBK06CSNB",
+                "username": "@nick"
+            }
+        }
+    ]
 }

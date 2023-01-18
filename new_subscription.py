@@ -13,8 +13,11 @@ def newSubscription(userEmail, categories, category_details):
             ids.append(user["id"])
         newId = max(ids) + 1
 
-        data["users"].append({"id" : newId, "email": userEmail, "categories": categories, "category_details": category_details})
-        print("New user added! Email: " + userEmail + " Categories: " + categories)
+        for i in categories:
+            generate_code(i)
+
+        data["users"].append({"id" : newId, "email": userEmail, "categoryKeys": code_list, "categories": categories, "category_details": category_details})
+        print("New user added! Email: " + userEmail + " Categories: " + str(categories))
         with open("users/subscriptions.json", "w") as f:
             json.dump(data, f, indent=4)
 
@@ -27,3 +30,6 @@ def generate_code(input):
         return code
     else:
         return generate_code(input)
+
+
+newSubscription("test",["category"],["category_details"])
