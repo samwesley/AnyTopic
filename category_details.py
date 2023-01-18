@@ -30,5 +30,5 @@ def category_list(category=None):
     categoryName = variables.categoryNames[category]
     message, conv_id = get_category_details(categoryName)
     '''
-#test
+
 category_list()

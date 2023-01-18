@@ -7,6 +7,7 @@ import get_user_info
 import check_for_data
 import relevancy_scoring
 import gpt_relevancy_scoring
+from flask import Flask, request, Response
 
 nickEmail = "nick@urbanriv.org"
 samEmail = "samwesley3@gmail.com"
