@@ -72,7 +72,6 @@ def create_dict(links, texts, titles, keywords, category):
     for link, text, title, keyword in zip(links, texts, titles, keywords):
         result["articles"][counter] = {"link" : link, "title" : title, "keywords" : keyword, "text" : text}
         counter += 1
-    print("Article Count..........." + str(len(result)))
     return result
 
 
@@ -80,6 +79,7 @@ def final(category):
     file_path = find_file_path.main(category)
     with open(file_path + 'data.json') as f:
         data = json.load(f)
+        counter = 0
         for i in links:
             number = links.index(i)
             #add a new field to data with number as a key and text, title, keywords and link as values
@@ -88,9 +88,12 @@ def final(category):
             if len(path["text"])< 100:
                 print("Marking as Skip due to <100 words" + path["title"])
                 data["articles"][number]["skip"] = "true"
+                counter += 1
             data["date"] = today
             data["category"] = category
-            
+    print("Skip Count............." + str(counter))
+
+
     with open(file_path + 'data.json', 'w') as f:
         json.dump(data, f, indent=4)
 
