@@ -19,6 +19,7 @@ links = []
 def getLinksFromXML(category):
     file_path = find_file_path.main(category)
     url = variables.urls[category]
+
     # Fetch the web page containing the article
     response = requests.get(url)
     # Parse the web page into a BeautifulSoup object
