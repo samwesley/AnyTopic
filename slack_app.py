@@ -17,15 +17,14 @@ def findUserDetails(userEmail):
         for user in data["users"]:
             if user["email"] == userEmail:
                 channel = user["slack"]["channel"]
-                slack_key = user["slack"]["key"]
-                return channel, slack_key
+                return channel
 
 
 
 def sendMessages(category, userEmail):
-    channel, slackKey = findUserDetails(userEmail)
-    app = App(token=slackKey)
+    channel = findUserDetails(userEmail)
+    app = App(token=slack_key)
     block1, block2 = slack_block_builder.main(category)
-    app.client.chat_postMessage(token=slackKey,channel=channel, blocks=block1["blocks"])
-    app.client.chat_postMessage(token=slackKey, channel=channel, blocks=block2["blocks"])
+    app.client.chat_postMessage(token=slack_key,channel=channel, blocks=block1["blocks"])
+    app.client.chat_postMessage(token=slack_key, channel=channel, blocks=block2["blocks"])
     return "Sent"
