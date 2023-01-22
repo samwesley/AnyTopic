@@ -14,24 +14,22 @@ image:
   # Port exposed through your container to route traffic to it.
   port: 80
 
-# http:
-#   healthcheck:
-#     path: /
-#     healthy_threshold: 3
-#     unhealthy_threshold: 5
-#     interval: 10s
-#     timeout: 5s
+http:
+  healthcheck:
+    path: /health
+    healthy_threshold: 3
+    unhealthy_threshold: 5
+    interval: 10s
+    timeout: 5s
 
 # Number of CPU units for the task.
 cpu: 1024
 # Amount of memory in MiB used by the task.
 memory: 2048
-
 # Connect your App Runner service to your environment's VPC.
 # network:
 #   vpc:
 #     placement: private
-
 
 # Enable tracing for the service.
 # observability:
@@ -39,14 +37,17 @@ memory: 2048
 
 # Optional fields for more advanced use-cases.
 #
-# variables:                    # Pass environment variables as key value pairs.
-#   LOG_LEVEL: info
+variables: # Pass environment variables as key value pairs.
+  LOG_LEVEL: info
 #
 # tags:                         # Pass tags as key value pairs.
 #   project: project-name
 
+secrets:
+  OPENAI_API_KEY: /copilot/${COPILOT_APPLICATION_NAME}/${COPILOT_ENVIRONMENT_NAME}/secrets/OPENAI_API_KEY
+
 # You can override any of the values defined above by environment.
-# environments:
-#   test:
-#     variables:
-#       LOG_LEVEL: debug        # Log level for the "test" environment.
+environments:
+  test:
+    variables:
+      LOG_LEVEL: debug # Log level for the "test" environment.
