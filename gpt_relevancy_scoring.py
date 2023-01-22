@@ -12,7 +12,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 def category_details(category):
     category_name = variables.categoryNames[category]
     #category_details = ""
-    category_details = "I'm not looking for any subtopics in particular, I'm interested in new technology and general news. I'm looking for news that's within the past month. I'm looking for both news and articles from scientific journals and magazines. "
+    #category_details = "I'm not looking for any subtopics in particular, I'm interested in new technology and general news. I'm looking for news that's within the past month. I'm looking for both news and articles from scientific journals and magazines. "
     intro = f"You are a news curator, I am coming to you asking for news related to {category_name}. {category_details}. Based on this guidance, generate a single integer score from 0-10 of how relevant the following article is for me. Format the score as x/10. Article: "
     return intro
 

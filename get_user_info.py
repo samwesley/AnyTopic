@@ -7,6 +7,6 @@ def get_category_keys(email):
         data = json.load(f)
         for user in data["users"]:
             if user["email"] == email:
-                print(user["categoryKeys"])
-                return user["categoryKeys"]
+                print(user["category_keys"])
+                return user["category_keys"]
 

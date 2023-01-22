@@ -1,17 +1,19 @@
-import time
-
-from bs4 import BeautifulSoup
-import lxml
-import requests
 import os
 import datetime
-import openai
+import json
 import variables
 today = str(datetime.date.today())
 
 def createFolder(today):
     #check if the folder exists
-    categories = list(variables.categories.values())
+    categories = []
+    with open("users/subscriptions.json") as f:
+        data = json.load(f)
+        for user in data["users"]:
+            for category in user["categories"]:
+                if category not in categories:
+                    category = category.replace(" ", "_")
+                    categories.append(category)
 
 
     folderName = str(today)

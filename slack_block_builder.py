@@ -38,10 +38,13 @@ def generateMainBlock(category):
     blocks = []
     #write a list of the indexes of relevancy scores in descending order
     # Added try to handle the case where articles are not scored on relevenacy
-
-    for i in range(len(relevancy)):
-        list_order.append(i)
-    list_order.sort(key=lambda x: relevancy[x], reverse=True)
+    try:
+        for i in range(len(relevancy)):
+            list_order.append(i)
+        list_order.sort(key=lambda x: relevancy[x], reverse=True)
+    except Exception as e:
+        print(e)
+        pass
 
 
     summaryCount = 5

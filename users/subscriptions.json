@@ -12,7 +12,7 @@
                 "sr": "https://www.google.com/alerts/feeds/04179049431026736918/16094280887727195819",
                 "st": "https://www.google.com/alerts/feeds/04179049431026736918/10352800335472653504"
             },
-            "categoryKeys": [
+            "category_keys": [
                 "sr",
                 "st"
             ],
@@ -23,7 +23,8 @@
                 "key": "",
                 "channel": "@samwesley3",
                 "username": "@samwesley3"
-            }
+            },
+            "category_map" : {}
         },
         {
             "id": 2,
@@ -51,7 +52,7 @@
                 "br": "http://google.com/alerts/feeds/00141647403121360786/8523717045299115071",
                 "fw": "https://www.google.com/alerts/feeds/00141647403121360786/3252336291101328349"
             },
-            "categoryKeys": [
+            "category_keys": [
                 "cr",
                 "cm",
                 "wm",
@@ -77,150 +78,75 @@
                 "key": "INSERT_SLACK_BOT_KEY_HERE",
                 "channel": "UBK06CSNB",
                 "username": "@nick"
-            }
+            },
+            "category_map" : {}
         },
         {
             "id": 3,
-            "email": "test",
-            "categoryKeys": [
-                "9PT"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 4,
-            "email": "test",
-            "categoryKeys": [
-                "8"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 5,
-            "email": "test",
-            "categoryKeys": [
-                "D"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 6,
-            "email": "test",
-            "categoryKeys": [
-                "TI"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 7,
-            "email": "test",
-            "categoryKeys": [
-                "ND"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 8,
-            "email": "test",
-            "categoryKeys": [
-                "0"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 9,
-            "email": "test",
-            "categoryKeys": [
-                "SH"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 10,
-            "email": "test",
-            "categoryKeys": [
-                "B"
-            ],
-            "categories": [
-                "category"
-            ],
-            "category_details": [
-                "category_details"
-            ]
-        },
-        {
-            "id": 11,
-            "email": "test@gmail.com",
+            "email": "allTest2@gmail.com",
             "category_keys": [
-                "QZL",
-                "J"
+                "D77",
+                "9NM",
+                "9D",
+                "W80",
+                "X3A",
+                "Y",
+                "NSO",
+                "T0M",
+                "G",
+                "2",
+                "FX"
             ],
             "categories": [
+                "chicago river",
+                "AI startup accelerator accepting applications",
+                "Artificial intelligence and machine learning",
+                "building a startup",
+                "Cybersecurity and data privacy",
+                "educational disparities in the US",
+                "email Newsletters",
+                "heart disease trends US",
                 "outdoor gear rental",
-                "varda space"
-            ],
-            "category_details": [
-                "outdoor gear rental",
-                "varda space"
-            ],
-            "category_urls": {
-                "QZL": "https://google.com/alerts/feeds/14677448040511440142/1853460946171004732",
-                "J": "https://google.com/alerts/feeds/14677448040511440142/1853460946171004859"
-            }
-        },
-        {
-            "id": 12,
-            "email": "test2@gmail.com",
-            "category_keys": [
-                "1Q",
-                "VH"
-            ],
-            "categories": [
-                "impulse space",
-                "varda space"
+                "simple cooking",
+                "lagrange illinois"
             ],
             "category_details": [
                 "",
                 ""
             ],
+            "category_map" : {
+               "D77" : "chicago river",
+                "9NM" : "AI startup accelerator accepting applications",
+                "9D":"Artificial intelligence and machine learning",
+                "W80":"building a startup",
+                "X3A":"Cybersecurity and data privacy",
+                "Y":"educational disparities in the US",
+                "NSO":"email Newsletters",
+                "T0M":"heart disease trends US",
+                "G":"outdoor gear rental",
+                "2":"simple cooking",
+                "FX":"lagrange illinois"
+            },
             "category_urls": {
-                "1Q": "https://google.com/alerts/feeds/14677448040511440142/4330139831603976105",
-                "VH": "https://google.com/alerts/feeds/14677448040511440142/1853460946171004859"
+                "D77": "https://google.com/alerts/feeds/14677448040511440142/4264832905170020424",
+                "9NM": "https://google.com/alerts/feeds/14677448040511440142/13538573204361840155",
+                "9D": "https://google.com/alerts/feeds/14677448040511440142/11374957641829967991",
+                "W80": "https://google.com/alerts/feeds/14677448040511440142/15348671047885216062",
+                "X3A": "https://google.com/alerts/feeds/14677448040511440142/11374957641829969150",
+                "Y": "https://google.com/alerts/feeds/14677448040511440142/8234352117444405172",
+                "NSO": "https://google.com/alerts/feeds/14677448040511440142/4264832905170019610",
+                "T0M": "https://google.com/alerts/feeds/14677448040511440142/9186459489829851283",
+                "G": "https://google.com/alerts/feeds/14677448040511440142/1853460946171004732",
+                "2": "https://google.com/alerts/feeds/14677448040511440142/1797537717449897199",
+                "FX": "https://google.com/alerts/feeds/14677448040511440142/15849137278843492228"
+            },
+            "deliveryMethods": [
+                "slack"
+            ],
+            "slack": {
+                "key": "",
+                "channel": "@samwesley3",
+                "username": "@samwesley3"
             }
         }
     ]

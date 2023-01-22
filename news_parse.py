@@ -7,6 +7,7 @@ from newspaper import Article
 from bs4 import BeautifulSoup
 import datetime
 import traceback
+import unicode_converter
 
 today = str(datetime.date.today())
 
@@ -52,6 +53,10 @@ def parseArticle(category):
             text = article.text
             title = article.title
             keyword = article.keywords
+            try:
+                text = unicode_converter.main(text)
+            except Exception as e:
+                print(e)
             texts.append(text)
             titles.append(title)
             keywords.append(keyword)

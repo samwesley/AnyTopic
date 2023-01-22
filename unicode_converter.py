@@ -11,7 +11,6 @@ def main(input):
 
 
     # The string with all Unicode escape sequences converted to their respective normal characters
-    print(s)
 
     return s
 
