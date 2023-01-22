@@ -148,6 +148,12 @@
                 "channel": "@samwesley3",
                 "username": "@samwesley3"
             }
-        }
-    ]
+        },
+        {
+            "id": 4,
+            "email": "robbyriley15@gmail.com",
+            "category": "gardening",
+            "categories": ["gardening"],
+            "category_details": "I am interested in vegetable gardening as an intermediate gardener in a temperate climate with a goal of learning new gardening techniques and interested in both indoor and outdoor content and organic method of gardening. I am interested in in-ground gardening and specifically in vegetable plants and soil management issues."
+        }]
 }

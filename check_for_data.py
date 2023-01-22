@@ -1,9 +1,13 @@
 import json
 import find_file_path
 import os
+import datetime
+
+today = str(datetime.date.today())
 
 def main(category):
     file_path = find_file_path.main(category)
+    category = category.replace(" ", "_")
     with open(file_path + "data.json") as f:
         data = json.load(f)
     if len(data["articles"]) == 0:

@@ -16,12 +16,13 @@ testEmail = "allTest2@gmail.com"
 
 def main(category):
     print("Starting the program for: " + category)
-    print(check_for_data.main(category))
+    #print(check_for_data.main(category))
     print(news_parse.main(category))
     print(mark_duplicates.main(category))
     print(gpt_relevancy_scoring.main(category))
     print(get_summary.main(category))
     print(slack_app.sendMessages(category, samEmail))
+
 
 def get_categories(email):
     keys = get_user_info.get_category_keys(email)
@@ -31,4 +32,5 @@ def get_categories(email):
 
 
 #main(sys.argv[1])
-get_categories(samEmail)
+main("gardening")
+
