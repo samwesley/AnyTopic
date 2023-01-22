@@ -18,14 +18,16 @@ keywords = []
 links = []
 
 def getLinksFromXML(category):
-    file_path = find_file_path.main(category)
+    #file_path = find_file_path.main(category)
     file_path = "categories/gardening/2023-01-21/final/"
     with open("users/subscriptions.json") as f:
         data = json.load(f)
         for user in data["users"]:
-            for i in user["category"]:
+            for i in user["categories"]:
                 if i == category:
-                    users
+                    print(i)
+                    print(user["category_url"])
+                    url = user["category_url"]
     #url = variables.urls[category]
 
     # Fetch the web page containing the article

@@ -10,6 +10,8 @@ folderName = str(today)
 
 
 def main(category):
+    path = "categories/gardening/2023-01-21/final/"
+    '''
     with open("users/subscriptions.json") as f:
         data = json.load(f)
         for user in data["users"]:
@@ -19,5 +21,7 @@ def main(category):
                     cat_name = cat_name.replace(" ", "_")
 
     path = "categories/" + cat_name + "/" + folderName + "/final/"
+    
+    '''
     return path
 

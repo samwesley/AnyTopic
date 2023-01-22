@@ -1,9 +1,3 @@
-import json
-import time
-
-import variables
-import random
-import string
 import create_google_alerts
 import boto3
 
@@ -13,7 +7,6 @@ dynamodb = boto3.client('dynamodb')
 def new_subscription(email, category, category_details):
 
     category_url = create_google_alerts.create_alerts(category)
-    time.sleep(1)
     item = {
         'email': {'S': email},
         'category': {'S': category},
