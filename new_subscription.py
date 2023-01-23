@@ -17,6 +17,6 @@ def new_subscription(email, category, category_details):
         TableName='users',
         Item=item
     )
-    print(response)
+    print(email +" subscribed to: " + category)
 
-new_subscription('robbyriley15@gmail.com', 'gardening', 'I am interested in vegetable gardening as an intermediate gardener in a temperate climate with a goal of learning new gardening techniques and interested in both indoor and outdoor content and organic method of gardening. I am interested in in-ground gardening and specifically in vegetable plants and soil management issues.')
+new_subscription("samwesley3@gmail.com","startup competition","I'm looking for news about startup competitions to apply for. I'm looking for opportunities in the US and that have cash prizes.")

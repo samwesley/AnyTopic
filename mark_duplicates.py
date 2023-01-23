@@ -64,6 +64,3 @@ def choose_main_article(category):
     with open(file_path + "data.json", "w") as f:
         json.dump(data, f, indent=4)
 
-
-if __name__ == '__main__':
-    main("sr")

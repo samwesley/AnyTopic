@@ -6,9 +6,8 @@ divider = {
     "type": "divider"
 }
 
-def pullData(category):
-    file_path = find_file_path.main(category)
-    with open(file_path + "data.json") as f:
+def pullData(file_name):
+    with open(file_name) as f:
         data = json.load(f)
     for i in range(len(data["articles"])):
         try:
@@ -18,10 +17,12 @@ def pullData(category):
         except KeyError:
             pass
     return data
+
 list_order = []
-def generateMainBlock(category):
-    data = pullData(category)
-    category = variables.categoryNames[category]
+
+def generateMainBlock(file_name):
+    data = pullData(file_name)
+    category = data["category"]
     links = []
     titles = []
     summary = []
@@ -93,9 +94,9 @@ def generateMainBlock(category):
     })
     return { "blocks": blocks }
 
-def generateSecondBlock(category):
+def generateSecondBlock(file_name):
     blocks = []
-    data = pullData(category)
+    data = pullData(file_name)
     links = []
     titles = []
     for i in data["articles"]:
@@ -127,8 +128,8 @@ def generateSecondBlock(category):
     return { "blocks": blocks }
 
 
-def main(category):
-    block1 = generateMainBlock(category)
-    block2 = generateSecondBlock(category)
+def main(file_name):
+    block1 = generateMainBlock(file_name)
+    block2 = generateSecondBlock(file_name)
     return block1, block2
 
