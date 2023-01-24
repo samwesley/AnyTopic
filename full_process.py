@@ -14,6 +14,7 @@ from slack_bolt import App
 import json
 import slack_block_builder
 import boto3
+import uuid
 
 load_dotenv()
 
@@ -282,6 +283,8 @@ def main_summary():
             summary = getSummary(article["text"])
             if summary.startswith("Summary: "):
                 summary = summary.split("Summary: ", 1)[1]
+            if '\n' in summary:
+                summary = summary.split("\n",1,)[1]
             article["summary"] = summary
             counter += 1
             time.sleep(1)
@@ -319,6 +322,35 @@ def get_user_info(email):
     response = table.query(KeyConditionExpression=Key('email').eq(email))
     return response
 
+'''Save Data to S3'''
+def save_to_s3():
+    s3 = boto3.client('s3')
+    # specify the bucket name and file name
+    bucket_name = 'anytopic-newsletter-data'
+
+    # open the file in binary mode
+    with open(file_name, 'rb') as data:
+        # upload the file to S3
+        response = s3.put_object(Bucket=bucket_name, Key=file_name, Body=data)
+    return response
+
+def save_newsletter_to_dynamo(email):
+    file_name = 'test/2023-01-23_Space Robotics_data.json'
+    dynamodb = boto3.client('dynamodb')
+    url = f"https://anytopic-newsletter-data.s3.amazonaws.com/{file_name}"
+    id = str(uuid.uuid4())
+    item = {
+        'id': {'S': id},
+        'url': {'S': url},
+        'user': {'S': email},
+        'date': {'S': today}
+    }
+    response = dynamodb.put_item(
+        TableName='newsletters',
+        Item=item
+    )
+    return response
+
 
 def main(email):
     all_subscriptions = get_user_info(email)
@@ -343,7 +375,10 @@ def main(email):
         main_duplicates(article_data,file_name)
         main_relevancy()
         main_summary()
+        save_to_s3()
+        save_newsletter_to_dynamo(email)
         main_slack(file_name)
     return os.path.basename(__file__) + " finished"
 
 main('samwesley3@gmail.com')
+#print(save_newsletter_to_dynamo())

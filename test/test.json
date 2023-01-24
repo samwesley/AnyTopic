@@ -1,0 +1,139 @@
+{
+  'id': {
+    'S': '8402197e-d98f-43e5-93cd-0448dfe0585a'
+  },
+  'articles': {
+    'M': {
+      'https://www.digitaljournal.com/pr/clean-room-robot-market-to-witness-the-highest-growth-globally-in-coming-years-2023-2029-abb-yaskawa-faunc-kawasaki-heavy-industries': {
+        'M': {
+          'skip': {
+            'S': 'false'
+          },
+          'gpt_relevancy_score': {
+            'N': '7'
+          },
+          'title': {
+            'S': 'Clean Room Robot Market To Witness The Highest Growth Globally In Coming Years 2023-2029'
+          }
+        }
+      },
+      'https://www.openpr.com/news/2894632/space-robotics-market-trends-demand-growth-value-analysis': {
+        'M': {
+          'skip': {
+            'S': 'false'
+          },
+          'gpt_relevancy_score': {
+            'N': '8'
+          },
+          'title': {
+            'S': 'Space Robotics Market Trends, Demand, Growth, Value & Analysis Report by Zion Market Research'
+          }
+        }
+      },
+      'https://news.mit.edu/2023/using-robotics-supercharge-health-care-0123': {
+        'M': {
+          'skip': {
+            'S': 'true'
+          },
+          'gpt_relevancy_score': {
+            'N': '2'
+          },
+          'title': {
+            'S': 'Using robotics to supercharge health care'
+          }
+        }
+      },
+      'https://www.engadget.com/scientists-found-a-new-emperor-penguin-colony-by-tracking-poo-markings-from-space-221555647.html': {
+        'M': {
+          'skip': {
+            'S': 'false'
+          },
+          'gpt_relevancy_score': {
+            'N': '6'
+          },
+          'title': {
+            'S': 'Scientists found a new emperor penguin colony by tracking poo markings from space'
+          }
+        }
+      },
+      'https://hardware.slashdot.org/story/23/01/22/0544231/rodney-brooks-reviews-5-year-old-predictions-makes-new-ones-on-crypto-metaverse-robots-ai': {
+        'M': {
+          'skip': {
+            'S': 'true'
+          },
+          'gpt_relevancy_score': {
+            'N': '2'
+          },
+          'title': {
+            'S': 'Rodney Brooks Reviews 5-Year-Old Predictions, Makes New Ones on Crypto, Metaverse, Robots, AI'
+          }
+        }
+      },
+      'https://robohub.org/robotics-research-how-asia-europe-and-america-invest-global-report-2023/': {
+        'M': {
+          'skip': {
+            'S': 'false'
+          },
+          'gpt_relevancy_score': {
+            'N': '7'
+          },
+          'title': {
+            'S': 'Robotics research: How Asia, Europe and America invest – Global Report 2023'
+          }
+        }
+      },
+      'https://roboticsandautomationnews.com/2023/01/22/aubo-robotics-opens-us-headquarters-in-michigan/59282/': {
+        'M': {
+          'skip': {
+            'S': 'true'
+          },
+          'gpt_relevancy_score': {
+            'N': '3'
+          },
+          'title': {
+            'S': 'Aubo Robotics opens US headquarters in Michigan'
+          }
+        }
+      },
+      'https://www.sunnewsonline.com/groups-train-students-in-coding-ai-robotics-drone-tech/': {
+        'M': {
+          'skip': {
+            'S': 'false'
+          },
+          'gpt_relevancy_score': {
+            'N': '6'
+          },
+          'title': {
+            'S': 'Groups train students in coding, AI, robotics, drone tech'
+          }
+        }
+      },
+      'https://menafn.com/1105461784/Aubo-Robotics-Opens-US-Headquarters-In-Michigan': {
+        'M': {
+          'skip': {
+            'S': 'true'
+          },
+          'gpt_relevancy_score': {
+            'N': '7'
+          },
+          'title': {
+            'S': 'Aubo Robotics Opens US Headquarters In Michigan'
+          }
+        }
+      },
+      'https://www.businessinsider.in/thelife/news/i-used-to-work-on-mars-rovers-and-now-i-develop-self-driving-cars-heres-how-i-made-the-pivot-from-nasas-jpl-to-amazons-zoox-/articleshow/97230063.cms': {
+        'M': {
+          'skip': {
+            'S': 'true'
+          },
+          'gpt_relevancy_score': {
+            'N': '7'
+          },
+          'title': {
+            'S': "I used to work on Mars rovers and now I develop self-driving cars. Here's how I made the pivot from NASA's JPL to Amazon's Zoox."
+          }
+        }
+      }
+    }
+  }
+}
