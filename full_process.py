@@ -363,8 +363,6 @@ def main(email):
         category = subscription['category']
         details = subscription['details']
         file_name = "test/" + today + "_" + category + "_data.json"
-
-
         getLinksFromXML(url)
         parseArticle(file_name,email)
         article_data = final_pull_articles(file_name, category)
