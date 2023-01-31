@@ -19,4 +19,4 @@ def new_subscription(email, category, category_details):
     )
     print(email +" subscribed to: " + category)
 
-new_subscription("samwesley3@gmail.com","startup competition","I'm looking for news about startup competitions to apply for. I'm looking for opportunities in the US and that have cash prizes.")
+#new_subscription("samwesley3@gmail.com","chicago bears","I'm looking for news on the chicago bears football team and current players.")

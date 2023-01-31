@@ -19,7 +19,7 @@ list_order = []
 
 def testing():
     full_dict = {}
-    with open("test/2023-01-24_Space Technology_data.json") as f:
+    with open("test/2023-01-27_Space Technology_data.json") as f:
         data = json.load(f)
     category = data["category"]
     full_dict["category"] = category
@@ -27,10 +27,10 @@ def testing():
     titles = []
     summary = []
     relevancy = []
-
+    full_dict["tldr"] = data["tldr"]
     for i in data["articles"]:
         path = data["articles"][str(i)]
-        if "summary" in path:
+        if "summary" in path and path["skip"] != "true":
             links.append(path["link"])
             titles.append(path["title"])
             summary.append(path["summary"])
@@ -38,7 +38,11 @@ def testing():
     try:
         for i in range(len(relevancy)):
             list_order.append(i)
+            print(links[i])
+        print(list_order)
         list_order.sort(key=lambda x: relevancy[x], reverse=True)
+        print(list_order)
+        print(relevancy)
     except Exception as e:
         print(e)
         pass
@@ -48,7 +52,8 @@ def testing():
     for i in range(summaryCount):
         full_dict["summary_link_{}".format(i+1)] = links[list_order[i]]
         full_dict["summary_title_{}".format(i+1)] = titles[list_order[i]]
-        full_dict["summary_{}".format(i+1)] = summary[list_order[i]]
+        full_dict["summary_{}_text".format(i+1)] = summary[list_order[i]]
+
 
     links = []
     titles = []

@@ -24,8 +24,8 @@ def davinci(block,category):
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt = prompt,
-        temperature=0.9,
-        max_tokens=1000,
+        temperature=0,
+        max_tokens=100,
         top_p=1,
         frequency_penalty=1,
         presence_penalty=1

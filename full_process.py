@@ -15,6 +15,10 @@ import json
 import slack_block_builder
 import boto3
 import uuid
+from sendgrid.helpers.mail import *
+import sendgrid
+import os
+import json
 
 load_dotenv()
 
@@ -25,6 +29,7 @@ texts = []
 titles = []
 keywords = []
 links = []
+list_order = []
 
 file_name = ""
 category = ""
@@ -187,8 +192,8 @@ def davinci(block, category, details):
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt = prompt,
-        temperature=0.9,
-        max_tokens=1000,
+        temperature=0,
+        max_tokens=100,
         top_p=1,
         frequency_penalty=1,
         presence_penalty=1
@@ -201,7 +206,7 @@ def davinciRaw(block):
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt = prompt,
-        temperature=0.9,
+        temperature=0,
         max_tokens=1000,
         top_p=1,
         frequency_penalty=1,
@@ -240,12 +245,12 @@ def main_relevancy():
 
 
 def getSummary(text):
-    intro = "Extract the key points from the following article and write them in a 2-4 sentence summary used for an email newsletter. Only respond with the summary as if it were a paragraph in an article, do not uses any header. Article : "
+    intro = "Extract the key points from the following article and write them in a short 2 sentence summary used for an email newsletter. Only respond with the summary as if it were a paragraph in an article, do not uses any header. Article : "
     try:
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt = intro + text,
-            temperature=0.9,
+            temperature=0.4,
             max_tokens=1000,
             top_p=1,
             frequency_penalty=1,
@@ -335,7 +340,7 @@ def save_to_s3():
     return response
 
 def save_newsletter_to_dynamo(email):
-    file_name = 'test/2023-01-23_Space Robotics_data.json'
+    #file_name = 'test/2023-01-23_Space Robotics_data.json'
     dynamodb = boto3.client('dynamodb')
     url = f"https://anytopic-newsletter-data.s3.amazonaws.com/{file_name}"
     id = str(uuid.uuid4())
@@ -350,6 +355,133 @@ def save_newsletter_to_dynamo(email):
         Item=item
     )
     return response
+
+def get_section_1():
+    group_of_summaries = []
+    with open(file_name) as data:
+        data = json.load(data)
+        for i in data["articles"]:
+            if data["articles"][i]["skip"] == "false":
+                group_of_summaries.append(data["articles"][i]["summary"])
+        numbered_list = "\n".join(f"{index+1}. {item}" for index, item in enumerate(group_of_summaries))
+
+    intro = "Generate a overview of the key points from the following summaries to be used for an email newsletter. Respond with a numbered list with line breaks between each item, this should be no more than 5 long. Only respond with the summary as if it were a paragraph in an article, do not uses any header. List of summaries : "
+    try:
+        response = openai.Completion.create(
+            model="text-davinci-003",
+            prompt = intro + numbered_list,
+            temperature=0.2,
+            max_tokens=700,
+            top_p=1,
+            frequency_penalty=1,
+            presence_penalty=1
+        )
+        response = response.choices[0].text
+        tldr = response
+        data["tldr"] = tldr
+        with open(file_name, "w") as f:
+            json.dump(data, f, indent=4)
+        return tldr
+    except openai.error.InvalidRequestError:
+        print("Error: summaries text is too long")
+
+def send_grid_start(email):
+    full_dict = {}
+    with open(file_name) as f:
+        data = json.load(f)
+    category = data["category"]
+    full_dict["category"] = category
+    links = []
+    titles = []
+    summary = []
+    relevancy = []
+    full_dict["tldr"] = data["tldr"]
+    for i in data["articles"]:
+        path = data["articles"][str(i)]
+        if "summary" in path and path["skip"] != "true":
+            links.append(path["link"])
+            titles.append(path["title"])
+            summary.append(path["summary"])
+            relevancy.append(path["gpt_relevancy_score"])
+    try:
+        for i in range(len(relevancy)):
+            list_order.append(i)
+        list_order.sort(key=lambda x: relevancy[x], reverse=True)
+
+    except Exception as e:
+        pass
+    summaryCount = 5
+    if len(summary) < summaryCount:
+        summaryCount = len(summary)
+    for i in range(summaryCount):
+        full_dict["summary_link_{}".format(i+1)] = links[list_order[i]]
+        full_dict["summary_title_{}".format(i+1)] = titles[list_order[i]]
+        full_dict["summary_{}_text".format(i+1)] = summary[list_order[i]]
+
+
+    links = []
+    titles = []
+    for i in data["articles"]:
+        if i not in list_order[:5]:
+            path = data["articles"][str(i)]
+            links.append(path["link"])
+            titles.append(path["title"])
+        additionalCount = 9
+    if len(titles) < additionalCount:
+        additionalCount = len(titles)
+    for i in range(additionalCount):
+        full_dict["additional_link_{}".format(i+1)] = links[i]
+        full_dict["additional_title_{}".format(i+1)] = titles[i]
+    send_email(full_dict,email)
+    return full_dict
+
+def send_email(full_dict,email):
+
+    sg = sendgrid.SendGridAPIClient(api_key=os.environ.get('SENDGRID_API_KEY'))
+
+    from_email = "sam@anytopic.io"
+    to_email = email
+    template_id = "d-bfcdffb03aea4f0a98831da3d54f146b"
+
+
+    mail = Mail()
+    mail.from_email = from_email
+    mail.template_id = template_id
+
+    personalization = Personalization()
+
+    for key, value in full_dict.items():
+        personalization.add_substitution(Substitution('-{}-'.format(key), value))
+
+    # Add the recipient to the mail
+    mail.add_to(to_email)
+    mail.dynamic_template_data = full_dict
+
+    mail_json = mail.get()
+
+    # Send the email
+    response = sg.client.mail.send.post(request_body=mail_json)
+
+def abandon_decision():
+    summaries = []
+
+    with open(file_name) as f:
+        data = json.load(f)
+
+    for i in data["articles"]:
+        try:
+            path = data["articles"][str(i)]
+            if path["skip"] != "true":
+                i = str(i)
+                summaries.append(path["summary"])
+                if len(summaries) < 1:
+                    print("Abandoning due to lack of summaries")
+                    exit()
+        except Exception as e:
+            print(e)
+
+
+
 
 
 def main(email):
@@ -375,7 +507,11 @@ def main(email):
         main_summary()
         save_to_s3()
         save_newsletter_to_dynamo(email)
+        abandon_decision()
         main_slack(file_name)
+        get_section_1()
+        send_grid_start(email)
+
     return os.path.basename(__file__) + " finished"
 
 main('samwesley3@gmail.com')

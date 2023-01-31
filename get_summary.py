@@ -13,12 +13,12 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def getSummary(text):
-    intro = "Extract the key points from the following article and write them in a 2-4 sentence summary used for an email newsletter. Only respond with the summary as if it were a paragraph in an article, do not uses any header. Article : "
+    intro = "Extract the key points from the following article and write them in a 2 sentence summary used for an email newsletter. Only respond with the summary as if it were a paragraph in an article, do not uses any header. Article : "
     try:
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt = intro + text,
-            temperature=0.9,
+            temperature=0.3,
             max_tokens=1000,
             top_p=1,
             frequency_penalty=1,
