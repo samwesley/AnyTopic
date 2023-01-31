@@ -365,7 +365,7 @@ def get_section_1():
                 group_of_summaries.append(data["articles"][i]["summary"])
         numbered_list = "\n".join(f"{index+1}. {item}" for index, item in enumerate(group_of_summaries))
 
-    intro = "Generate a overview of the key points from the following summaries to be used for an email newsletter. Respond with a numbered list with line breaks between each item, this should be no more than 5 long. Only respond with the summary as if it were a paragraph in an article, do not uses any header. List of summaries : "
+    intro = "Generate a 3-5 sentence overview of the key points from the following summaries to be used for an email newsletter. Only respond with the summary as if it were a paragraph in an article, do not uses any header. List of summaries : "
     try:
         response = openai.Completion.create(
             model="text-davinci-003",
