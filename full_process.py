@@ -1,7 +1,5 @@
 import os
 import requests
-import json
-import find_file_path
 from newspaper import Article
 from bs4 import BeautifulSoup
 import datetime
@@ -17,8 +15,6 @@ import boto3
 import uuid
 from sendgrid.helpers.mail import *
 import sendgrid
-import os
-import json
 
 load_dotenv()
 
@@ -34,10 +30,14 @@ list_order = []
 file_name = ""
 category = ""
 details = ""
-#response = {'category': 'gardening', 'details': 'I am interested in vegetable gardening as an intermediate gardener in a temperate climate with a goal of learning new gardening techniques and interested in both indoor and outdoor content and organic method of gardening. I am interested in in-ground gardening and specifically in vegetable plants and soil management issues.', 'email': 'robbyriley15@gmail.com', 'url': 'https://google.com/alerts/feeds/14677448040511440142/15328111450502535226'}
 
 
-
+total_cost = 0
+tldr_cost = 0
+relevancy_cost = 0
+relevancy_2_cost = 0
+summary_cost = 0
+total_count = 0
 
 def getLinksFromXML(url):
     # Fetch the web page containing the article
@@ -52,7 +52,6 @@ def getLinksFromXML(url):
         try:
             tLink = tLink.split("&url=")[1]
             tLink = tLink.split("&ct=")[0]
-            #print("The link is now " + tLink)
             links.append(tLink)
         except Exception as e:
             print(traceback.print_exc())
@@ -67,7 +66,6 @@ def parseArticle(category,email):
             article.download()
             article.parse()
             article.nlp()
-            #time.sleep(1)
             text = article.text
             title = article.title
             keyword = article.keywords
@@ -133,7 +131,6 @@ def main_duplicates(data,file_name):
     for i in duplicateLists:
         for k in range(2):
             index = i[k]
-            print(index)
             #if there is no key duplicates in the json file, create one
             if "duplicates" not in data["articles"][index]:
                 data["articles"][index]["duplicates"] = []
@@ -183,10 +180,35 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def category_details(category,details):
     #category_details = "I'm not looking for any subtopics in particular, I'm interested in new technology and general news. I'm looking for news that's within the past month. I'm looking for both news and articles from scientific journals and magazines. "
-    intro = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, generate a single integer score from 0-10 of how relevant the following article is for me. Format the score as x/10. Article: "
+    intro = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, generate a single integer score from 0-10 of how relevant the following article is for me. Format the score as x/10. Article title: "
     return intro
 
-def davinci(block, category, details):
+def title_relevancy_scoring(title, category, details):
+    intro = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, return json with the following fields. A single integer score from 0-10 of how relevant the following article is for me (0 meaning do not ever read, 10 meaning drop everythiing and read right now). Title this fiield relevancy_score and format the score as only the numerator out of 10. If this score is higher than 4, do the following. Extract the key points from the following article and write a short 2 sentence summary of the article to be used for an email newsletter. Only respond with 2 sentences and tile this field two_summary. Lastly, return a python readable list of classifications for this article and title this field classifications. Article :"
+    #intro = category_details(category, details)
+    prompt = intro + title
+    response = openai.Completion.create(
+        model="text-davinci-003",
+        prompt = prompt,
+        temperature=0,
+        max_tokens=500,
+        top_p=1,
+        frequency_penalty=1,
+        presence_penalty=1
+    )
+    text = response.choices[0].text
+    print(text)
+    est = response.usage.total_tokens * 0.00002
+    print("{} estimated cost: {}".format("relevancy",est))
+    global total_cost
+    total_cost += est
+    global relevancy_cost
+    relevancy_cost += est
+    global total_count
+    total_count += 1
+    return text
+
+def relevancy_scoring(block, category, details):
     intro = category_details(category,details)
     prompt = intro + block
     response = openai.Completion.create(
@@ -199,21 +221,35 @@ def davinci(block, category, details):
         presence_penalty=1
     )
     text = response.choices[0].text
+    est = response.usage.total_tokens * 0.00002
+    print("{} estimated cost: {}".format("relevancy",est))
+    global total_cost
+    total_cost += est
+    global relevancy_cost
+    relevancy_cost += est
     return text
 
-def davinciRaw(block):
+def fraction_fixing(block):
     prompt = block
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt = prompt,
         temperature=0,
-        max_tokens=1000,
+        max_tokens=50,
         top_p=1,
         frequency_penalty=1,
         presence_penalty=1
     )
     text = response.choices[0].text
+
+    est = response.usage.total_tokens * 0.00002
+    print ("{} estimated cost: {}".format("raw",est))
+    global total_cost
+    total_cost += est
+    global relevancy_2_cost
+    relevancy_2_cost += est
     return text
+
 
 def main_relevancy():
     skipCount = 0
@@ -222,19 +258,31 @@ def main_relevancy():
     for i in range(len(data["articles"])):
         try:
             path = data['articles'][str(i)]['text']
-            response = davinci(path,category,details)
-            data['articles'][str(i)]['gpt_score_reason'] = response
-            prompt = "Return only the numerator of the score from the following text, if the score is not a fraction just return the number :" + response
-            gptScore = davinciRaw(prompt)
-            gptScore = gptScore.replace("\n","")
-            gptScore = int(gptScore)
-            if gptScore < 5:
+            if path != "":
+                #response = title_relevancy_scoring(data['articles'][str(i)]['text'],category,details)
+                response = relevancy_scoring(data['articles'][str(i)]['text'],category,details)
+                data['articles'][str(i)]['test_combined'] = response
+                #data['articles'][str(i)]['gpt_score_reason'] = response
+                prompt = "Return only the numerator of the score from the following text, if the score is not a fraction just return the number :" + response
+                gptScore = fraction_fixing(prompt)
+                gptScore = gptScore.replace("\n","")
+                gptScore = int(gptScore)
+                if gptScore < 5:
+                    data['articles'][str(i)]['skip'] = "true"
+                    skipCount += 1
+                if gptScore > 10 or gptScore < 0:
+                    gptScore = 0
+                    data['articles'][str(i)]['skip'] = "true"
+                    skipCount += 1
+                data['articles'][str(i)]['gpt_relevancy_score'] = gptScore
+            else:
                 data['articles'][str(i)]['skip'] = "true"
+                data['articles'][str(i)]['gpt_relevancy_score'] = gptScore
                 skipCount += 1
-            data['articles'][str(i)]['gpt_relevancy_score'] = gptScore
         except Exception as e:
             data['articles'][str(i)]['skip'] = "true"
             data['articles'][str(i)]['gpt_relevancy_score'] = 0
+            print(e)
             pass
     with open(file_name, 'w') as outfile:
         json.dump(data, outfile)
@@ -251,13 +299,19 @@ def getSummary(text):
             model="text-davinci-003",
             prompt = intro + text,
             temperature=0.4,
-            max_tokens=1000,
+            max_tokens=300,
             top_p=1,
             frequency_penalty=1,
             presence_penalty=1
         )
-        response = response.choices[0].text
-        return response
+        text = response.choices[0].text
+        est = response.usage.total_tokens * 0.00002
+        print("{} estimated cost: {}".format("art 1",est))
+        global total_cost
+        total_cost += est
+        global summary_cost
+        summary_cost += est
+        return text
     except openai.error.InvalidRequestError:
         print("Error: Article text is too long, attempting to shorten")
         try:
@@ -265,13 +319,17 @@ def getSummary(text):
                 model="text-davinci-003",
                 prompt = intro + text,
                 temperature=0.9,
-                max_tokens=500,
+                max_tokens=300,
                 top_p=1,
                 frequency_penalty=1,
                 presence_penalty=1
             )
-            response = response.choices[0].text
-            return response
+            text = response.choices[0].text
+            est = response.usage.total_tokens * 0.00002
+            print ("{} estimated cost: {}".format(intro,est))
+            total_cost += est
+            summary_cost += est
+            return text
         except openai.error.InvalidRequestError:
             print("Error: Could not shorten article text, skipping. Article Text: ", len(text.split()))
             return ""
@@ -285,14 +343,14 @@ def main_summary():
     for article in data["articles"].values():
         path = article["skip"]
         if "summary" not in article and path == "false":
+            #summary = getSummary(article["text"])
             summary = getSummary(article["text"])
-            if summary.startswith("Summary: "):
-                summary = summary.split("Summary: ", 1)[1]
+            if summary.startswith("Summary:"):
+                summary = summary.split("Summary:", 1)[1]
             if '\n' in summary:
-                summary = summary.split("\n",1,)[1]
+                summary = summary.replace("\n","")
             article["summary"] = summary
             counter += 1
-            time.sleep(1)
         else:
             skip_count += 1
     with open(file_name, "w") as f:
@@ -371,13 +429,19 @@ def get_section_1():
             model="text-davinci-003",
             prompt = intro + numbered_list,
             temperature=0.2,
-            max_tokens=700,
+            max_tokens=300,
             top_p=1,
             frequency_penalty=1,
             presence_penalty=1
         )
-        response = response.choices[0].text
-        tldr = response
+        text = response.choices[0].text
+        est = response.usage.total_tokens * 0.00002
+        print("{} estimated cost: {}".format("tldr",est))
+        global total_cost
+        total_cost += est
+        global tldr_cost
+        tldr_cost += est
+        tldr = text
         data["tldr"] = tldr
         with open(file_name, "w") as f:
             json.dump(data, f, indent=4)
@@ -409,29 +473,41 @@ def send_grid_start(email):
         list_order.sort(key=lambda x: relevancy[x], reverse=True)
 
     except Exception as e:
+        print(e)
         pass
     summaryCount = 5
     if len(summary) < summaryCount:
         summaryCount = len(summary)
+    if len(list_order) < summaryCount:
+        summaryCount = len(list_order)
+    print(links)
+    print(titles)
     for i in range(summaryCount):
+        print(list_order[i])
+        print(titles[list_order[i]])
         full_dict["summary_link_{}".format(i+1)] = links[list_order[i]]
         full_dict["summary_title_{}".format(i+1)] = titles[list_order[i]]
         full_dict["summary_{}_text".format(i+1)] = summary[list_order[i]]
+        full_dict["relevancy_score_{}".format(i+1)] = relevancy[list_order[i]]
 
 
     links = []
     titles = []
+    score = []
     for i in data["articles"]:
-        if i not in list_order[:5]:
+        if i not in list_order[:5] and data["articles"][str(i)]["skip"] != "true":
             path = data["articles"][str(i)]
             links.append(path["link"])
             titles.append(path["title"])
+            score.append(path["gpt_relevancy_score"])
         additionalCount = 9
     if len(titles) < additionalCount:
         additionalCount = len(titles)
     for i in range(additionalCount):
         full_dict["additional_link_{}".format(i+1)] = links[i]
         full_dict["additional_title_{}".format(i+1)] = titles[i]
+        full_dict["additional_relevancy_score_{}".format(i+1)] = "Article score: {} / 10".format(score[i])
+
     send_email(full_dict,email)
     return full_dict
 
@@ -464,10 +540,8 @@ def send_email(full_dict,email):
 
 def abandon_decision():
     summaries = []
-
     with open(file_name) as f:
         data = json.load(f)
-
     for i in data["articles"]:
         try:
             path = data["articles"][str(i)]
@@ -475,7 +549,7 @@ def abandon_decision():
                 i = str(i)
                 summaries.append(path["summary"])
                 if len(summaries) < 1:
-                    print("Abandoning due to lack of summaries")
+                    print("Abandoning due to lack of summaries!!!!!")
                     exit()
         except Exception as e:
             print(e)
@@ -485,8 +559,14 @@ def abandon_decision():
 
 
 def main(email):
+    global total_cost
+    global tldr_cost
+    global relevancy_2_cost
+    global relevancy_cost
+    global summary_cost
     all_subscriptions = get_user_info(email)
     for subscription in all_subscriptions["Items"]:
+        last_cost = total_cost
         print(subscription)
         global category
         global details
@@ -508,11 +588,23 @@ def main(email):
         save_to_s3()
         save_newsletter_to_dynamo(email)
         abandon_decision()
-        main_slack(file_name)
+        #main_slack(file_name)
         get_section_1()
+        total_cost = total_cost - last_cost
+        print("Total cost of {}: ${}".format(category,total_cost))
+        print("Total Relevant Cost: ${}, Total Relevancy 2 Cost ${}, Total Summary Cost ${}, Total TLDR Cost ${}".format(relevancy_cost,relevancy_2_cost,summary_cost,tldr_cost))
         send_grid_start(email)
+        print("Sent email to {} about {}".format(email,category))
+
+    print("Total cost of all categories: ${}".format(total_cost))
+    print("Total Scoring count: "+ total_count)
 
     return os.path.basename(__file__) + " finished"
 
 main('samwesley3@gmail.com')
-#print(save_newsletter_to_dynamo())
+
+
+def test(email):
+    send_grid_start(email)
+
+#test('samwesley3@gmail.com')

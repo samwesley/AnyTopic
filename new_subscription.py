@@ -19,4 +19,4 @@ def new_subscription(email, category, category_details):
     )
     print(email +" subscribed to: " + category)
 
-#new_subscription("samwesley3@gmail.com","chicago bears","I'm looking for news on the chicago bears football team and current players.")
+new_subscription("samwesley3@gmail.com","Space Technology","Use the following rubric: 20% of score based on: must be new technology going into space or helping for space ecosystem. 20% for funding or creation of new space companies. 10% for current news <30 days old. 50% for the news specifically being related to something off earth, in space.")
