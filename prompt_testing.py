@@ -57,8 +57,8 @@ def davinciRaw(prompt):
     response = openai.Completion.create(
         model="text-davinci-003",
         prompt = prompt,
-        temperature=0.9,
-        max_tokens=1000,
+        temperature=1,
+        max_tokens=100,
         top_p=1,
         frequency_penalty=1,
         presence_penalty=1
@@ -151,4 +151,4 @@ def main(category):
             pass
     with open(file_path + 'data.json', 'w') as outfile:
         json.dump(data, outfile)
-main("sr")
+davinciRaw("Return a list of similar search terms to Space Robotics based on these details: I'm not looking for any subtopics in particular, I'm interested in new technology and general news. I'm looking for news that's within the past month. I'm looking for both news and articles from scientific journals and magazines. Be sure that this news is related to space, not just robotics.")

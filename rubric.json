@@ -1,0 +1,14 @@
+{"relevancy_rubric" :
+  ["0 = There is no article",
+    "1 = The article has no relation to the topic",
+    "2 = The article is not focused on the topic, but mentions the topic",
+    "3 = The article is not focused on the topic, but it focuses on a similar topic",
+    "4 = The article is focused on the topic, but it does not include any information that the user is interested in",
+    "5 = The article is focused on the topic, it does include information that the user is interested in, but it does not focus on the information that the user is interested in",
+    "6 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of part of the article, but not the main focus",
+    "7 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, but it is missing some information that the user is interested in",
+    "8 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, and it includes all the information that the user is interested in",
+    "9 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, and it includes all the information that the user is interested in, and it is written in a way that is easy to understand"
+    "10 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, and it includes all the information that the user is interested in, and it is written in a way that is easy to understand, and it is written in a way that is interesting to read"
+  ]
+}

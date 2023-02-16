@@ -7,7 +7,6 @@ import traceback
 import unicode_converter
 import openai
 from dotenv import load_dotenv
-import time
 from slack_bolt import App
 import json
 import slack_block_builder
@@ -179,12 +178,25 @@ def choose_main_article(file_name):
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def category_details(category,details):
+
     #category_details = "I'm not looking for any subtopics in particular, I'm interested in new technology and general news. I'm looking for news that's within the past month. I'm looking for both news and articles from scientific journals and magazines. "
+    rubric = """0 = There is no article,
+    1 = The article has no relation to the topic,
+    2 = The article is not focused on the topic, but mentions the topic,
+    3 = The article is not focused on the topic, but it focuses on a similar topic,
+    4 = The article is focused on the topic, but it does not include any information that the user is interested in,
+    5 = The article is focused on the topic, it does include information that the user is interested in, but it does not focus on the information that the user is interested in,
+    6 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of part of the article, but not the main focus,
+    7 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, but it is missing some information that the user is interested in,
+    8 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, and it includes all the information that the user is interested in,
+    9 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, and it includes all the information that the user is interested in, and it is written in a way that is easy to understand
+    10 = The article is focused on the topic, it does include information that the user is interested in, it is the focus of the article, and it includes all the information that the user is interested in, and it is written in a way that is easy to understand, and it is written in a way that is interesting to read"""
+    sample1 = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, take a step-by-step appraoch to score how relevant this article is for me from 0-10. {rubric}. Format the score as x/10 and in a seperate paragraph explain why you scored this way. Article title: "
     intro = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, generate a single integer score from 0-10 of how relevant the following article is for me. Format the score as x/10. Article title: "
-    return intro
+    return sample1
 
 def title_relevancy_scoring(title, category, details):
-    intro = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, return json with the following fields. A single integer score from 0-10 of how relevant the following article is for me (0 meaning do not ever read, 10 meaning drop everythiing and read right now). Title this fiield relevancy_score and format the score as only the numerator out of 10. If this score is higher than 4, do the following. Extract the key points from the following article and write a short 2 sentence summary of the article to be used for an email newsletter. Only respond with 2 sentences and tile this field two_summary. Lastly, return a python readable list of classifications for this article and title this field classifications. Article :"
+    intro = f"You are a news curator, I am coming to you asking for news related to {category}. {details}. Based on this guidance, return json with the following fields. A single integer score from 0-10 of how relevant the following article is for me (0 meaning do not ever read, 10 meaning drop everything and read right now). Title this field relevancy_score and format the score as only the numerator out of 10. If this score is higher than 4, do the following. Extract the key points from the following article and write a short 2 sentence summary of the article to be used for an email newsletter. Only respond with 2 sentences and tile this field two_summary. Lastly, return a python readable list of classifications for this article and title this field classifications. Article :"
     #intro = category_details(category, details)
     prompt = intro + title
     response = openai.Completion.create(
@@ -261,7 +273,8 @@ def main_relevancy():
             if path != "":
                 #response = title_relevancy_scoring(data['articles'][str(i)]['text'],category,details)
                 response = relevancy_scoring(data['articles'][str(i)]['text'],category,details)
-                data['articles'][str(i)]['test_combined'] = response
+                #data['articles'][str(i)]['test_combined'] = response
+                print(response)
                 #data['articles'][str(i)]['gpt_score_reason'] = response
                 prompt = "Return only the numerator of the score from the following text, if the score is not a fraction just return the number :" + response
                 gptScore = fraction_fixing(prompt)
@@ -343,7 +356,6 @@ def main_summary():
     for article in data["articles"].values():
         path = article["skip"]
         if "summary" not in article and path == "false":
-            #summary = getSummary(article["text"])
             summary = getSummary(article["text"])
             if summary.startswith("Summary:"):
                 summary = summary.split("Summary:", 1)[1]
@@ -423,7 +435,7 @@ def get_section_1():
                 group_of_summaries.append(data["articles"][i]["summary"])
         numbered_list = "\n".join(f"{index+1}. {item}" for index, item in enumerate(group_of_summaries))
 
-    intro = "Generate a 3-5 sentence overview of the key points from the following summaries to be used for an email newsletter. Only respond with the summary as if it were a paragraph in an article, do not uses any header. List of summaries : "
+    intro = "Generate a 3 bullet point overview of the key points from the following summaries to be used for an email newsletter. After that, return a definition of any uncommon terms from the summary (2 at most). Do not uses any header. List of summaries : "
     try:
         response = openai.Completion.create(
             model="text-davinci-003",
@@ -488,7 +500,7 @@ def send_grid_start(email):
         full_dict["summary_link_{}".format(i+1)] = links[list_order[i]]
         full_dict["summary_title_{}".format(i+1)] = titles[list_order[i]]
         full_dict["summary_{}_text".format(i+1)] = summary[list_order[i]]
-        full_dict["relevancy_score_{}".format(i+1)] = relevancy[list_order[i]]
+        full_dict["relevancy_score_{}".format(i+1)] = "Article score: {} / 10".format(relevancy[i])
 
 
     links = []
@@ -582,7 +594,58 @@ def main(email):
         texts.clear()
         titles.clear()
         keywords.clear()
-        main_duplicates(article_data,file_name)
+        main_duplicates(article_data, file_name)
+        main_relevancy()
+        main_summary()
+        save_to_s3()
+        save_newsletter_to_dynamo(email)
+        abandon_decision()
+        #main_slack(file_name)
+        get_section_1()
+        total_cost = total_cost - last_cost
+        print("Total cost of {}: ${}".format(category,total_cost))
+        print("Total Relevant Cost: ${}, Total Relevancy 2 Cost ${}, Total Summary Cost ${}, Total TLDR Cost ${}".format(relevancy_cost,relevancy_2_cost,summary_cost,tldr_cost))
+        send_grid_start(email)
+        print("Sent email to {} about {}".format(email,category))
+
+    print("Total cost of all categories: ${}".format(total_cost))
+    print("Total Scoring count: "+ total_count)
+
+    return os.path.basename(__file__) + " finished"
+
+#main('samwesley3@gmail.com')
+
+
+def test(email):
+    send_grid_start(email)
+
+def testing_main(email):
+    global total_cost
+    global tldr_cost
+    global relevancy_2_cost
+    global relevancy_cost
+    global summary_cost
+    all_subscriptions = get_user_info(email)
+    for subscription in all_subscriptions["Items"]:
+        last_cost = total_cost
+        print(subscription)
+        global category
+        global details
+        global file_name
+        urls = subscription['sub_category_url']
+        category = subscription['category']
+        details = subscription['details']
+        file_name = "test/" + today + "_" + category + "_data.json"
+        print(len(urls))
+        for url in urls:
+            getLinksFromXML(url)
+        parseArticle(file_name,email)
+        article_data = final_pull_articles(file_name, category)
+        links.clear()
+        texts.clear()
+        titles.clear()
+        keywords.clear()
+        main_duplicates(article_data, file_name)
         main_relevancy()
         main_summary()
         save_to_s3()
@@ -602,9 +665,3 @@ def main(email):
     return os.path.basename(__file__) + " finished"
 
 main('samwesley3@gmail.com')
-
-
-def test(email):
-    send_grid_start(email)
-
-#test('samwesley3@gmail.com')
